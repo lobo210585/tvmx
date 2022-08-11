@@ -4,13 +4,13 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Enfoque de la Sierra
 #EXTGRP:unsorted
-https://0401-201-114-106-79.ngrok.io/tmp_hls/stream/index.m3u8
+https://c2da-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Golden South Sd
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_037022_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
 #EXTINF:0,Canal Cultural Huauchinango
 #EXTGRP:unsorted
-https://51c2-201-114-106-79.ngrok.io/tmp_hls/stream/index.m3u8
+https://2cb4-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Estrellas -1
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_037022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
