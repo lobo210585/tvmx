@@ -25,7 +25,7 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 http://200.59.213.30:9981/stream/channelid/618905506?profile=pass
 #EXTINF:0,CARTOONITO
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=115&amp;
+https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
 #EXTINF:0,El Reino Infantil
 #EXTGRP:unsorted
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
