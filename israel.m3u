@@ -47,9 +47,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0,IMAGEN TV
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=65&f=.m3u8
-#EXTINF:0,el heraldo noticias
+#EXTINF:0,LOS SIMPSON
 #EXTGRP:unsorted
-http://magmas5.com:8000/live/malotv/gratis/148883.m3u8
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
 #EXTINF:0,Canal 5 (Mx)
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
@@ -74,9 +74,6 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:0,Extrema TV (720p)
 #EXTGRP:unsorted
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0,Dios Tv Kids
-#EXTGRP:unsorted
-https://emisoras.hn:8081/diostevekids/index.m3u8
 #EXTINF:0,Planeta tv movies
 #EXTGRP:unsorted
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
