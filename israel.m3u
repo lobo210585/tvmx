@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,MEXICO AZTECA UNO SD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Enfoque de la Sierra
 #EXTGRP:unsorted
 https://c2da-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
