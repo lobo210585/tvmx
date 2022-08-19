@@ -4,7 +4,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Enfoque de la Sierra
 #EXTGRP:unsorted
-https://c2da-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
+https://e25c-201-114-106-75.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Golden South Sd
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
