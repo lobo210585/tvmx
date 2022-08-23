@@ -7,16 +7,16 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://e25c-201-114-106-75.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Golden South Sd
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
 #EXTINF:0,Canal Cultural Huauchinango
 #EXTGRP:unsorted
 https://2cb4-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Estrellas -1
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
 #EXTINF:0,Estrellas -2
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
 #EXTINF:0,PLANETATV KIDS
 #EXTGRP:unsorted
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
@@ -25,16 +25,13 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 http://200.59.213.30:9981/stream/channelid/618905506?profile=pass
 #EXTINF:0,CARTOONITO
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
 #EXTINF:0,El Reino Infantil
 #EXTGRP:unsorted
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,La Acedemia 24/7
-#EXTGRP:unsorted
-https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8
 #EXTINF:0,Foro Tv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
 #EXTINF:0,N +
 #EXTGRP:unsorted
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_3.m3u8
@@ -46,13 +43,16 @@ https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_3.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0,IMAGEN TV
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tv1.php?c=65&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/tv1.php?c=65&f=.m3u8
 #EXTINF:0,Canal 5 (Mx)
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
 #EXTINF:0,LOS SIMPSON
 #EXTGRP:unsorted
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
+#EXTINF:0,LOS SIMPSON 2
+#EXTGRP:unsorted
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:0,MULTIMEDIOS MTY
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -67,7 +67,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0,Distrito Comedia
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=78&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=78&f=.m3u8
 #EXTINF:0,Capital 21
 #EXTGRP:unsorted
 https://video.cdmx.gob.mx/livestream/stream.m3u8
@@ -76,7 +76,7 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0,Planeta tv movies
 #EXTGRP:unsorted
-https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
+https://tls-cl.cdnz.cl/planetatvmovie/live/playlist.m3u8
 #EXTINF:0,TVBuap
 #EXTGRP:unsorted
 https://tvenvivo.buap.mx/livestream/stream.m3u8
@@ -86,6 +86,9 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:0,SET Televisión Canal 26.2 (720p) [Not 24/7]
 #EXTGRP:unsorted
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:0,CHESPIRITO
+#EXTGRP:unsorted
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/415.m3u8
 #EXTINF:0,EL CHAVO TV
 #EXTGRP:unsorted
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
@@ -100,424 +103,421 @@ https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
 #EXTINF:0,CANAL 4
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2274&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2274&f=.m3u8  
 #EXTINF:0,CANAL 4.1
 #EXTGRP:unsorted
 https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
-#EXTINF:0,CORT OAXACA
-#EXTGRP:unsorted
-https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 #EXTINF:0,TVMAS
 #EXTGRP:unsorted
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
 #EXTINF:0,Dpeliculas
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
 #EXTINF:0,Dpeliculas +
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
 #EXTINF:0,Golden Edge
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=124&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=124&f=.m3u8
 #EXTINF:0,Golden Edge Sd
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
 #EXTINF:0,Golden Plus
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
 #EXTINF:0,Golden South
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
 #EXTINF:0,Star Channel
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=46&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=46&f=.m3u8
 #EXTINF:0,Sony Channel
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=48&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=48&f=.m3u8
 #EXTINF:0,Warner
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=52&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=52&f=.m3u8
 #EXTINF:0,E!
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=55&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=55&f=.m3u8
 #EXTINF:0,Universal Channel
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=57&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=57&f=.m3u8
 #EXTINF:0,Syfy
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=59&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=59&f=.m3u8
 #EXTINF:0,FX
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=60&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=60&f=.m3u8
 #EXTINF:0,A&E
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=62&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=62&f=.m3u8
 #EXTINF:0,Az Corazon
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=70&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=70&f=.m3u8
 #EXTINF:0,TNT Series
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=71&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=71&f=.m3u8
 #EXTINF:0,Gourmet
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=74&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=74&f=.m3u8
 #EXTINF:0,Garage Tv
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=75&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=75&f=.m3u8
 #EXTINF:0,Glitz
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=76&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=76&f=.m3u8
 #EXTINF:0,Tru Tv
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=79&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=79&f=.m3u8
 #EXTINF:0,TBS
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=81&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=81&f=.m3u8
 #EXTINF:0,Tlnovelas
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=83&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=83&f=.m3u8
 #EXTINF:0,Az Mundo
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=84&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=84&f=.m3u8
 #EXTINF:0,Telemundo Internacional
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=85&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=85&f=.m3u8
 #EXTINF:0,Discovery Channel
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=86&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=86&f=.m3u8
 #EXTINF:0,History
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=89&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=89&f=.m3u8
 #EXTINF:0,Nat Geo
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=91&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=91&f=.m3u8
 #EXTINF:0,Lifetime
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=94&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=94&f=.m3u8
 #EXTINF:0,Discovery Theater
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=95&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=95&f=.m3u8
 #EXTINF:0,H&H Discovery
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=96&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=96&f=.m3u8
 #EXTINF:0,Discovery Science (SCI)
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=98&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=98&f=.m3u8
 #EXTINF:0,Discovery World
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=101&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=101&f=.m3u8
 #EXTINF:0,WOBI
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=102&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=102&f=.m3u8
 #EXTINF:0,Tooncast
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=108&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=108&f=.m3u8
 #EXTINF:0,Discovery Kids
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=109&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=109&f=.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=112&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=112&f=.m3u8
 #EXTINF:0,Disney Channel
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=113&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=113&f=.m3u8
 #EXTINF:0,Cartoonito
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=115&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=115&f=.m3u8
 #EXTINF:0,BabyTV
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=116&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=116&f=.m3u8
 #EXTINF:0,NickJr
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=117&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=117&f=.m3u8
 #EXTINF:0,Disney Jr
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=118&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=118&f=.m3u8
 #EXTINF:0,D Pelicula +
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=121&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=121&f=.m3u8
 #EXTINF:0,Golden +
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=122&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=122&f=.m3u8
 #EXTINF:0,Golden
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=123&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=123&f=.m3u8
 #EXTINF:0,TNT
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=126&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=126&f=.m3u8
 #EXTINF:0,TCM
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=128&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=128&f=.m3u8
 #EXTINF:0,Space
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=129&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=129&f=.m3u8
 #EXTINF:0,AMC
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=328&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=328&f=.m3u8
 #EXTINF:0,Studio Universal
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=132&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=132&f=.m3u8
 #EXTINF:0,I-Sat
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=135&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=135&f=.m3u8
 #EXTINF:0,Europe-Europa
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=136&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=136&f=.m3u8
 #EXTINF:0,Films&Arts
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=137&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=137&f=.m3u8
 #EXTINF:0,Morbido
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=140&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=140&f=.m3u8
 #EXTINF:0,Cinecanal
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=149&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=149&f=.m3u8
 #EXTINF:0,Cinemax
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=158&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=158&f=.m3u8
 #EXTINF:0,ESPN Xtra
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=167&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=167&f=.m3u8
 #EXTINF:0,ESPN 2
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=168&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=168&f=.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=169&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=169&f=.m3u8
 #EXTINF:0,Fox Sports
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=170&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=170&f=.m3u8
 #EXTINF:0,Fox Sports HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=171&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=171&f=.m3u8
 #EXTINF:0,Fox Sports 2
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=172&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=172&f=.m3u8
 #EXTINF:0,TUDN
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=174&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=174&f=.m3u8
 #EXTINF:0,Fox Sports 3
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=178&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=178&f=.m3u8
 #EXTINF:0,GOLF
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=179&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=179&f=.m3u8
 #EXTINF:0,AyM Sports
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=180&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=180&f=.m3u8
 #EXTINF:0,ADN40 (2)
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=184&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=184&f=.m3u8
 #EXTINF:0,CNN ENG
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=185&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=185&f=.m3u8
 #EXTINF:0,CNN Live ENG
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=186&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=186&f=.m3u8
 #EXTINF:0,CNN ESP
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=187&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=187&f=.m3u8
 #EXTINF:0,Fox News ENG
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=188&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=188&f=.m3u8
 #EXTINF:0,Bloomberg ENG
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=190&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=190&f=.m3u8
 #EXTINF:0,BBC ENG
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=191&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=191&f=.m3u8
 #EXTINF:0,Aljazeera ENG
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=192&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=192&f=.m3u8
 #EXTINF:0,NTN24
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=194&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=194&f=.m3u8
 #EXTINF:0,HLN ENG
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=197&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=197&f=.m3u8
 #EXTINF:0,Tve
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=198&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=198&f=.m3u8
 #EXTINF:0,Antena 3 Int
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=199&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=199&f=.m3u8
 #EXTINF:0,Star Channel HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=201&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=201&f=.m3u8
 #EXTINF:0,DW
 #EXTGRP:unsorted
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 #EXTINF:0,Warner HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=205&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=205&f=.m3u8
 #EXTINF:0,Universal Channel HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=207&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=207&f=.m3u8
 #EXTINF:0,FX HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=209&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=209&f=.m3u8
 #EXTINF:0,MTV Live
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=211&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=211&f=.m3u8
 #EXTINF:0,MTV
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=212&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=212&f=.m3u8
 #EXTINF:0,MTV Hits
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=213&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=213&f=.m3u8
 #EXTINF:0,MTV 80s
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=214&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=214&f=.m3u8
 #EXTINF:0,TruTv HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=215&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=215&f=.m3u8
 #EXTINF:0,MTV 00s
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=217&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=217&f=.m3u8
 #EXTINF:0,Telehit
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
 #EXTINF:0,Hola Tv HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=219&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=219&f=.m3u8
 #EXTINF:0,Telehit +
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=220&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=220&f=.m3u8
 #EXTINF:0,Bandamax
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
 #EXTINF:0,Az Clic
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=223&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=223&f=.m3u8
 #EXTINF:0,Nick
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=331&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=331&f=.m3u8
 #EXTINF:0,D Pelicula
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=335&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=335&f=.m3u8
 #EXTINF:0,Comedy Central
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=340&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=340&f=.m3u8
 #EXTINF:0,ESPN 3
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=345&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=345&f=.m3u8
 #EXTINF:0,Canal 6 (Multimedios)
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2305&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2305&f=.m3u8
 #EXTINF:0,Imagen Television
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:0,A mas (A+)
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2316&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2316&f=.m3u8
 #EXTINF:0,El Financiero
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2167&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2167&f=.m3u8
 #EXTINF:0,Aprende
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=401&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=401&f=.m3u8
 #EXTINF:0,Discovery ID
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2376&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2376&f=.m3u8
 #EXTINF:0,Bit Me
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2591&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2591&f=.m3u8
 #EXTINF:0,Paramount Channel
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1726&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1726&f=.m3u8
 #EXTINF:0,TUDN (2)
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1975&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1975&f=.m3u8
 #EXTINF:0,Claro Sports HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2564&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2564&f=.m3u8
 #EXTINF:0,Adrenalina Sports HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2404&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2404&f=.m3u8
 #EXTINF:0,U Beat HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=3335&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=3335&f=.m3u8
 #EXTINF:0,TVC Deportes
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2157&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2157&f=.m3u8
 #EXTINF:0,LAS Deportes
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2089&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2089&f=.m3u8
 #EXTINF:0,Mega Noticias
 #EXTGRP:unsorted
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35/variant.m3u8?url=3557687d9739fe80c9d1fd917fe13cf8-077001aa1dd72f284b5828f482d2b4bba9097cf3cfa6af027a003c24c53681ae789a67649d0687cdc40136299a930a3c33c7d9f6d0e7bc426ccbac77ced41a69b4828757cd5b67f575717d385e1434bdcafd4da8358e0275c6a9988c272bc4271ad81bc1096d8b49da7fe31fca5c460b84fc2c16eb7d7faa250ed7d55e43fe29dc4e66daeddf9bca2a247d1810ecb2730c32ba4a58b324166e6180bce6a4d746e2049888216ef5978fad695ae63cb3d51f3ddc663b68891e34e6f713029d5777&x-plex-token=1b_5gzaRu8jTyxhV9HQs
 #EXTINF:0,AzCorazon HD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=453&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=453&f=.m3u8
 #EXTINF:0,Multimedios CDMX
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1253&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1253&f=.m3u8
 #EXTINF:0,NU9VE HD
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1783&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1783&f=.m3u8  
 #EXTINF:0,Las Estrellas HD
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1784&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1784&f=.m3u8  
 #EXTINF:0,Canal 5 HD (2)
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1785&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1785&f=.m3u8
 #EXTINF:0,ONCE HD
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1942&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1942&f=.m3u8  
 #EXTINF:0,MVS TV
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2149&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2149&f=.m3u8  
 #EXTINF:0,TVC
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2156&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2156&f=.m3u8
 #EXTINF:0,CANAL 8
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2307&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2307&f=.m3u8  
 #EXTINF:0,TELEVISA PUEBLA
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2312&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2312&f=.m3u8 
 #EXTINF:0,Nick Music
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1708&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1708&f=.m3u8  
 #EXTINF:0,Baby First
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1984&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1984&f=.m3u8  
 #EXTINF:0,Nick Teen
 #EXTGRP:unsorted
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,Unicable
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=423&pid=423&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=423&pid=423&token=SrRegio&f=.m3u8
 #EXTINF:0,Mas Chic
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1842&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1842&f=.m3u8  
 #EXTINF:0,A3Series
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2113&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2113&f=.m3u8 
 #EXTINF:0,Fuel TV HD
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2587&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2587&f=.m3u8 
 #EXTINF:0,Teleritmo
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=1943&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=1943&f=.m3u8
 #EXTINF:0,FoodNetwork
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2145&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2145&f=.m3u8
 #EXTINF:0,STAR  TVE
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2375&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2375&f=.m3u8
 #EXTINF:0,DISCOVERY TURBO
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2379&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2379&f=.m3u8  
 #EXTINF:0,CURIOSITY STREAM
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2594&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2594&f=.m3u8  
 #EXTINF:0,RT ESPAÑOL
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2091&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2091&f=.m3u8
 #EXTINF:0,FRANCE 24
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/tpnuevo01.php?tokennn=Regio&c=2402&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_228022_/tpnuevo01.php?tokennn=Regio&c=2402&f=.m3u8 
 #EXTINF:0,Nick Clásico
 #EXTGRP:unsorted
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -826,265 +826,265 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,40 Y 20
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
 #EXTINF:0,Adrenalina Sport
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
 #EXTINF:0,Afizzionados
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
 #EXTINF:0,Alegrijes Y Rebujos
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=319&pid=319&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=319&pid=319&token=SrRegio&f=.m3u8
 #EXTINF:0,Amigas Y Rivales
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=320&pid=320&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=320&pid=320&token=SrRegio&f=.m3u8
 #EXTINF:0,Amores Verdaderos
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=305&pid=305&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=305&pid=305&token=SrRegio&f=.m3u8
 #EXTINF:0,Aqui Y Ahora
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=306&pid=306&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=306&pid=306&token=SrRegio&f=.m3u8
 #EXTINF:0,Atv+
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=258&pid=258&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=258&pid=258&token=SrRegio&f=.m3u8
 #EXTINF:0,Bein Sports Xtra
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
 #EXTINF:0,Bitme
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=401&pid=401&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=401&pid=401&token=SrRegio&f=.m3u8
 #EXTINF:0,Cine 1
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
 #EXTINF:0,Cine 2
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
 #EXTINF:0,Cine 3
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
 #EXTINF:0,Cine Club - Prendetv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=192&pid=192&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=192&pid=192&token=SrRegio&f=.m3u8
 #EXTINF:0,Cine Del Ayer
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
 #EXTINF:0,Clase 406
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=322&pid=322&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=322&pid=322&token=SrRegio&f=.m3u8
 #EXTINF:0,Cnn Colombia
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
 #EXTINF:0,Comedy Tv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
 #EXTINF:0,Como Dice El Dicho
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=341&pid=341&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=341&pid=341&token=SrRegio&f=.m3u8
 #EXTINF:0,Corazón Salvaje
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=325&pid=325&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=325&pid=325&token=SrRegio&f=.m3u8
 #EXTINF:0,Crónicas
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=315&pid=315&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=315&pid=315&token=SrRegio&f=.m3u8
 #EXTINF:0,Cuidado Con El Angel
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=316&pid=316&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=316&pid=316&token=SrRegio&f=.m3u8
 #EXTINF:0,Del Mercado Al Plato
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=317&pid=317&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=317&pid=317&token=SrRegio&f=.m3u8
 #EXTINF:0,Durmiendo Con Mi Jefe
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=312&pid=312&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=312&pid=312&token=SrRegio&f=.m3u8
 #EXTINF:0,El Privilegio De Mandar
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=313&pid=313&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=313&pid=313&token=SrRegio&f=.m3u8
 #EXTINF:0,Euronews
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=255&pid=255&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=255&pid=255&token=SrRegio&f=.m3u8
 #EXTINF:0,Failarmy
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=197&pid=197&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=197&pid=197&token=SrRegio&f=.m3u8
 #EXTINF:0,Familia P. Luche
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=311&pid=311&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=311&pid=311&token=SrRegio&f=.m3u8
 #EXTINF:0,Fun Videos
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
 #EXTINF:0,Héroes Del Norte
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=323&pid=323&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=323&pid=323&token=SrRegio&f=.m3u8
 #EXTINF:0,Juana La Virgen
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=327&pid=327&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=327&pid=327&token=SrRegio&f=.m3u8
 #EXTINF:0,Kids
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
 #EXTINF:0,La Promesa
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=343&pid=343&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=343&pid=343&token=SrRegio&f=.m3u8
 #EXTINF:0,La Rosa De Guadalupe
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=344&pid=344&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=344&pid=344&token=SrRegio&f=.m3u8
 #EXTINF:0,La Selecc10n
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=345&pid=345&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=345&pid=345&token=SrRegio&f=.m3u8
 #EXTINF:0,Las Estrellas
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
 #EXTINF:0,Latidos Music
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=257&pid=257&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=257&pid=257&token=SrRegio&f=.m3u8
 #EXTINF:0,Level Up - Games
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=263&pid=263&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=263&pid=263&token=SrRegio&f=.m3u8
 #EXTINF:0,Lo Mejor De La Liga Mx - Prendetv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
 #EXTINF:0,Lo Que Diga El Corazon
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=346&pid=346&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=346&pid=346&token=SrRegio&f=.m3u8
 #EXTINF:0,Local View
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=402&pid=402&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=402&pid=402&token=SrRegio&f=.m3u8
 #EXTINF:0,Local View 2
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=403&pid=403&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=403&pid=403&token=SrRegio&f=.m3u8
 #EXTINF:0,Love Nature
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=390&pid=390&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=390&pid=390&token=SrRegio&f=.m3u8
 #EXTINF:0,María Mercedes
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=328&pid=328&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=328&pid=328&token=SrRegio&f=.m3u8
 #EXTINF:0,Media +
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
 #EXTINF:0,Mi Gorda Bella
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=334&pid=334&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=334&pid=334&token=SrRegio&f=.m3u8
 #EXTINF:0,Muchachitas
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=331&pid=331&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=331&pid=331&token=SrRegio&f=.m3u8
 #EXTINF:0,Muchachitas Como Tu
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=332&pid=332&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=332&pid=332&token=SrRegio&f=.m3u8
 #EXTINF:0,My Time Movies
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=261&pid=261&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=261&pid=261&token=SrRegio&f=.m3u8
 #EXTINF:0,Noticias Univision 24/7
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=254&pid=254&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=254&pid=254&token=SrRegio&f=.m3u8
 #EXTINF:0,Novelas De Oro - Prendetv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=196&pid=196&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=196&pid=196&token=SrRegio&f=.m3u8
 #EXTINF:0,Novelas De Romance - Prendetv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=194&pid=194&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=194&pid=194&token=SrRegio&f=.m3u8
 #EXTINF:0,Novelas En Familia - Prendetv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=195&pid=195&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=195&pid=195&token=SrRegio&f=.m3u8
 #EXTINF:0,Nuestra Vision
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=262&pid=262&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=262&pid=262&token=SrRegio&f=.m3u8
 #EXTINF:0,Papa A Toda Madre
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=336&pid=336&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=336&pid=336&token=SrRegio&f=.m3u8
 #EXTINF:0,People Are Awesome
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=39&pid=39&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=39&pid=39&token=SrRegio&f=.m3u8
 #EXTINF:0,Que Bonito Amor
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=329&pid=329&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=329&pid=329&token=SrRegio&f=.m3u8
 #EXTINF:0,Rcn Mas
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=286&pid=286&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=286&pid=286&token=SrRegio&f=.m3u8
 #EXTINF:0,Rebelde
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=335&pid=335&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=335&pid=335&token=SrRegio&f=.m3u8
 #EXTINF:0,Retro Peli
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
 #EXTINF:0,Revry-Lgbtq Tv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=139&pid=139&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=139&pid=139&token=SrRegio&f=.m3u8
 #EXTINF:0,Sortilegio
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=337&pid=337&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=337&pid=337&token=SrRegio&f=.m3u8
 #EXTINF:0,Soy Tu Dueña
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=339&pid=339&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=339&pid=339&token=SrRegio&f=.m3u8
 #EXTINF:0,Tele Musica
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
 #EXTINF:0,Tele Musica+
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
 #EXTINF:0,Teresa
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=324&pid=324&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=324&pid=324&token=SrRegio&f=.m3u8
 #EXTINF:0,The Weather Channel(Es)
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=431&pid=431&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=431&pid=431&token=SrRegio&f=.m3u8
 #EXTINF:0,The Weather Channel(Es) Hd
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=453&pid=453&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=453&pid=453&token=SrRegio&f=.m3u8
 #EXTINF:0,Tln Novelas
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=421&pid=421&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=421&pid=421&token=SrRegio&f=.m3u8
 #EXTINF:0,Tn23
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=259&pid=259&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=259&pid=259&token=SrRegio&f=.m3u8
 #EXTINF:0,Tres Veces Ana
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=321&pid=321&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=321&pid=321&token=SrRegio&f=.m3u8
 #EXTINF:0,Triunfo Del Amor
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=338&pid=338&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=338&pid=338&token=SrRegio&f=.m3u8
 #EXTINF:0,Tudn
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=374&pid=374&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=374&pid=374&token=SrRegio&f=.m3u8
 #EXTINF:0,Tv Venta
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=352&pid=352&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=352&pid=352&token=SrRegio&f=.m3u8
 #EXTINF:0,Unknown 101
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=330&pid=330&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=330&pid=330&token=SrRegio&f=.m3u8
 #EXTINF:0,Unknown 262
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=446&pid=446&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=446&pid=446&token=SrRegio&f=.m3u8
 #EXTINF:0,Vecinos
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
 #EXTINF:0,Vevo
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
 #EXTINF:0,Videos Chistosos
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
 #EXTINF:0,Videos Chistosos 2
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
 #EXTINF:0,Vivo Play
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=260&pid=260&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=260&pid=260&token=SrRegio&f=.m3u8
 #EXTINF:0,Cine
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=449&pid=449&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=449&pid=449&token=SrRegio&f=.m3u8
 #EXTINF:0,Cine Sd
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
 #EXTINF:0,Deportes
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
 #EXTINF:0,Novelas
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=445&pid=445&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=445&pid=445&token=SrRegio&f=.m3u8
 #EXTINF:0,Novelas Hd
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=448&pid=448&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=448&pid=448&token=SrRegio&f=.m3u8
 #EXTINF:0,Novelas Sd
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=447&pid=447&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=447&pid=447&token=SrRegio&f=.m3u8
 #EXTINF:0,Xh Derbez - Nosotros Los Guapos
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_818022_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_228022_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
