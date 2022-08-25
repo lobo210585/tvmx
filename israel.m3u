@@ -76,7 +76,7 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0,Planeta tv movies
 #EXTGRP:unsorted
-https://tls-cl.cdnz.cl/planetatvmovie/live/playlist.m3u8
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0,TVBuap
 #EXTGRP:unsorted
 https://tvenvivo.buap.mx/livestream/stream.m3u8
@@ -110,6 +110,26 @@ https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 #EXTINF:0,TVMAS
 #EXTGRP:unsorted
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
+#EXTINF:0,HBO Family HD
+http://45.5.149.104:8000/play/a1ak/index.m3u8
+#EXTINF:0,HBO HD
+http://45.5.149.104:8000/play/a1ah/index.m3u8
+#EXTINF:0,HBO Mundi
+http://45.5.149.104:8000/play/a1b0/index.m3u8
+#EXTINF:0,HBO POP
+http://45.5.149.104:8000/play/a1az/index.m3u8
+#EXTINF:0,HBO Plus HD
+http://45.5.149.104:8000/play/a1aj/index.m3u8
+#EXTINF:0,HBO Signature
+http://45.5.149.104:8000/play/a1b2/index.m3u8
+#EXTINF:0,HBO XTREME
+http://45.5.149.104:8000/play/a1al/index.m3u8
+#EXTINF:0,HBO Xtreme
+http://45.5.149.104:8000/play/a1b1/index.m3u8
+#EXTINF:0,HBO2 HD
+http://45.5.149.104:8000/play/a1ai/index.m3u8
+#EXTINF:0,HTV
+http://45.5.149.104:8000/play/a19i/index.m3u8
 #EXTINF:0,Dpeliculas
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
