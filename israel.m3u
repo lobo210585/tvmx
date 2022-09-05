@@ -22,7 +22,7 @@ http://regioplay.xyz/php/SR_REGIO_209022_/vix.php?c=415&pid=415&token=SrRegio&f=
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:0,NICK JR
 #EXTGRP:unsorted
-http://200.59.213.30:9981/stream/channelid/618905506?profile=pass
+http://45.232.210.1:8062/play/a0bg/index.m3u8
 #EXTINF:0,CARTOONITO
 #EXTGRP:unsorted
 https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
