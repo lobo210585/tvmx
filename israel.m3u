@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://90f2-201-114-105-69.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Golden South Sd
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_209022_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
+http://poptv.vip:8080/live/5811654256560145/2051654256560145/18596.ts
 #EXTINF:0,Canal Cultural Huauchinango
 #EXTGRP:unsorted
 https://7964-201-114-105-69.ngrok.io/tmp_hls/stream/index.m3u8
