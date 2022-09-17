@@ -25,7 +25,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 http://200.48.212.114:8000/play/a040/index.m3u8
 #EXTINF:0,CARTOONITO
 #EXTGRP:unsorted
-https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8
 #EXTINF:0,El Reino Infantil
 #EXTGRP:unsorted
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -43,10 +43,10 @@ https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_3.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0,IMAGEN TV
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_019022_/tv1.php?c=65&f=.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/125.m3u8
 #EXTINF:0,Canal 5 (Mx)
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/60.m3u8
 #EXTINF:0,LOS SIMPSON
 #EXTGRP:unsorted
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
@@ -67,7 +67,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0,Distrito Comedia
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/85.m3u8
 #EXTINF:0,Capital 21
 #EXTGRP:unsorted
 https://video.cdmx.gob.mx/livestream/stream.m3u8
@@ -111,15 +111,15 @@ http://svtv.xyz:8080/live/jhonxi/GCQAE/31255.m3u8
 #EXTGRP:unsorted
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
 #EXTINF:0,HBO HD
-http://45.181.122.100:8000/play/a052/index.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
 #EXTINF:0,HBO2 HD
-http://45.181.122.100:8000/play/a045/index.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/119.m3u8
 #EXTINF:0,HBO family
-http://45.181.122.100:8000/play/a048/index.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/120.m3u8
 #EXTINF:0,HBO Plus HD
-http://45.181.122.100:8000/play/a046/index.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/121.m3u8
 #EXTINF:0,HBO Xtreme
-http://45.181.122.100:8000/play/a047/index.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/128.m3u8
 #EXTINF:0,Dpeliculas
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
