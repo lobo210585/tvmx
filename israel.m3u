@@ -135,17 +135,11 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/116.m3u8
 #EXTINF:0,Golden Plus
 #EXTGRP:unsorted
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/117.m3u8
-#EXTINF:0,Golden South
-#EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
 #EXTINF:0,DW
 #EXTGRP:unsorted
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-#EXTINF:0,Mega Noticias
-#EXTGRP:unsorted
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35/variant.m3u8?url=3557687d9739fe80c9d1fd917fe13cf8-077001aa1dd72f284b5828f482d2b4bba9097cf3cfa6af027a003c24c53681ae789a67649d0687cdc40136299a930a3c33c7d9f6d0e7bc426ccbac77ced41a69b4828757cd5b67f575717d385e1434bdcafd4da8358e0275c6a9988c272bc4271ad81bc1096d8b49da7fe31fca5c460b84fc2c16eb7d7faa250ed7d55e43fe29dc4e66daeddf9bca2a247d1810ecb2730c32ba4a58b324166e6180bce6a4d746e2049888216ef5978fad695ae63cb3d51f3ddc663b68891e34e6f713029d5777&x-plex-token=1b_5gzaRu8jTyxhV9HQs
 #EXTINF:0 , Azteca Clic
-https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=11&f=.m3u8
+http://190.61.102.67:3000/play/a02n
 #EXTINF:0 , NU9VE
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=24&f=.m3u8
 #EXTINF:0 , 34.1
