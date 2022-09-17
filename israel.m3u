@@ -141,13 +141,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 #EXTINF:0 , Azteca Clic
 http://190.61.102.67:3000/play/a02n
 #EXTINF:0 , NU9VE
-https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=24&f=.m3u8
-#EXTINF:0 , 34.1
-https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=44&f=.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/113.m3u8
 #EXTINF:0 , Star Channel
-https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=46&f=.m3u8
+http://190.61.102.67:3000/play/a03a
 #EXTINF:0 , Sony Channel
-https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=48&f=.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/143.m3u8
 #EXTINF:0 , Warner
 https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=52&f=.m3u8
 #EXTINF:0 , E!
