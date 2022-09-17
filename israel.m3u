@@ -128,13 +128,13 @@ http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=354&pid=354&token=SrRegio&f=
 http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
 #EXTINF:0,Golden Edge
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?tokennn=Regio&c=124&f=.m3u8
+http://190.61.102.67:3000/play/a013
 #EXTINF:0,Golden Edge Sd
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/116.m3u8
 #EXTINF:0,Golden Plus
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/117.m3u8
 #EXTINF:0,Golden South
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
