@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,MEXICO AZTECA UNO SD
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Enfoque de la Sierra 1
 #EXTGRP:unsorted
 https://3678-201-114-105-196.ngrok.io/tmp_hls/stream/index.m3u8
@@ -10,7 +10,7 @@ https://3678-201-114-105-196.ngrok.io/tmp_hls/stream/index.m3u8
 http://190.61.102.67:31589/play/a00g/index.m3u8
 #EXTINF:0,Canal Cultural Huauchinango
 #EXTGRP:unsorted
-https://7634-201-114-105-69.ngrok.io/tmp_hls/stream/index.m3u8
+https://21ed-201-114-106-170.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Estrellas -1
 #EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
@@ -19,7 +19,7 @@ http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=414&pid=414&token=SrRegio&f=
 http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
 #EXTINF:0,PLANETATV KIDS
 #EXTGRP:unsorted
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0,NICK JR
 #EXTGRP:unsorted
 http://svtv.xyz:8080/live/jhonxi/GCQAE/129.m3u8
