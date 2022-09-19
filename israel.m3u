@@ -4,10 +4,10 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Enfoque de la Sierra 1
 #EXTGRP:unsorted
-https://3678-201-114-105-196.ngrok.io/tmp_hls/stream/index.m3u8
+https://2af5-201-114-106-170.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Las Estrellas
 #EXTGRP:unsorted
-http://190.61.102.67:31589/play/a00g/index.m3u8
+https://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo03.php?key=SrRegio&c=17&f=.m3u8
 #EXTINF:0,Canal Cultural Huauchinango
 #EXTGRP:unsorted
 https://21ed-201-114-106-170.ngrok.io/tmp_hls/stream/index.m3u8
@@ -22,7 +22,7 @@ http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=415&pid=415&token=SrRegio&f=
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0,NICK JR
 #EXTGRP:unsorted
-http://200.48.212.114:8000/play/a040/index.m3u8
+http://45.238.21.106:7778/play/a03o/index.m3u8
 #EXTINF:0,CARTOONITO
 #EXTGRP:unsorted
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8
@@ -1006,4 +1006,5 @@ http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=448&pid=448&token=SrRegio&f=
 http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=447&pid=447&token=SrRegio&f=.m3u8
 #EXTINF:0,Xh Derbez - Nosotros Los Guapos
 #EXTGRP:unsorted
+http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_019022_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
