@@ -97,7 +97,7 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklis
 http://regioplay.xyz/php/SR_REGIO_229022_/tpnuevo03.php?key=SrRegio&c=2274&f=.m3u8  
 #EXTINF:0,CANAL 4.1
 #EXTGRP:unsorted
-https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+[480p]https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 #EXTINF:0,TVMAS
 #EXTGRP:unsorted
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
