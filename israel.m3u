@@ -25,7 +25,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,Foro Tv
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_800122_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
 #EXTINF:0,N +
 #EXTGRP:unsorted
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_3.m3u8
