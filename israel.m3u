@@ -5,9 +5,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Enfoque de la Sierra 1
 #EXTGRP:unsorted
 https://4fe5-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
-#EXTINF:0,Las Estrellas 1
+#EXTINF:0,Las Estrellas 
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=1784&f=.m3u8 
+https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=17&f=.m3u8 
 #EXTINF:0,Canal Cultural Huauchinango
 #EXTGRP:unsorted
 https://50eb-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
