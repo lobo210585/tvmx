@@ -4,8 +4,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Enfoque de la Sierra 1
 #EXTGRP:unsorted
-https://4fe5-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
-#EXTINF:0,Las Estrellas 
+https://ingest4-3816.boxcast.com/false-shock/b5t8ku3vsgbpjsslrp5x/1080p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTM4MTYuYm94Y2FzdC5jb20vZmFsc2Utc2hvY2svYjV0OGt1M3ZzZ2JwanNzbHJwNXgvMTA4MHAtYnl0ZXJhbmdlcy1leHQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NjM4MDQ1MH19fV19&Signature=b79SznXuLfGm2amwKYexQcaaSDvhDJAYbzYyDijtqT2CdTl0jVfbwX9C1r1MyVopl5~L9fVbBd-2DXbhWtJvDIyGi3fSEsVm6jmDKpeblZDv-sM1soAlfQFZnOat51rz-~ksmmTi67fw5O2E2ab-mbcqpFGyDGCAuyrJq~2i3GRp8IVVpRMWThmdeHpuTIXimwpuFCyrms4f5qx9kCtR69mijPz0nq6EkB~C2Jiw2wnJ8vaSOoGc5ziB-MyRd7ooXJmjttwIXHR4L5E5t1M-ZUjh5IBTvH9APAznHNjXgSCyu0qcqO9uOOeNkjxSKGtCjOf85S0WbrxPfNdL1RTk1w__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA#EXTINF:0,Las Estrellas 
 #EXTGRP:unsorted
 https://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo03.php?key=SrRegio&c=17&f=.m3u8
 #EXTINF:0,Canal Cultural Huauchinango
