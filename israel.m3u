@@ -16,7 +16,7 @@ https://50eb-201-114-106-142.ngrok.io/tmp_hls/stream/index.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0,NICK JR
 #EXTGRP:unsorted
-http://streamgo.vip:8008/200/200/160119
+https://v3.playerlatino.live/stream/m3u8/79
 #EXTINF:0,CARTOONITO
 #EXTGRP:unsorted
 https://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
