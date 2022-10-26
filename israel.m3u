@@ -46,7 +46,7 @@ http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo03.php?key=SrRegio&c=1785&f=.m3
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
 #EXTINF:0,LOS SIMPSON 2
 #EXTGRP:unsorted
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+http://200.24.132.99:8000/play/a01o
 #EXTINF:0,MULTIMEDIOS MTY
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -106,19 +106,19 @@ https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
 #EXTINF:0,HBO HD
 #EXTGRP:unsorted
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
+http://177.234.254.38:8000/play/a02a/index.m3u8
 #EXTINF:0,HBO2 HD
 #EXTGRP:unsorted
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/119.m3u8
+http://177.234.254.38:8000/play/a02b/index.m3u8
 #EXTINF:0,HBO family
 #EXTGRP:unsorted
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/120.m3u8
+http://177.234.254.38:8000/play/a02d/index.m3u8
 #EXTINF:0,HBO Plus HD
 #EXTGRP:unsorted
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/121.m3u8
+http://177.234.254.38:8000/play/a02c/index.m3u8
 #EXTINF:0,HBO Xtreme
 #EXTGRP:unsorted
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/128.m3u8
+http://177.234.254.38:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Lista MX", Star Channel
 https://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo03.php?key=SrRegio&c=46&f=.m3u8
 #EXTINF:-1 group-title="Lista MX", Sony Channel
