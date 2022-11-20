@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:0,MEXICO AZTECA UNO SD
 #EXTGRP:unsorted
+http://185.134.22.150:8080/jokertv/streaming@2021/38314
+#EXTINF:0,MEXICO AZTECA UNO SD
+#EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Enfoque de la Sierra 1
 #EXTGRP:unsorted
@@ -42,7 +45,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://regioplay.xyz/228022/JurassicWorldDominio.mkv
 #EXTINF:0,Canal 5 (Mx)
 #EXTGRP:unsorted
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=1785&f=.m3u8
+http://185.134.22.150:8080/jokertv/streaming@2021/38329
 #EXTINF:0,LOS SIMPSON
 #EXTGRP:unsorted
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
@@ -52,6 +55,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:0,MULTIMEDIOS MTY
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Azteca 7 
+#EXTGRP:unsorted
+http://185.134.22.150:8080/jokertv/streaming@2021/38307
 #EXTINF:0,Azteca 7 prueba
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
