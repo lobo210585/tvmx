@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,MEXICO AZTECA UNO SD
 #EXTGRP:unsorted
-http://185.134.22.150:8080/jokertv/streaming@2021/38314
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/536
 #EXTINF:0,MEXICO AZTECA UNO SD
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -47,7 +47,7 @@ https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_3.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0,IMAGEN TV
 #EXTGRP:unsorted
-http://regioplay.xyz/228022/JurassicWorldDominio.mkv
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/634
 #EXTINF:0,Canal 5 (Mx)
 #EXTGRP:unsorted
 http://185.134.22.150:8080/jokertv/streaming@2021/38329
@@ -62,7 +62,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,Azteca 7 
 #EXTGRP:unsorted
-http://185.134.22.150:8080/jokertv/streaming@2021/38307
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/538
 #EXTINF:0,Azteca 7 prueba
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -76,13 +76,13 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTGRP:unsorted
 http://streamgo.vip:8008/200/200/140381
 #EXTINF:0, LATINO | TU-DN
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3226
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/395
 #EXTINF:0,Latino | Affizionados
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/43
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/390
 #EXTINF:0,Latino | TUDN
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/160
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/397
 #EXTINF:0,Latino | ESPN 2
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/90
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/33823
 #EXTINF:0,Latino | ESPN 3
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/91
 #EXTINF:0,Latino | ESPN Deportes
@@ -92,34 +92,26 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/93
 #EXTINF:0,LATINO ESPN 4 HD MX 
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3552
 #EXTINF:0,Latino | FOX Sports
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/105
-#EXTINF:0,Latino | FOX Sports 2
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/106
-#EXTINF:0,Latino | FOX Sports 3
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/107
-#EXTINF:0,TUDN EXTRA 10
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/506
-#EXTINF:0,TUDN EXTRA 9
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/505
-#EXTINF:0,TUDN EXTRA 7
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/503
-#EXTINF:0,TUDN EXTRA 6
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/502
-#EXTINF:0,TUDN EXTRA 5
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/501
-#EXTINF:0,TUDN EXTRA 4
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/500
-#EXTINF:0,TUDN EXTRA 3
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/499
-#EXTINF:0,TUDN EXTRA 2
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/498
-#EXTINF:0,TUDN EXTRA 1
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/497
-#EXTINF:0,TUDN EXTRA 8
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/504
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/375
+#EXTINF:0, ││MX││FOX SPORTS 2  [FHD]
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/379
+#EXTINF:0,  ││MX││ FOX SPORTS 3 [FHD]
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/383
+#EXTINF:0,││SKY SPORTS││ (MX)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27786
+#EXTINF:0, ││MX││FOX SPORTS PREMIUM HD
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27857
+#EXTINF:0, ││MX││FOX SPORT 2 HQ (OPC)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27858
+#EXTINF:0, ││MX││FOX SPORTS 3 HD (OPC)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27859
+#EXTINF:0, ││MX││TUDN XTRA HD (OPC)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27865
+#EXTINF:0, ││MX││TUDN SD (OPC)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27866
 #EXTINF:0,De Pelicula FHD LAM
 #EXTGRP:unsorted
-http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/31740
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/213
 #EXTINF:0,De Pelicula Plus FHD LAM
 #EXTGRP:unsorted
 http://castlempire.site:8080/UserTest5Octubre_00d/p3QcBkFxLzkZ/169790
