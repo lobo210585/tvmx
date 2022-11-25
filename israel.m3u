@@ -1,666 +1,1053 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://regioplay.xyz/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://regioplay.xyz/sr_regioooooo.php
-
-#EXTINF:-1 group-title="Regio Channel", :: REGIO CHANNEL :: (EVENTOS ESPECIALES)
-http://regioplay.xyz/php/SR_REGIO_611122_/th.php?channel=srregio&f.m3u8
-
-#EXTINF:-1  group-title="DistroRegio" , Top Cine Latam
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=top-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Saber mas
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=saber-mas&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Tu Cine Latam
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=tu-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Flash
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=flash-1&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , El conflicto TV
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=el-conflicto-tv&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Chiquilines
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=chiquilines&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Juntos
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=juntos&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Cine Sureno
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=cine-sureno&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Cine Real
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=cine-real-latam&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Casa Comedy
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=casa-comedy&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Spanglish
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=spanglish&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Euronews N
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=euronews-spa&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Horrorfy
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=horrorfy&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , WappTV
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=wapptv&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , MMC
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Glewed TV 
-https://regioplay.xyz/php/SR_REGIO_611122_/distroregio.php?token=SrRegio&c=glewedtv-spanish&f=.m3u8
-
-#EXTINF:-1  group-title="Otros Canales", Claro Sports
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1VVRrptTwKLO6Wn_ov9bwtsoxBWAGevY0/view?usp=sharing", ENERGEEK
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing", ENERGEEK 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing", ENERGEEK 3
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1  group-title="Otros Canales", LATINO KIDS
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1  group-title="Otros Canales", EL CHAVO TV
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1  group-title="Otros Canales", DREIKO TV
-http://regioplay.xyz/php/SR_REGIO_611122_/dreiko.php?f=.m3u8
-#EXTINF:-1  group-title="Otros Canales", MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_611122_/multimedios.php?f=.m3u8
-#EXTINF:-1   group-title="Otros Canales", WOW TV
-https://regioplay.xyz/php/SR_REGIO_611122_/wowtv.php?f=.m3u8
-#EXTINF:-1  group-title="Otros Canales", NET TV
-http://regioplay.xyz/php/SR_REGIO_611122_/nettv.php?f=.m3u8
-#EXTINF:-1 group-title="Otros Canales", RT ESPANOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="Otros Canales", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Otros Canales", AZTECA UNO
+#EXTINF:0,MEXICO AZTECA UNO SD
+#EXTGRP:unsorted
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/536
+#EXTINF:0,MEXICO AZTECA UNO SD
+#EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Otros Canales", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Otros Canales", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Otros Canales", ADN40
+#EXTINF:0,Enfoque de la Sierra 1
+#EXTGRP:unsorted
+https://9884-201-114-106-130.ngrok.io/tmp_hls/stream/index.m3u8
+#EXTINF:0,Las Estrellas 
+#EXTGRP:unsorted
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=17&f=.m3u8
+#EXTINF:0,Las Estrellas  2
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/61
+#EXTINF:0,Canal Cultural Huauchinango
+#EXTGRP:unsorted
+http://regioplay.xyz/228022/DC.League.of.Super.Pets.2022.lati.mp4
+#EXTINF:0,PLANETATV KIDS
+#EXTGRP:unsorted
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:0,NICK JR
+#EXTGRP:unsorted
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=117&f=.m3u8
+#EXTINF:0,CARTOONITO
+#EXTGRP:unsorted
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=115&f=.m3u8
+#EXTINF:0,El Reino Infantil
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0, Dios Tv Kids
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:0,Aliento vision
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/smil:Alientoenvivo.smil/playlist.m3u8
+#EXTINF:0,Foro Tv
+#EXTGRP:unsorted
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
+#EXTINF:0,N +
+#EXTGRP:unsorted
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_3.m3u8
+#EXTINF:0,N+ Noticias
+#EXTGRP:unsorted
+https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_3.m3u8
+#EXTINF:0,ADN 40 HD
+#EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Otros Canales", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="Otros Canales", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 group-title="Otros Canales", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 group-title="Otros Canales", REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Otros Canales", La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 group-title="Otros Canales", LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 group-title="Otros Canales", Telemundo NY
-https://regioplay.xyz/php/SR_REGIO_611122_/telemundo.php?token=SrRegio&c=telemundoNY&f=.m3u8
-
-#EXTINF:-1 group-title="Lista MX", Foro TV
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=4&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Azteca Uno
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=7&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Azteca Clic
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=11&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Las Estrellas
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=17&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Canal 5
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=20&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Azteca 7
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=21&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NU9VE
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=24&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Canal Once
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=25&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Azteca Uno (2)
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=27&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Teleformula
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=32&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ADN40
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=40&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", 34.1
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Star Channel
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=46&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Sony Channel
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=48&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Warner
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=52&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", E!
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=55&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Universal Channel
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=57&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Syfy
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=59&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FX
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=60&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A&E
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=62&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Az Corazon
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=70&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TNT Series
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=71&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Gourmet
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=74&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Garage Tv
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=75&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Glitz
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=76&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Distrito Comedia
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=78&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Tru Tv
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=79&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TBS
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=81&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Tlnovelas
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=83&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Az Mundo
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=84&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Telemundo Internacional
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Discovery Channel
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=86&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", History
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=89&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Nat Geo
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=91&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Lifetime
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=94&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Discovery Theater
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=95&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", H&H Discovery
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=96&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Discovery Science (SCI)
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=98&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Discovery World
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=101&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", WOBI
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Tooncast
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=108&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Discovery Kids
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Cartoon Network
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=112&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Disney Channel
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Cartoonito
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=115&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BabyTV
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=116&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NickJr
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=117&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Disney Jr
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=118&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", D Pelicula +
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=121&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Golden +
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=122&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Golden
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=123&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Golden Edge
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=124&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TNT
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=126&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TCM
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=128&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Space
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=129&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AMC
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=131&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Studio Universal
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=132&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", I-Sat
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=135&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Europe-Europa
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=136&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Films&Arts
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=137&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Morbido
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=140&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Cinecanal
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=149&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Cinemax
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=158&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN Xtra
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=167&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN 2
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=168&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN 
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=169&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Fox Sports 
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=170&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Fox Sports HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=171&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Fox Sports 2
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=172&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TUDN
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=174&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Fox Sports 3
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GOLF
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=179&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AyM Sports
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=180&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ADN40 (2)
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=184&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CNN ENG
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=185&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CNN Live ENG
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=186&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CNN ESP
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Fox News ENG
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=188&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Bloomberg ENG
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=190&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BBC ENG
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=191&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Aljazeera ENG
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=192&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NTN24
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=194&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", HLN ENG
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=197&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Tve
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=198&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Antena 3 Int
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=199&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Star Channel HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=201&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DW
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Warner HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=205&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Universal Channel HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FX HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV Live
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=212&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV Hits
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=213&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV 80s
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=214&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TruTv HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=215&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MTV 00s
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=217&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Telehit
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=218&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Hola Tv HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=219&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Telehit +
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=220&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Bandamax
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=221&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Az Clic
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=223&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AMC
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=328&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Nick
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=331&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", D Pelicula
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=335&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Comedy Central
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=340&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN 3
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=345&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Canal 6 (Multimedios)
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2305&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Imagen Television
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A mas (A+)
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2316&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", El Financiero
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2167&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Aprende
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=401&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Discovery ID
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2376&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Bit Me
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2591&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Paramount Channel
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TUDN (2)
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1975&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Claro Sports HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Adrenalina Sports HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2404&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", U Beat HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=3335&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TVC Deportes
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2157&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", LAS Deportes
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2089&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Mega Noticias
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2156&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AzCorazon HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=453&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Multimedios CDMX
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1253&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NU9VE HD
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1783&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", Las Estrellas HD
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1784&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", Canal 5 HD (2)
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1785&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ONCE HD 
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1942&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MVS TV
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2149&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TVC
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2156&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CANAL 4 
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2274&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CANAL 8
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TELEVISA PUEBLA
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX", Nick Music
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1708&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", Baby First
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1984&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", Nick Teen  
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2147&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Unicable
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1499&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", Mas Chic
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1842&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", A3Series
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2113&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX", Fuel TV HD 
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2587&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX", Teleritmo
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1943&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FoodNetwork 
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2145&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", STAR  TVE 
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2375&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY TURBO
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2379&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CURIOSITY STREAM
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2594&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", RT ESPAÑOL
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2091&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FRANCE 24
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2402&f=.m3u8 
-#EXTINF:-1 group-title="Lista MX", PX Sports
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=950&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Imagen TV
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1449&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AzCinema
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Adrenalina Sports
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1799&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Studio Universal HD
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=1982&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Basket Americas TV
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2090&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Mega Noticias
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2156&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A+
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2278&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Animal Planet
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2378&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TLC
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", HGTV
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=3105&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", A3Cine
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=3112&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", Canal Congreso
-https://regioplay.xyz/search.php?c=2331
-#EXTINF:-1 group-title="Lista MX", Unknow
-http://regioplay.xyz/search.php?c=3315
-
-#EXTINF:-1  group-title="Vix",  40 Y 20
+#EXTINF:0,IMAGEN TV
+#EXTGRP:unsorted
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/634
+#EXTINF:0,Canal 5 (Mx)
+#EXTGRP:unsorted
+http://185.134.22.150:8080/jokertv/streaming@2021/38329
+#EXTINF:0,LOS SIMPSON
+#EXTGRP:unsorted
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
+#EXTINF:0,Heraldo Tv
+#EXTGRP:unsorted
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,MULTIMEDIOS MTY
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Azteca 7 
+#EXTGRP:unsorted
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/538
+#EXTINF:0,Azteca 7 prueba
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0,A+
+#EXTGRP:unsorted
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+#EXTINF:0,ONCE
+#EXTGRP:unsorted
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:0,Distrito Comedia
+#EXTGRP:unsorted
+http://streamgo.vip:8008/200/200/140381
+#EXTINF:0, LATINO | TU-DN
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/395
+#EXTINF:0,Latino | Affizionados
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/390
+#EXTINF:0,Latino | TUDN
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/397
+#EXTINF:0,Latino | ESPN 2
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/33823
+#EXTINF:0,Latino | ESPN 3
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/91
+#EXTINF:0,Latino | ESPN Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/92
+#EXTINF:0,Latino | ESPN Plus
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/93
+#EXTINF:0,LATINO ESPN 4 HD MX 
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3552
+#EXTINF:0,Latino | FOX Sports
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/375
+#EXTINF:0, ││MX││FOX SPORTS 2  [FHD]
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/379
+#EXTINF:0,  ││MX││ FOX SPORTS 3 [FHD]
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/383
+#EXTINF:0,││SKY SPORTS││ (MX)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27786
+#EXTINF:0, ││MX││FOX SPORTS PREMIUM HD
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27857
+#EXTINF:0, ││MX││FOX SPORT 2 HQ (OPC)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27858
+#EXTINF:0, ││MX││FOX SPORTS 3 HD (OPC)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27859
+#EXTINF:0, ││MX││TUDN XTRA HD (OPC)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27865
+#EXTINF:0, ││MX││TUDN SD (OPC)
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27866
+#EXTINF:0,De Pelicula FHD LAM
+#EXTGRP:unsorted
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/213
+#EXTINF:0,De Pelicula Plus FHD LAM
+#EXTGRP:unsorted
+http://castlempire.site:8080/UserTest5Octubre_00d/p3QcBkFxLzkZ/169790
+#EXTINF:0,De Pelicula Classico LAM
+#EXTGRP:unsorted
+http://castlempire.site:8080/UserTest5Octubre_00d/p3QcBkFxLzkZ/169835
+#EXTINF:0,Capital 21
+#EXTGRP:unsorted
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:0,Extrema TV (720p)
+#EXTGRP:unsorted
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,Planeta tv movies
+#EXTGRP:unsorted
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:0,TVBuap
+#EXTGRP:unsorted
+https://tvenvivo.buap.mx/livestream/stream.m3u8
+#EXTINF:0, Suma Tv UAEH
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1667838159&e=1667838279&h=5daff79986a4e1bccdad79e7c00f7a16
+#EXTINF:0,SET Televisión Canal 26.1 (720p) [Not 24/7]
+#EXTGRP:unsorted
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:0,SET Televisión Canal 26.2 (720p) [Not 24/7]
+#EXTGRP:unsorted
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:0,TELEFORMULA SD
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:0,JUSTICIA TV
+#EXTGRP:unsorted
+https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
+#EXTINF:0,CANAL 4
+#EXTGRP:unsorted
+https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8  
+#EXTINF:0,CANAL 4.1
+#EXTGRP:unsorted
+https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
+#EXTINF:0,TVMAS
+#EXTGRP:unsorted
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
+#EXTINF:0,HBO HD
+#EXTGRP:unsorted
+http://177.234.254.38:8000/play/a02a/index.m3u8
+#EXTINF:0,HBO2 HD
+#EXTGRP:unsorted
+http://177.234.254.38:8000/play/a02b/index.m3u8
+#EXTINF:0,HBO family
+#EXTGRP:unsorted
+http://177.234.254.38:8000/play/a02d/index.m3u8
+#EXTINF:0,HBO Plus HD
+#EXTGRP:unsorted
+http://177.234.254.38:8000/play/a02c/index.m3u8
+#EXTINF:0,HBO Xtreme
+#EXTGRP:unsorted
+http://177.234.254.38:8000/play/a02e/index.m3u8
+#EXTINF:-1, Star Channel
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=46&f=.m3u8
+#EXTINF:-1, Sony Channel
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=48&f=.m3u8
+#EXTINF:-1, Warner
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=52&f=.m3u8
+#EXTINF:-1, E!
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=55&f=.m3u8
+#EXTINF:-1, Universal Channel
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=57&f=.m3u8
+#EXTINF:-1, Syfy
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=59&f=.m3u8
+#EXTINF:-1, FX
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=60&f=.m3u8
+#EXTINF:-1, A&E
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=62&f=.m3u8
+#EXTINF:-1, Az Corazon
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=70&f=.m3u8
+#EXTINF:-1, TNT Series
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=71&f=.m3u8
+#EXTINF:-1, Gourmet
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=74&f=.m3u8
+#EXTINF:-1, Garage Tv
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=75&f=.m3u8
+#EXTINF:-1, Glitz
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=76&f=.m3u8
+#EXTINF:-1, Distrito Comedia
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=78&f=.m3u8
+#EXTINF:-1, Tru Tv
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=79&f=.m3u8
+#EXTINF:-1, TBS
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=81&f=.m3u8
+#EXTINF:-1, Tlnovelas
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=83&f=.m3u8
+#EXTINF:-1, Az Mundo
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=84&f=.m3u8
+#EXTINF:-1, Telemundo Internacional
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=85&f=.m3u8
+#EXTINF:-1, Discovery Channel
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=86&f=.m3u8
+#EXTINF:-1, History
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=89&f=.m3u8
+#EXTINF:-1, Nat Geo
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=91&f=.m3u8
+#EXTINF:-1, Lifetime
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=94&f=.m3u8
+#EXTINF:-1, Discovery Theater
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=95&f=.m3u8
+#EXTINF:-1, H&H Discovery
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=96&f=.m3u8
+#EXTINF:-1, Discovery Science (SCI)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=98&f=.m3u8
+#EXTINF:-1, Discovery World
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=101&f=.m3u8
+#EXTINF:-1, WOBI
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=102&f=.m3u8
+#EXTINF:-1, Tooncast
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=108&f=.m3u8
+#EXTINF:-1, Discovery Kids
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=109&f=.m3u8
+#EXTINF:-1, Cartoon Network
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=112&f=.m3u8
+#EXTINF:-1, Disney Channel
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=113&f=.m3u8
+#EXTINF:-1, Cartoonito
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=115&f=.m3u8
+#EXTINF:-1, BabyTV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=116&f=.m3u8
+#EXTINF:-1, NickJr
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=117&f=.m3u8
+#EXTINF:-1, Disney Jr
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=118&f=.m3u8
+#EXTINF:-1, D Pelicula +
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=121&f=.m3u8
+#EXTINF:-1, Golden +
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=122&f=.m3u8
+#EXTINF:-1, Golden
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=123&f=.m3u8
+#EXTINF:-1, Golden Edge
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=124&f=.m3u8
+#EXTINF:-1, TNT
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=126&f=.m3u8
+#EXTINF:-1, TCM
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=128&f=.m3u8
+#EXTINF:-1, Space
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=129&f=.m3u8
+#EXTINF:-1, AMC
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=131&f=.m3u8
+#EXTINF:-1, Studio Universal
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=132&f=.m3u8
+#EXTINF:-1, I-Sat
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=135&f=.m3u8
+#EXTINF:-1, Europe-Europa
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=136&f=.m3u8
+#EXTINF:-1, Films&Arts
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=137&f=.m3u8
+#EXTINF:-1, Morbido
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=140&f=.m3u8
+#EXTINF:-1, Cinecanal
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=149&f=.m3u8
+#EXTINF:-1, Cinemax
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=158&f=.m3u8
+#EXTINF:-1, ESPN Xtra
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=167&f=.m3u8
+#EXTINF:-1, ESPN 2
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=168&f=.m3u8
+#EXTINF:-1, ESPN 
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=169&f=.m3u8
+#EXTINF:-1, Fox Sports 
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=170&f=.m3u8
+#EXTINF:-1, Fox Sports HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=171&f=.m3u8
+#EXTINF:-1, Fox Sports 2
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=172&f=.m3u8
+#EXTINF:-1, TUDN
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=174&f=.m3u8
+#EXTINF:-1, Fox Sports 3
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=178&f=.m3u8
+#EXTINF:-1, GOLF
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=179&f=.m3u8
+#EXTINF:-1, AyM Sports
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=180&f=.m3u8
+#EXTINF:-1, ADN40 (2)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=184&f=.m3u8
+#EXTINF:-1, CNN ENG
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=185&f=.m3u8
+#EXTINF:-1, CNN Live ENG
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=186&f=.m3u8
+#EXTINF:-1, CNN ESP
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=187&f=.m3u8
+#EXTINF:-1, Fox News ENG
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=188&f=.m3u8
+#EXTINF:-1, Bloomberg ENG
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=190&f=.m3u8
+#EXTINF:-1, BBC ENG
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=191&f=.m3u8
+#EXTINF:-1, Aljazeera ENG
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=192&f=.m3u8
+#EXTINF:-1, NTN24
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=194&f=.m3u8
+#EXTINF:-1, HLN ENG
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=197&f=.m3u8
+#EXTINF:-1, Tve
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=198&f=.m3u8
+#EXTINF:-1, Antena 3 Int
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=199&f=.m3u8
+#EXTINF:-1, Star Channel HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=201&f=.m3u8
+#EXTINF:-1, DW
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=203&f=.m3u8
+#EXTINF:-1, Warner HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=205&f=.m3u8
+#EXTINF:-1, Universal Channel HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=207&f=.m3u8
+#EXTINF:-1, FX HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=209&f=.m3u8
+#EXTINF:-1, MTV Live
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=211&f=.m3u8
+#EXTINF:-1, MTV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=212&f=.m3u8
+#EXTINF:-1, MTV Hits
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=213&f=.m3u8
+#EXTINF:-1, MTV 80s
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=214&f=.m3u8
+#EXTINF:-1, TruTv HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=215&f=.m3u8
+#EXTINF:-1, MTV 00s
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=217&f=.m3u8
+#EXTINF:-1, Telehit
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=218&f=.m3u8
+#EXTINF:-1, Hola Tv HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=219&f=.m3u8
+#EXTINF:-1, Telehit +
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=220&f=.m3u8
+#EXTINF:-1, Bandamax
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=221&f=.m3u8
+#EXTINF:-1, Az Clic
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=223&f=.m3u8
+#EXTINF:-1, AMC
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=328&f=.m3u8
+#EXTINF:-1, Nick
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=331&f=.m3u8
+#EXTINF:-1, D Pelicula
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=335&f=.m3u8
+#EXTINF:-1, Comedy Central
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=340&f=.m3u8
+#EXTINF:-1, ESPN 3
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=345&f=.m3u8
+#EXTINF:-1, Canal 6 (Multimedios)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2305&f=.m3u8
+#EXTINF:-1, Imagen Television
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2298&f=.m3u8
+#EXTINF:-1, A mas (A+)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2316&f=.m3u8
+#EXTINF:-1, El Financiero
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2167&f=.m3u8
+#EXTINF:-1, Aprende
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=401&f=.m3u8
+#EXTINF:-1, Discovery ID
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2376&f=.m3u8
+#EXTINF:-1, Bit Me
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2591&f=.m3u8
+#EXTINF:-1, Paramount Channel
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1726&f=.m3u8
+#EXTINF:-1, TUDN (2)
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1975&f=.m3u8
+#EXTINF:-1, Claro Sports HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2564&f=.m3u8
+#EXTINF:-1, Adrenalina Sports HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2404&f=.m3u8
+#EXTINF:-1, U Beat HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=3335&f=.m3u8
+#EXTINF:-1, TVC Deportes
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2157&f=.m3u8
+#EXTINF:-1, LAS Deportes
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2089&f=.m3u8
+#EXTINF:-1, Mega Noticias
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2156&f=.m3u8
+#EXTINF:-1, AzCorazon HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=453&f=.m3u8
+#EXTINF:-1, Multimedios CDMX
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1253&f=.m3u8
+#EXTINF:-1, NU9VE HD
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1783&f=.m3u8  
+#EXTINF:-1, Las Estrellas HD
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1784&f=.m3u8  
+#EXTINF:-1, Canal 5 HD (2)
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1785&f=.m3u8
+#EXTINF:-1, ONCE HD 
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1942&f=.m3u8  
+#EXTINF:-1, MVS TV
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2149&f=.m3u8  
+#EXTINF:-1, TVC
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2156&f=.m3u8
+#EXTINF:-1, CANAL 4 
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2274&f=.m3u8  
+#EXTINF:-1, CANAL 8
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2307&f=.m3u8  
+#EXTINF:-1, TELEVISA PUEBLA
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2312&f=.m3u8 
+#EXTINF:-1, Nick Music
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1708&f=.m3u8  
+#EXTINF:-1, Baby First
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1984&f=.m3u8  
+#EXTINF:-1, Nick Teen  
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2147&f=.m3u8
+#EXTINF:-1, Unicable
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1499&f=.m3u8  
+#EXTINF:-1, Mas Chic
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1842&f=.m3u8  
+#EXTINF:-1, A3Series
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2113&f=.m3u8 
+#EXTINF:-1, Fuel TV HD 
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2587&f=.m3u8 
+#EXTINF:-1, Teleritmo
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1943&f=.m3u8
+#EXTINF:-1, FoodNetwork 
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2145&f=.m3u8
+#EXTINF:-1, STAR  TVE 
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2375&f=.m3u8
+#EXTINF:-1, DISCOVERY TURBO
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2379&f=.m3u8  
+#EXTINF:-1, CURIOSITY STREAM
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2594&f=.m3u8  
+#EXTINF:-1, RT ESPAÑOL
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2091&f=.m3u8
+#EXTINF:-1, FRANCE 24
+http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2402&f=.m3u8 
+#EXTINF:-1, PX Sports
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=950&f=.m3u8
+#EXTINF:-1, Imagen TV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1449&f=.m3u8
+#EXTINF:-1, AzCinema
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1726&f=.m3u8
+#EXTINF:-1, Adrenalina Sports
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1799&f=.m3u8
+#EXTINF:-1, Studio Universal HD
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=1982&f=.m3u8
+#EXTINF:-1, Basket Americas TV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2090&f=.m3u8
+#EXTINF:-1, Mega Noticias
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2156&f=.m3u8
+#EXTINF:-1, A+
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2278&f=.m3u8
+#EXTINF:-1, Animal Planet
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2378&f=.m3u8
+#EXTINF:-1, TLC
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=2380&f=.m3u8
+#EXTINF:-1, HGTV
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=3105&f=.m3u8
+#EXTINF:-1, A3Cine
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=3112&f=.m3u8
+#EXTINF:0,Nick Clásico
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Nick Jr. Club
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Top Cine Latam
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/768x432_1425600/index.m3u8
+#EXTINF:0,Saber mas
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:0,Tu Cine Latam
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:0,Flash
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/512x288_875600/index.m3u8
+#EXTINF:0,Chiquilines
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/512x288_875600/index.m3u8
+#EXTINF:0,Juntos
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1920x1080_5605600/index.m3u8
+#EXTINF:0,Cine Sureno
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/720x404_1425600/index.m3u8
+#EXTINF:0,Cine Real
+#EXTGRP:unsorted
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-latam-plex/CDN/1920x1080_5605600/index.m3u8
+#EXTINF:0,Pluto TV Cine Acción
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cine Comedia
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cine Terror
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Viajes
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cine Drama
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cocina
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Deportes
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Novelas
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Series
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Anime
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Reality
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Investiga
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Junior
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Misterios
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cine Estelar
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Hogar
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV  Competencias
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Kids
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Velocidad​
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cine Familia​
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Teen
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cine Romance​
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Animales
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Ciencia
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Series Latinas
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Naturaleza
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Aventura
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cine Suspenso
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Historia
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Degrassi
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de58ef515635d00091f605d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Series Retro
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,MTV Classic
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Telefe Clásico
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV  Nuestro Cine
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Vida Real
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Latin Angels
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df41355939756000921d15b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,MasterChef
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Fútbol Para Fans
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Minuto Para Ganar
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Los archivos del FBI
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Babar
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Animé Acción
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Guía de canales
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Humor
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Estrellas de Acción
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,MTV Pranks
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Peleas
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,The New Detectives
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Rugrats Crecidos
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Babyfirst
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,People are Awesome
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b8993/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,The Pet Collective
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,FailArmy
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Star Trek
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Wipe Out
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV FashionBox
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Archivos Forenses
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,MTV Animaciones
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Misterios Medicos
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Empeños a lo bestia
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Sci-Fi
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Barney
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Oh My Pet
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,All Elite Wrestling
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Historias de Ultratumba
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Paisajes por Stingray
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Telefe Noticias
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Misterios sin Resolver
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Conciertos por Stingray
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Karaoke por Stingray
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Tastemade
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Dog el cazarrecompensas
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Lucha Libre AAA
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Nosey Escándalos
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Nosey Casos
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b005b66d1950007857df6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,MTV Pluto TV
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,ESR 24/7
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Kenan y Kel
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Yu-Gi-Oh
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV E-Sports
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,One Piece
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Tokusato
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Comedy Central Pluto TV
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Loupe
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Retro Cartoons
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,MTV Biggest Pop
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,MTV Spankin' New
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Sin Tetas No Hay Paraíso
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Ripley’s Believe it or Not
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079bcbd9b10880007bf8e2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Cine Clásico
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Pluto TV Recetas
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,Boom
+#EXTGRP:unsorted
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,40 Y 20
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Adrenalina Sport
+#EXTINF:0,Adrenalina Sport
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Afizzionados
+#EXTINF:0,Afizzionados
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Alegrijes Y Rebujos
+#EXTINF:0,Alegrijes Y Rebujos
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=319&pid=319&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Amigas Y Rivales
+#EXTINF:0,Amigas Y Rivales
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=320&pid=320&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Amores Verdaderos
+#EXTINF:0,Amores Verdaderos
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=305&pid=305&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Aqui Y Ahora
+#EXTINF:0,Aqui Y Ahora
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=306&pid=306&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Atv+
+#EXTINF:0,Atv+
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=258&pid=258&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Bandamax
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Bein Sports Xtra
+#EXTINF:0,Bein Sports Xtra
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Bitme
+#EXTINF:0,Bitme
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=401&pid=401&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Canal 5 (Mx)
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine 1
+#EXTINF:0,Cine 1
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine 2
+#EXTINF:0,Cine 2
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine 3
+#EXTINF:0,Cine 3
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine Club - Prendetv
+#EXTINF:0,Cine Club - Prendetv
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=192&pid=192&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine Del Ayer
+#EXTINF:0,Cine Del Ayer
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Clase 406
+#EXTINF:0,Clase 406
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=322&pid=322&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cnn Colombia
+#EXTINF:0,Cnn Colombia
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Comedy Tv
+#EXTINF:0,Comedy Tv
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Como Dice El Dicho
+#EXTINF:0,Como Dice El Dicho
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=341&pid=341&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Corazón Salvaje
+#EXTINF:0,Corazón Salvaje
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=325&pid=325&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Crónicas
+#EXTINF:0,Crónicas
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=315&pid=315&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cuidado Con El Angel
+#EXTINF:0,Cuidado Con El Angel
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=316&pid=316&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Del Mercado Al Plato
+#EXTINF:0,Del Mercado Al Plato
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=317&pid=317&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Distrito Comedia
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Dpeliculas
+#EXTINF:0,Dpeliculas
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Dpeliculas +
+#EXTINF:0,Dpeliculas +
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Durmiendo Con Mi Jefe
+#EXTINF:0,Durmiendo Con Mi Jefe
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=312&pid=312&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  El Privilegio De Mandar
+#EXTINF:0,El Privilegio De Mandar
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=313&pid=313&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Euronews
+#EXTINF:0,Euronews
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=255&pid=255&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Failarmy
+#EXTINF:0,Failarmy
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=197&pid=197&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Familia P. Luche
+#EXTINF:0,Familia P. Luche
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=311&pid=311&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Foro Tv
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Fun Videos
+#EXTINF:0,Fun Videos
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden Edge
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=407&pid=407&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden Edge Sd
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden Plus
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden South
+#EXTINF:0,Golden South
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden South Sd
+#EXTINF:0,Golden South Sd
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Héroes Del Norte
+#EXTINF:0,Héroes Del Norte
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=323&pid=323&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Juana La Virgen
+#EXTINF:0,Juana La Virgen
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=327&pid=327&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Kids
+#EXTINF:0,Kids
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  La Promesa
+#EXTINF:0,La Promesa
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=343&pid=343&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  La Rosa De Guadalupe
+#EXTINF:0,La Rosa De Guadalupe
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=344&pid=344&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  La Selecc10n
+#EXTINF:0,La Selecc10n
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=345&pid=345&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Las Estrellas
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Latidos Music
+#EXTINF:0,Latidos Music
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=257&pid=257&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Level Up - Games
+#EXTINF:0,Level Up - Games
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=263&pid=263&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Lo Mejor De La Liga Mx - Prendetv
+#EXTINF:0,Lo Mejor De La Liga Mx - Prendetv
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Lo Que Diga El Corazon
+#EXTINF:0,Lo Que Diga El Corazon
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=346&pid=346&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Local View
+#EXTINF:0,Local View
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=402&pid=402&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Local View 2
+#EXTINF:0,Local View 2
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=403&pid=403&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Love Nature
+#EXTINF:0,Love Nature
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=390&pid=390&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  María Mercedes
+#EXTINF:0,María Mercedes
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=328&pid=328&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Media +
+#EXTINF:0,Media +
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Mi Gorda Bella
+#EXTINF:0,Mi Gorda Bella
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=334&pid=334&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Muchachitas
+#EXTINF:0,Muchachitas
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=331&pid=331&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Muchachitas Como Tu
+#EXTINF:0,Muchachitas Como Tu
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=332&pid=332&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  My Time Movies
+#EXTINF:0,My Time Movies
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=261&pid=261&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Noticias Univision 24/7
+#EXTINF:0,Noticias Univision 24/7
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=254&pid=254&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Novelas De Oro - Prendetv
+#EXTINF:0,Novelas De Oro - Prendetv
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=196&pid=196&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Novelas De Romance - Prendetv
+#EXTINF:0,Novelas De Romance - Prendetv
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=194&pid=194&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Novelas En Familia - Prendetv
+#EXTINF:0,Novelas En Familia - Prendetv
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=195&pid=195&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Nuestra Vision
+#EXTINF:0,Nuestra Vision
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=262&pid=262&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden
+#EXTINF:0,GOlden
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=409&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden +
+#EXTINF:0,GOlden +
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=406&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden Edge
+#EXTINF:0,GOlden Edge
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=407&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden Plus
+#EXTINF:0,GOlden Plus
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=410&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Papa A Toda Madre
+#EXTINF:0,Papa A Toda Madre
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=336&pid=336&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  People Are Awesome
+#EXTINF:0,People Are Awesome
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=39&pid=39&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Que Bonito Amor
+#EXTINF:0,Que Bonito Amor
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=329&pid=329&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Rcn Mas
+#EXTINF:0,Rcn Mas
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=286&pid=286&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Rebelde
+#EXTINF:0,Rebelde
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=335&pid=335&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Retro Peli
+#EXTINF:0,Retro Peli
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Revry-Lgbtq Tv
+#EXTINF:0,Revry-Lgbtq Tv
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=139&pid=139&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Sortilegio
+#EXTINF:0,Sortilegio
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=337&pid=337&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Soy Tu Dueña
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=318&pid=318&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Soy Tu Dueña
+#EXTINF:0,Soy Tu Dueña
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=339&pid=339&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tele Musica
+#EXTINF:0,Tele Musica
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tele Musica+
+#EXTINF:0,Tele Musica+
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Telehit
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Teresa
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=342&pid=342&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Teresa
+#EXTINF:0,Teresa
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=324&pid=324&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  The Weather Channel(Es)
+#EXTINF:0,The Weather Channel(Es)
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=431&pid=431&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  The Weather Channel(Es) Hd
+#EXTINF:0,The Weather Channel(Es) Hd
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=453&pid=453&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tln Novelas
+#EXTINF:0,Tln Novelas
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=421&pid=421&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tn23
+#EXTINF:0,Tn23
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=259&pid=259&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tres Veces Ana
+#EXTINF:0,Tres Veces Ana
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=321&pid=321&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Triunfo Del Amor
+#EXTINF:0,Triunfo Del Amor
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=338&pid=338&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=373&pid=373&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=372&pid=372&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=376&pid=376&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=380&pid=380&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=375&pid=375&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=385&pid=385&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=386&pid=386&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=381&pid=381&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=379&pid=379&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=357&pid=357&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=347&pid=347&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=378&pid=378&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=383&pid=383&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=384&pid=384&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=377&pid=377&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=360&pid=360&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tudn
+#EXTINF:0,Tudn
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=374&pid=374&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tv Venta
+#EXTINF:0,Tv Venta
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=352&pid=352&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Unicable
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=423&pid=423&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Unknown 101
+#EXTINF:0,Unknown 101
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=330&pid=330&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Unknown 262
+#EXTINF:0,Unknown 262
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=446&pid=446&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Vecinos
+#EXTINF:0,Vecinos
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Vevo
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=389&pid=389&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Vevo
+#EXTINF:0,Vevo
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Videos Chistosos
+#EXTINF:0,Videos Chistosos
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Videos Chistosos 2
+#EXTINF:0,Videos Chistosos 2
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Vivo Play
+#EXTINF:0,Vivo Play
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=260&pid=260&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine 
+#EXTINF:0,Cine
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=449&pid=449&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine Sd
-http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=450&pid=450&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Cine Sd
+#EXTINF:0,Cine Sd
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Deportes
+#EXTINF:0,Deportes
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Novelas
+#EXTINF:0,Novelas
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=445&pid=445&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Novelas Hd
+#EXTINF:0,Novelas Hd
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=448&pid=448&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Novelas Sd
+#EXTINF:0,Novelas Sd
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=447&pid=447&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Xh Derbez - Nosotros Los Guapos
+#EXTINF:0,Xh Derbez - Nosotros Los Guapos
+#EXTGRP:unsorted
 http://regioplay.xyz/php/SR_REGIO_611122_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
