@@ -13,7 +13,7 @@ https://9884-201-114-106-130.ngrok.io/tmp_hls/stream/index.m3u8
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=17&f=.m3u8
 #EXTINF:0,Las Estrellas  2
 #EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/61
+http://45.174.84.154:8000/play/a02h/index.m3u8
 #EXTINF:0,Canal Cultural Huauchinango
 #EXTGRP:unsorted
 http://regioplay.xyz/228022/DC.League.of.Super.Pets.2022.lati.mp4
@@ -22,7 +22,7 @@ http://regioplay.xyz/228022/DC.League.of.Super.Pets.2022.lati.mp4
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0,NICK JR
 #EXTGRP:unsorted
-https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=117&f=.m3u8
+http://8.242.187.233:5800/play/a0c2/index.m3u8
 #EXTINF:0,CARTOONITO
 #EXTGRP:unsorted
 https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?key=SrRegio&c=115&f=.m3u8
@@ -50,7 +50,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/634
 #EXTINF:0,Canal 5 (Mx)
 #EXTGRP:unsorted
-http://185.134.22.150:8080/jokertv/streaming@2021/38329
+http://45.174.84.154:8000/play/a02i/index.m3u8
 #EXTINF:0,LOS SIMPSON
 #EXTGRP:unsorted
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w972965044.m3u8
@@ -62,7 +62,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,Azteca 7 
 #EXTGRP:unsorted
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/538
+http://45.174.84.154:8000/play/a02a/index.m3u8
 #EXTINF:0,Azteca 7 prueba
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -75,43 +75,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0,Distrito Comedia
 #EXTGRP:unsorted
 http://streamgo.vip:8008/200/200/140381
-#EXTINF:0, LATINO | TU-DN
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/395
-#EXTINF:0,Latino | Affizionados
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/390
-#EXTINF:0,Latino | TUDN
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/397
-#EXTINF:0,Latino | ESPN 2
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/33823
-#EXTINF:0,Latino | ESPN 3
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/91
-#EXTINF:0,Latino | ESPN Deportes
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/92
-#EXTINF:0,Latino | ESPN Plus
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/93
-#EXTINF:0,LATINO ESPN 4 HD MX 
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3552
-#EXTINF:0,Latino | FOX Sports
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/375
-#EXTINF:0, ││MX││FOX SPORTS 2  [FHD]
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/379
-#EXTINF:0,  ││MX││ FOX SPORTS 3 [FHD]
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/383
-#EXTINF:0,││SKY SPORTS││ (MX)
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27786
-#EXTINF:0, ││MX││FOX SPORTS PREMIUM HD
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27857
-#EXTINF:0, ││MX││FOX SPORT 2 HQ (OPC)
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27858
-#EXTINF:0, ││MX││FOX SPORTS 3 HD (OPC)
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27859
-#EXTINF:0, ││MX││TUDN XTRA HD (OPC)
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27865
-#EXTINF:0, ││MX││TUDN SD (OPC)
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27866
 #EXTINF:0,De Pelicula FHD LAM
 #EXTGRP:unsorted
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/213
+http://200.24.141.3:4000/play/a1nd/index.m3u8
 #EXTINF:0,De Pelicula Plus FHD LAM
 #EXTGRP:unsorted
 http://castlempire.site:8080/UserTest5Octubre_00d/p3QcBkFxLzkZ/169790
