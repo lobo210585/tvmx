@@ -138,6 +138,8 @@ http://177.234.254.38:8000/play/a02c/index.m3u8
 http://177.234.254.38:8000/play/a02e/index.m3u8
 #EXTINF:0,AMC
 http://190.216.105.66:6020/play/a0co/index.m3u8
+#EXTINF:0, H2
+http://mxu03.wanicelife.com:8880/12m470044/18388274/57991
 #EXTINF:0, AND40
 https://regioplay.xyz/php/SR_REGIO_222122_/tpnuevo01.php?tokennn=Regio&c=2&f=.m3u8
 #EXTINF:0, AZ UNO
