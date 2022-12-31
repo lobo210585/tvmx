@@ -7,7 +7,7 @@ http://45.174.84.154:8000/play/a02b/index.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0,Canal Cultural Huauchinango
 #EXTGRP:unsorted
-https://aee2-201-114-107-84.ngrok.io//tmp_hls/stream/index.m3u8
+https://d771-201-114-106-134.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0,Las Estrellas 
 #EXTGRP:unsorted
 https://regioplay.xyz/php/SR_REGIO_222122_/tpnuevo01.php?tokennn=Regio&c=52&f=.m3u8
