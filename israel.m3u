@@ -29,12 +29,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fc
 #EXTINF:0, Dios Tv Kids
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:0,Aliento vision
-https://627bb251f23c7.streamlock.net:444/Alientoenvivo/smil:Alientoenvivo.smil/playlist.m3u8
+https://627bb251f23c7.streamlock.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:0,Extrema TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:0,Extrema TV (720p)
 #EXTGRP:unsorted
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,eNLACE
+http://supermega.vip:25461/tita/tita/56436
 #EXTINF:0,Foro Tv
 #EXTGRP:unsorted
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
