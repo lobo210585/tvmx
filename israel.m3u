@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,MEXICO AZTECA UNO SD
 #EXTGRP:unsorted
-http://45.174.84.154:8000/play/a02b/index.m3u8
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/536
 #EXTINF:0,MEXICO AZTECA UNO SD
 #EXTGRP:unsorted
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -70,7 +70,7 @@ http://supermega.vip:25461/tita/tita/128932
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:0,A+
 #EXTGRP:unsorted
-https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/111673.mp4
 #EXTINF:0,ONCE
 #EXTGRP:unsorted
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
