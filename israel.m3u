@@ -22,7 +22,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=310&f=.m3u8
 #EXTINF:0,CARTOONITO
 #EXTGRP:unsorted
-http://supermega.vip:25461/tita/tita/56395
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/168
 #EXTINF:0,El Reino Infantil
 #EXTGRP:unsorted
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -55,8 +55,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTGRP:unsorted
 https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:0,Canal 5 (Mx)
-#EXTGRP:unsorted
-"https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 #EXTINF:0,Heraldo Tv
 #EXTGRP:unsorted
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -137,7 +136,7 @@ http://177.234.254.38:8000/play/a02e/index.m3u8
 #EXTINF:0,AMC
 http://190.216.105.66:6020/play/a0co/index.m3u8
 #EXTINF:0, H2
-http://supermega.vip:25461/tita/tita/56475
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/44
 #EXTINF:0, AND40
 https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=2&f=.m3u8
 #EXTINF:0, AZ UNO
