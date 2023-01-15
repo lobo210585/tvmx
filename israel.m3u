@@ -28,6 +28,8 @@ http://supermega.vip:25461/tita/tita/56395
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, Dios Tv Kids
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:0, Dios Tv
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Aliento vision
 https://627bb251f23c7.streamlock.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:0,Extrema TV KIDS
@@ -55,12 +57,6 @@ https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=2298&f=
 #EXTINF:0,Canal 5 (Mx)
 #EXTGRP:unsorted
 "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:0,LOS SIMPSON1
-#EXTGRP:unsorted
-http://nmstreaming.live:25461/JR/YdehrN6NzLhU/2091013
-#EXTINF:0,LOS SIMPSON
-#EXTGRP:unsorted
-https://11554-1.b.cdn13.com/LiveHTTPOrigin/live_720p/playlist.m3u8
 #EXTINF:0,Heraldo Tv
 #EXTGRP:unsorted
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
