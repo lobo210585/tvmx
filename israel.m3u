@@ -119,22 +119,31 @@ https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 #EXTGRP:unsorted
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
 #EXTINF:0,HBO HD
-#EXTGRP:unsorted
-http://177.234.254.38:8000/play/a02a/index.m3u8
+http://190.108.87.149:8000/play/a0d6/index.m3u8
 #EXTINF:0,HBO2 HD
-#EXTGRP:unsorted
-http://177.234.254.38:8000/play/a02b/index.m3u8
+http://190.108.87.149:8000/play/a0d7/index.m3u8
 #EXTINF:0,HBO family
-#EXTGRP:unsorted
-http://177.234.254.38:8000/play/a02d/index.m3u8
+http://190.108.87.149:8000/play/a0d9/index.m3u8
 #EXTINF:0,HBO Plus HD
-#EXTGRP:unsorted
-http://177.234.254.38:8000/play/a02c/index.m3u8
+http://190.108.87.149:8000/play/a0d8/index.m3u8
 #EXTINF:0,HBO Xtreme
-#EXTGRP:unsorted
-http://177.234.254.38:8000/play/a02e/index.m3u8
+http://190.108.87.149:8000/play/a0da/index.m3u8
 #EXTINF:0,AMC
 http://190.216.105.66:6020/play/a0co/index.m3u8
+#EXTINF:0,UNIVERSAL CINEMA HD
+http://190.108.87.149:8000/play/a0ii/index.m3u8
+#EXTINF:0,UNIVERSAL COMEDY HD
+http://190.108.87.149:8000/play/a0io/index.m3u8
+#EXTINF:0,UNIVERSAL CRIME HD
+http://190.108.87.149:8000/play/a0in/index.m3u8
+#EXTINF:0,UNIVERSAL PREMIERE HD
+http://190.108.87.149:8000/play/a0if/index.m3u8
+#EXTINF:0,UNIVERSAL PREMIERE HD
+http://190.108.87.149:8000/play/a0ik/index.m3u8
+#EXTINF:0,UNIVERSAL PREMIERE O HD
+http://190.108.87.149:8000/play/a0il/index.m3u8
+#EXTINF:0,UNIVERSAL REALITY HD
+http://190.108.87.149:8000/play/a0im/index.m3u8
 #EXTINF:0, H2
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/44
 #EXTINF:0, AND40
