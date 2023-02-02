@@ -88,15 +88,15 @@ https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2497" group="unsorted", TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="unsorted", HBO HD
-http://190.61.102.67:9000/play/a00h
+http://190.83.119.67:8000/play/a0or/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", HBO2 HD
-http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/1978.ts
+http://168.194.171.33:8000/play/a00r/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO family
-http://190.61.102.67:9000/play/a00k
+http://168.194.171.33:8000/play/a00u/index.m3u8
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
-http://190.61.102.67:9000/play/a00j
+http://168.194.171.33:8000/play/a00s/index.m3u8
 #EXTINF:0 type="stream" channelId="2587" group="unsorted", HBO Xtreme
-http://190.61.102.67:9000/play/a00l
+http://168.194.171.33:8000/play/a00t/index.m3u8
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
 https://regioplay.xyz/php/SR_REGIO_102023_/tpnuevo01.php?tokennn=Regio&c=353&f=.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
