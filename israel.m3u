@@ -66,7 +66,7 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Suma Tv UAEH
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1667838159&e=1667838279&h=5daff79986a4e1bccdad79e7c00f7a16
+https://stream-01.sv4.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfCMK5soymNvR-rM2oHDzmXVnrZ_u-JDcWuXZvxFwp6Bm)/dm/3/x8coxq9/s/live-2.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Heraldo Tv
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
@@ -88,15 +88,15 @@ https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2497" group="unsorted", TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="unsorted", HBO HD
-http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", HBO2 HD
-http://168.194.171.33:8000/play/a00r/index.m3u8
+http://170.83.242.8:5350/play/a001
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", HBO2 HD
+http://170.83.242.8:5350/play/a02o
 #EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO family
 http://170.83.242.8:5350/play/a02r
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
-http://168.194.171.33:8000/play/a00s/index.m3u8
+http://170.83.242.8:5350/play/a02p
 #EXTINF:0 type="stream" channelId="2587" group="unsorted", HBO Xtreme
-http://168.194.171.33:8000/play/a00t/index.m3u8
+http://170.83.242.8:5350/play/a02q
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
 https://regioplay.xyz/php/SR_REGIO_102023_/tpnuevo01.php?tokennn=Regio&c=353&f=.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
