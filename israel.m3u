@@ -22,7 +22,7 @@ https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2278&f=
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=725&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1922&f=.m3u8
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1825&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
@@ -553,8 +553,8 @@ http://regioplay.xyz/php/SR_REGIO_112023_/vix.php?c=309&pid=309&token=SrRegio&f=
 http://regioplay.xyz/php/SR_REGIO_112023_/vix.php?c=192&pid=192&token=SrRegio&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Cine Del Ayer
 http://regioplay.xyz/php/SR_REGIO_112023_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
-#EXTINF:0 type="stream" channelId="4612" group="unsorted", Comedy Tv
-http://regioplay.xyz/php/SR_REGIO_112023_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
+#EXTINF:0 type="stream" channelId="4612" group="unsorted", Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Como Dice El Dicho
 http://regioplay.xyz/php/SR_REGIO_112023_/vix.php?c=341&pid=341&token=SrRegio&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Corazón Salvaje
