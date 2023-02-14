@@ -4,9 +4,11 @@ https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=113&f=.
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://8f1b-201-114-104-161.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=102&f=.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+#EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
+https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Las Estrellas  2
-http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/229220.ts
+https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
@@ -70,7 +72,7 @@ https://stream-01.sv4.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfCMK5soymNvR-rM2oH
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Heraldo Tv
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=272&f=.m3u8
+https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Planeta tv movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
@@ -103,18 +105,18 @@ https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=353&f=.
 http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/958.ts
 #EXTINF:0 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=207&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", UNIVERSAL CINEMA HD
-http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/36428.ts
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", UNIVERSAL COMEDY HD
-http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/36431.ts
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", UNIVERSAL CRIME HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/98
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", UNIVERSAL PREMIERE HD
-http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/36426.ts
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", UNIVERSAL PREMIERE O HD
-http://190.108.87.149:8000/play/a0il/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", UNIVERSAL REALITY HD
-http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/36427.ts
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN HD
+https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN EDG HD
+https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Golden Multiplex HD
+https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Golden Multiplex -1 hora E HD
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Golden Plus HD
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Golden Premier HD
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=444&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 34.1
