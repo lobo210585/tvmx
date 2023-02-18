@@ -28,7 +28,7 @@ https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=1825&f=
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NICK JR
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo01.php?tokennn=Regio&c=310&f=.m3u8
+http://line.tektv.live:80/Ethel2023/Ethel2023/552949
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
 http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/1965.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
