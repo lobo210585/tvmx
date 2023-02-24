@@ -44,7 +44,7 @@ https://627bb251f23c7.streamlock.net:444/AlientoSD/smil:AlientoSD.smil/playlist.
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4569" group="unsorted", eNLACE
-http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/315359.ts
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", N +
