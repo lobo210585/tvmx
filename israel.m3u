@@ -6,9 +6,9 @@ https://0e76-201-114-106-192.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo01.php?tokennn=Regio&c=102&f=.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
-https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Las Estrellas  2
-https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
@@ -68,7 +68,7 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Suma Tv UAEH
-https://stream-01.sv4.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfCMK5soymNvR-rM2oHDzmXVnrZ_u-JDcWuXZvxFwp6Bm)/dm/3/x8coxq9/s/live-2.m3u8
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Heraldo Tv
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
