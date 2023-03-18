@@ -4,7 +4,7 @@ https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo01.php?tokennn=Regio&c=113&f=.
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://0e76-201-114-106-192.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo01.php?tokennn=Regio&c=102&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Las Estrellas  2
