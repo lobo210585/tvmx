@@ -8,7 +8,7 @@ https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=102&f=.
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
 http://185.53.88.153:8080/live/Area504/504restream/115727.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Las Estrellas  2
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+http://185.53.88.153:8080/live/Area504/504restream/25122.ts
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo01.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
