@@ -6,9 +6,15 @@ https://1afe-201-114-104-131.ngrok.io/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
+http://185.53.88.153:8080/live/Area504/504restream/176538.ts
+#EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
 http://185.53.88.153:8080/live/Area504/504restream/115728.ts
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Las Estrellas  2
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantiflas 1
 http://185.53.88.153:8080/live/Area504/504restream/25122.ts
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas 2
+http://185.53.88.153:8080/live/Area504/504restream/24889.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La India Maria" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 La India Maria
+http://185.53.88.153:8080/live/Area504/504restream/40929.ts
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
@@ -22,7 +28,7 @@ https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=2278&f=
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
 https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=725&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+http://185.53.88.153:8080/live/Area504/504restream/40858.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=1825&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
