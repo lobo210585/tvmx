@@ -18,7 +18,7 @@ http://185.53.88.153:8080/live/Area504/504restream/40929.ts
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=55&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
