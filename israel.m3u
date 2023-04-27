@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+http://45.182.21.251:33334/play/a07x/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://7dff-201-114-108-63.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
@@ -8,25 +8,19 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist_1024x576.m3
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
 http://185.53.88.153:8080/live/Area504/504restream/176538.ts
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
-http://185.53.88.153:8080/live/Area504/504restream/115728.ts
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantiflas 1
-http://185.53.88.153:8080/live/Area504/504restream/25122.ts
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas 2
-http://185.53.88.153:8080/live/Area504/504restream/24889.ts
-#EXTINF:0 tvg-id="" tvg-name="24/7 La India Maria" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H "Comedia"",24/7 La India Maria
-http://185.53.88.153:8080/live/Area504/504restream/40929.ts
+http://45.190.13.50:8000/play/a03e/index.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
+http://45.5.118.226:8000/play/a04x/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
 #EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2278&f=.m3u8
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=725&f=.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
 http://185.53.88.153:8080/live/Area504/504restream/24494.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
