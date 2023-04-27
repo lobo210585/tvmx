@@ -24,7 +24,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
 http://185.53.88.153:8080/live/Area504/504restream/24494.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1825&f=.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE03.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE03.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NICK JR
@@ -102,7 +104,7 @@ http://170.83.242.8:5350/play/a02p
 #EXTINF:0 type="stream" channelId="2587" group="unsorted", HBO Xtreme
 http://170.83.242.8:5350/play/a02q
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=353&f=.m3u8
+http://168.194.171.33:8000/play/a05m/index.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
 http://45.160.15.130:2909/play/033
 #EXTINF:0 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
