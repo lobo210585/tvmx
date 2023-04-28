@@ -6,7 +6,7 @@ https://7dff-201-114-108-63.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8?
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
-http://185.53.88.153:8080/live/Area504/504restream/176538.ts
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
 http://45.190.13.50:8000/play/a03e/index.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
