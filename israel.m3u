@@ -8,9 +8,9 @@ http://45.228.234.77:3340/play/lasestrellas/index.m3u8?
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
-http://45.190.13.50:8000/play/a03e/index.m3u8
+http://200.24.151.134:8000/play/a019/index.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-http://190.61.102.67:31589/play/a00h/index.m3u8
+http://200.24.151.134:8000/play/a013/index.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://45.5.118.226:8000/play/a04x/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
@@ -30,7 +30,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE03.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NICK JR
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=310&f=.m3u8
+http://45.190.13.50:8000/play/a03e/index.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
