@@ -144,49 +144,37 @@ http://45.5.118.226:8000/play/a0hp/index.m3u8
 #EXTINF:0 type="stream" channelId="2557" group="unsorted", WARNER CHANNEL
 http://45.5.118.226:8000/play/a0ho/index.m3u8
 #EXTINF:0 type="stream" channelId="1303" group="unsorted", FX
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
+http://45.5.118.226:8000/play/a0gw/index.m3u8
 #EXTINF:0 type="stream" channelId="1208" group="unsorted", A&E
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
-#EXTINF:0 type="stream" channelId="2626" group="unsorted", TRU TV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=215&f=.m3u8
+http://45.5.118.226:8000/play/a0gt/index.m3u8
 #EXTINF:0 type="stream" channelId="1190" group="unsorted", COMEDY CENTRAL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=217&f=.m3u8
+http://45.5.118.226:8000/play/a0hy/index.m3u8
 #EXTINF:0 type="stream" channelId="388" group="unsorted", UNICABLE
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=218&f=.m3u8
 #EXTINF:0 type="stream" channelId="3713" group="unsorted", HOLA TV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=219&f=.m3u8
-#EXTINF:0 type="stream" channelId="3775" group="unsorted", MAS CHIC
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=221&f=.m3u8
+http://45.5.118.226:8000/play/a0hx/index.m3u8
 #EXTINF:0 type="stream" channelId="238" group="unsorted", AZ CORAZON
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
+http://45.5.118.226:8000/play/a0g6/index.m3u8
 #EXTINF:0 type="stream" channelId="1188" group="unsorted", E!
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=255&f=.m3u8
-#EXTINF:0 type="stream" channelId="73" group="unsorted", SYFY
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=257&f=.m3u8
+http://45.5.118.226:8000/play/a0gr/index.m3u8
+#EXTINF:0 type="stream" channelId="73" group="unsorted", TNT
+http://45.5.118.226:8000/play/a0hu/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" group="unsorted", TNT SERIES
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=266&f=.m3u8
-#EXTINF:0 type="stream" channelId="310" group="unsorted", GOURMET
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=268&f=.m3u8
-#EXTINF:0 type="stream" channelId="4039" group="unsorted", GARAGE TV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=269&f=.m3u8
-#EXTINF:0 type="stream" channelId="3763" group="unsorted", GLITZ
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=270&f=.m3u8
+http://45.5.118.226:8000/play/a0km/index.m3u8
 #EXTINF:0 type="stream" channelId="3228" group="unsorted", TBS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=273&f=.m3u8
+http://45.5.118.226:8000/play/a0g9/index.m3u8
 #EXTINF:0 type="stream" channelId="2504" group="unsorted", TLNOVELAS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=275&f=.m3u8
+http://45.5.118.226:8000/play/a054/index.m3u8
 #EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=276&f=.m3u8
+http://45.5.118.226:8000/play/a0h8/index.m3u8
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=303&f=.m3u8
+http://45.5.118.226:8000/play/a03l/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", DSINEY JR
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=308&f=.m3u8
+http://45.5.118.226:8000/play/a0g1/index.m3u8
 #EXTINF:0 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=312&f=.m3u8
-#EXTINF:0 type="stream" channelId="3889" group="unsorted", NICK MUSIC
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=314&f=.m3u8
+http://45.5.118.226:8000/play/a0i8/index.m3u8
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=315&f=.m3u8
+http://45.5.118.226:8000/play/a0fz/index.m3u8
 #EXTINF:0 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=320&f=.m3u8
 #EXTINF:0 type="stream" channelId="2639" group="unsorted", TOONCAST
