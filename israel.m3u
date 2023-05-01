@@ -132,7 +132,7 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=109&f=.
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SPR
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="473" group="unsorted", BABY TV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=116&f=.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="333" group="unsorted", GOLDEN
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=123&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", EUROPA
