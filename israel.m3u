@@ -207,78 +207,43 @@ http://45.5.118.226:8000/play/a0il/index.m3u8
 http://45.5.118.226:8000/play/a0go/index.m3u8
 #EXTINF:0 type="stream" channelId="895" group="unsorted", TCM
 http://45.5.118.226:8000/play/a0jw/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", ESPN XTRA
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=516&f=.m3u8
-#EXTINF:0 type="stream" channelId="355" group="unsorted", ESPN 3
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=520&f=.m3u8
-#EXTINF:0 type="stream" channelId="1328" group="unsorted", FOX SPORTS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=522&f=.m3u8
-#EXTINF:0 type="stream" channelId="170" group="unsorted", FOX SPORTS 2
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=527&f=.m3u8
-#EXTINF:0 type="stream" channelId="4665" group="unsorted", PX SPORTS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=528&f=.m3u8
-#EXTINF:0 type="stream" channelId="344" group="unsorted", ESPN 2
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=558&f=.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="unsorted", ESPN
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=561&f=.m3u8
-#EXTINF:0 type="stream" channelId="227" group="unsorted", AYM SPORTS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=576&f=.m3u8
-#EXTINF:0 type="stream" channelId="378" group="unsorted", TVE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=651&f=.m3u8
-#EXTINF:0 type="stream" channelId="352" group="unsorted", DW
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=654&f=.m3u8
-#EXTINF:0 type="stream" channelId="143" group="unsorted", RT
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2091&f=.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", PARAMUNT CHANNEL
+http://45.5.118.226:8000/play/a0kl/index.m3u8
+#EXTINF:0,Claro Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0kz/index.m3u8
+#EXTINF:0,ESPN +
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0gl/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0ki/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0kh/index.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0ix/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0kg/index.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0ht/index.m3u8
+#EXTINF:0,FOX SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0kj/index.m3u8
+#EXTINF:0,Golf Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a0h1/index.m3u8
+#EXTINF:0,Latin America Sport
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a03j/index.m3u8
+#EXTINF:0,Tigo Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.226:8000/play/a02v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", EXCELSIORTV
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1449&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", PARAMUNT CHANNEL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", ADRENALINA SPORTS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1799&f=.m3u8
-#EXTINF:0 type="stream" channelId="2146" group="unsorted", TELERITMO
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1943&f=.m3u8
-#EXTINF:0 type="stream" channelId="3640" group="unsorted", A3SERIES
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2113&f=.m3u8
-#EXTINF:0 type="stream" channelId="1244" group="unsorted", FOOD NETWORK
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2145&f=.m3u8
-#EXTINF:0 type="stream" channelId="2709" group="unsorted", TEEN NICK
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2147&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", MN
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2156&f=.m3u8
-#EXTINF:0 type="stream" channelId="3628" group="unsorted", TVC DEPORTES
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2157&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", EL FINANCIERO
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2167&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA MTY
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", A MAS + MTY
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2316&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", STAR TVE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2375&f=.m3u8
-#EXTINF:0 type="stream" channelId="59" group="unsorted", DISCOVERY ID
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2376&f=.m3u8
-#EXTINF:0 type="stream" channelId="2840" group="unsorted", DISCOVERY TURBO
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2379&f=.m3u8
-#EXTINF:0 type="stream" channelId="139" group="unsorted", FRANCE 24
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2402&f=.m3u8
-#EXTINF:0 type="stream" channelId="1573" group="unsorted", AXN
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2507&f=.m3u8
-#EXTINF:0 type="stream" channelId="287" group="unsorted", CLARO SPORTS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
-#EXTINF:0 type="stream" channelId="4172" group="unsorted", FUEL TV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2587&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", BIT ME
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2591&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", CURIOSITY STREAM
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2594&f=.m3u8
-#EXTINF:0 type="stream" channelId="1418" group="unsorted", HGTV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=3105&f=.m3u8
-#EXTINF:0 type="stream" channelId="4672" group="unsorted", A3CINE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=3112&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", NIÑOS APRENDE
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=3115&f=.m3u8
-#EXTINF:0 type="stream" channelId="4424" group="unsorted", UBEAT
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=3135&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
