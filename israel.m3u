@@ -16,17 +16,17 @@ http://45.5.118.226:8000/play/a04x/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-http://190.61.102.67:31589/play/a00i/index.m3u8
+http://45.5.118.226:8000/play/a04w/index.m3u8
 #EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
+http://45.5.118.226:8000/play/a0gz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
 http://185.53.88.153:8080/live/Area504/504restream/24494.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE03.m3u8
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE03.m3u8
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w179760301.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NICK JR
@@ -74,7 +74,7 @@ https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Heraldo Tv
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=272&f=.m3u8
+http://45.5.118.226:8000/play/a04v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Planeta tv movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
@@ -108,7 +108,7 @@ http://168.194.171.33:8000/play/a05m/index.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
 http://45.160.15.130:2909/play/033
 #EXTINF:0 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
+http://45.5.118.226:8000/play/a0ih/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN HD
 http://185.53.88.153:8080/live/Area504/504restream/1867.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN EDG HD
