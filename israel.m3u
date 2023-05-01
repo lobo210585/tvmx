@@ -22,7 +22,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
 http://45.5.118.226:8000/play/a0gz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-http://185.53.88.153:8080/live/Area504/504restream/24494.ts
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
@@ -60,7 +60,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 Puebla
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TVBuap
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SET Televisión Canal 26.2 (720p) [Not 24/7]
@@ -110,7 +110,7 @@ http://45.160.15.130:2909/play/033
 #EXTINF:0 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
 http://45.5.118.226:8000/play/a0ih/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN HD
-http://185.53.88.153:8080/live/Area504/504restream/1867.ts
+http://45.228.234.41:16000/play/a0aj/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN EDG HD
 http://185.53.88.153:8080/live/Area504/504restream/24126.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Golden Multiplex HD
@@ -122,11 +122,11 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Golden Premier HD
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
+http://45.228.234.41:16000/play/a09n/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 34.1
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/chunklist_w1761094365.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgNjo1NTo0OCBQTSZoYXNoX3ZhbHVlPStNeHJ4amhCeHpZUURoVEEvQmdRcGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
 #EXTINF:0 type="stream" channelId="1968" group="unsorted", TELEMUNDO INTERNACIONAL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
+http://45.228.234.41:16000/play/a09o/index.m3u8
 #EXTINF:0 type="stream" channelId="3804" group="unsorted", TUDN
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SPR
