@@ -132,29 +132,17 @@ https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=109&f=.
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SPR
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="473" group="unsorted", BABY TV
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:0 type="stream" channelId="333" group="unsorted", GOLDEN
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=123&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", EUROPA
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=136&f=.m3u8
+http://45.5.118.226:8000/play/a03i/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", FILMS&ARTS
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=137&f=.m3u8
+http://45.5.118.226:8000/play/a0gs/index.m3u8
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=185&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", CNN ESP
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
-#EXTINF:0 type="stream" channelId="363" group="unsorted", AL JAZEERA
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=192&f=.m3u8
-#EXTINF:0 type="stream" channelId="3780" group="unsorted", NTN24
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=194&f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", ANTENA 3 INT
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=199&f=.m3u8
+http://45.5.118.226:8000/play/a0gi/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", STAR CHANNEL
-http://200.24.151.134:8000/play/a012/index.m3u8
+http://45.5.118.226:8000/play/a0hn/index.m3u8
 #EXTINF:0 type="stream" channelId="188" group="unsorted", SONY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
+http://45.5.118.226:8000/play/a0hp/index.m3u8
 #EXTINF:0 type="stream" channelId="2557" group="unsorted", WARNER CHANNEL
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=205&f=.m3u8
+http://45.5.118.226:8000/play/a0ho/index.m3u8
 #EXTINF:0 type="stream" channelId="1303" group="unsorted", FX
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
 #EXTINF:0 type="stream" channelId="1208" group="unsorted", A&E
