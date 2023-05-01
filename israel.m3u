@@ -106,7 +106,7 @@ http://170.83.242.8:5350/play/a02q
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
 http://168.194.171.33:8000/play/a05m/index.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
-http://45.160.15.130:2909/play/033
+http://45.228.234.41:16000/play/a0aa/index.m3u8
 #EXTINF:0 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
 http://45.5.118.226:8000/play/a0ih/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN HD
@@ -130,7 +130,7 @@ http://45.228.234.41:16000/play/a09o/index.m3u8
 #EXTINF:0 type="stream" channelId="3804" group="unsorted", TUDN
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SPR
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=111&f=.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="473" group="unsorted", BABY TV
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=116&f=.m3u8
 #EXTINF:0 type="stream" channelId="333" group="unsorted", GOLDEN
