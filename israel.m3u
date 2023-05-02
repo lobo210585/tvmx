@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhuVoqLqPFbgsJgMh0_7Ks2w
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://a18d-201-114-107-248.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
@@ -10,19 +10,19 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
 http://200.24.151.134:8000/play/a019/index.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-http://190.61.102.67:31589/play/a00h/index.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhpX8VpYGmkYMgdEl43ZaNgY
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://45.5.118.226:8000/play/a04x/index.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhiA1c0KL5BKuhLHFLz_T6IE
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhl_TGYkeQKPfyRIyvBSs_m4
 #EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
 http://45.5.118.226:8000/play/a0gz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-http://190.61.102.67:31589/play/a03b/index.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAho3FM5Fi1P1Cy2WeTGQh0pg
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
@@ -74,7 +74,7 @@ https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Heraldo Tv
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://45.5.118.226:8000/play/a04v/index.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhk7N5vLEPonEAhniRbueJhI
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Planeta tv movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
