@@ -22,7 +22,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
 http://45.5.118.226:8000/play/a0gz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+http://190.61.102.67:31589/play/a03b/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
@@ -184,7 +184,7 @@ http://45.5.118.226:8000/play/a0hw/index.m3u8
 #EXTINF:0 type="stream" channelId="56" group="unsorted", NAT GEO
 http://45.5.118.226:8000/play/a0kk/index.m3u8
 #EXTINF:0 type="stream" channelId="57" group="unsorted", DISCOVERY CHANNEL
-http://45.5.118.226:8000/play/a0kn/index.m3u8
+http://190.61.102.67:31589/play/a03x/index.m3u8
 #EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
 http://45.5.118.226:8000/play/a0gq/index.m3u8
 #EXTINF:0 type="stream" channelId="1200" group="unsorted", LIFETIME
