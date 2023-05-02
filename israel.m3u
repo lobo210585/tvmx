@@ -78,9 +78,9 @@ http://45.5.118.226:8000/play/a04v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Planeta tv movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=335&f=.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAht83TyiZUT_QquV95zYRJfE
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=442&f=.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhjwSnfl8nonXBlWOdj4wm6o
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 https://inliveserver.com:1936/14056/14056/chunklist_w1029652324.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", JUSTICIA TV
