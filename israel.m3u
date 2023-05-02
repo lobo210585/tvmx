@@ -166,7 +166,7 @@ http://45.5.118.226:8000/play/a0h8/index.m3u8
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
 http://45.5.118.226:8000/play/a03l/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", DSINEY JR
-http://190.61.102.67:31589/play/a03j/index.m3u8
+http://45.5.118.226:8000/play/a0g1/index.m3u8
 #EXTINF:0 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
 http://45.5.118.226:8000/play/a0i8/index.m3u8
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
