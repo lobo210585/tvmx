@@ -184,7 +184,7 @@ http://45.5.118.226:8000/play/a0hw/index.m3u8
 #EXTINF:0 type="stream" channelId="56" group="unsorted", NAT GEO
 http://45.5.118.226:8000/play/a0kk/index.m3u8
 #EXTINF:0 type="stream" channelId="57" group="unsorted", DISCOVERY CHANNEL
-http://190.61.102.67:31589/play/a03x/index.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhv0t6YMMALyTFDk8WxOdlvU
 #EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
 http://45.5.118.226:8000/play/a0gq/index.m3u8
 #EXTINF:0 type="stream" channelId="1200" group="unsorted", LIFETIME
