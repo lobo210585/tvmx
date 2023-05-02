@@ -10,7 +10,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
 http://200.24.151.134:8000/play/a019/index.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLksGOGkqVMfMOt5bbEacukY4vRX6mBH7kYSMBpZBewEu)/dm/3/x82z4if/d/live-2.m3u8
+http://190.61.102.67:31589/play/a00h/index.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://45.5.118.226:8000/play/a04x/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
