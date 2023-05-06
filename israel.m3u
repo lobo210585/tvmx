@@ -6,7 +6,7 @@ https://a18d-201-114-107-248.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8?
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/250230
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
 http://200.24.151.134:8000/play/a019/index.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
@@ -160,7 +160,7 @@ http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTINF:0 type="stream" channelId="3228" group="unsorted", TBS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:0 type="stream" channelId="2504" group="unsorted", TLNOVELAS
-http://181.189.243.254:8000/play/a0r5/index.m3u8
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/413
 #EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
 http://181.189.243.254:8000/play/a0s4/index.m3u8
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
