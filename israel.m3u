@@ -200,7 +200,7 @@ http://181.189.243.254:8000/play/a0sl/index.m3u8
 #EXTINF:0 type="stream" channelId="383" group="unsorted", SPACE
 http://181.189.243.254:8000/play/a0ph/index.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
-http://45.5.118.226:8000/play/a0hl/index.m3u8
+http://190.95.220.212:8000/play/a02l/index.m3u8
 #EXTINF:0 type="stream" channelId="1326" group="unsorted", CINEMAX
 http://181.189.243.254:8000/play/a0v2/index.m3u8
 #EXTINF:0 type="stream" channelId="2625" group="unsorted", STUDIO UNIVERSAL
