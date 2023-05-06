@@ -140,7 +140,7 @@ http://45.166.92.22:58001/play/a036/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", STAR CHANNEL
 http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:0 type="stream" channelId="188" group="unsorted", SONY CHANNEL
-http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/2604
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/2606
 #EXTINF:0 type="stream" channelId="2557" group="unsorted", WARNER CHANNEL
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 #EXTINF:0 type="stream" channelId="1303" group="unsorted", FX
