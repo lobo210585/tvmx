@@ -84,7 +84,7 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
 http://45.190.13.50:8003/play/a03s/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhjwSnfl8nonXBlWOdj4wm6o
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w1988464715.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIzIDM6MzM6MTMgUE0maGFzaF92YWx1ZT1uL0NIMkNlRW5Lbk91cXlOREVMVzBnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 https://inliveserver.com:1936/14056/14056/chunklist_w1029652324.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", JUSTICIA TV
