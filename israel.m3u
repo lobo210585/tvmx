@@ -74,7 +74,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684186085/ei/hU9iZJWWFbeiir4P97OQ2Ao/ip/2806%3A105e%3A15%3A84db%3A79a3%3A4db%3Ae924%3Af04/id/K48uPy2gA0c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfq4FklNI2RBQQMJOElrTzlah9p_Es9NzqixTWUQ5zwgCIQCS8SbBcqrny-6wK6kChb3L5RHjDOer5Y6bThJD2Uurog%3D%3D/file/index.m3u8
+https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 13 Puebla
 https://c13mx.mediatiquestream.com/canal13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13puebla/live3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TVBuap
