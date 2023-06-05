@@ -44,7 +44,7 @@ http:\\zeustv.vip:8080\cuentapremium22\Nd7ANcYN9N7E\113958
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NICK JR
-http://45.190.13.50:8000/play/a03e/index.m3u8
+http://190.92.7.19:8000/play/a010/index.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
@@ -114,9 +114,9 @@ http://45.181.121.57:2909/play/021
 #EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO family
 http://45.181.121.57:2909/play/018
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
-http://170.83.242.8:5350/play/a02p
+http://45.4.1.156:7778/play/a019/index.m3u8
 #EXTINF:0 type="stream" channelId="2587" group="unsorted", HBO Xtreme
-http://170.83.242.8:5350/play/a02q
+http://45.4.1.156:7778/play/a01a/index.m3u8
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
 http://168.194.171.33:8000/play/a05m/index.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
