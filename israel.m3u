@@ -42,7 +42,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
 http:\\zeustv.vip:8080\cuentapremium22\Nd7ANcYN9N7E\113958 
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
-http:\\hidra.live:80\yhehteog\NeN02o7t1o\50622
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NICK JR
 http://45.190.13.50:8000/play/a03e/index.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
