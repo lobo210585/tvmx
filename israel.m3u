@@ -22,7 +22,7 @@ http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/396
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://190.61.102.67:31589/play/a038/index.m3u8
+http://allstar.is-by.us:25461/Paco2022/PHL8TzHozb/126373
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 Puebla
@@ -36,7 +36,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
 http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/414
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-http://vod.supremetv.live:80/ricardo/ricardo/552805
+http://allstar.is-by.us:25461/Paco2022/PHL8TzHozb/140217
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
