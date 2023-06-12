@@ -609,3 +609,23 @@ http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601937.m3u8
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601705.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted",  STAR+ 3 FHD (SOLO EVENTOS)
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601700.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  01 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580703.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  02 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580699.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  03 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580704.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  04 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580698.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  05 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580701.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  06 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580705.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  07 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580697.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  08 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580696.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  09 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580702.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  10 | CINEMA 4K
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580700.m3u8
