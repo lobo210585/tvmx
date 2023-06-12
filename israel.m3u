@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/382459.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO -1 SD
 http://hidra.live:80/xaehsalg/454K7nBmkn/302685
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO -2 SD
@@ -597,3 +597,15 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  EVENTOS STAR A
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601707.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  EVENTOS STAR B
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601719.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  EVENTOS STAR C
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601699.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  STAR+ 1 FHD (SOLO EVENTOS)
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601937.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  STAR+ 2 FHD (SOLO EVENTOS)
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601705.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted",  STAR+ 3 FHD (SOLO EVENTOS)
+http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601700.m3u8
