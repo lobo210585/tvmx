@@ -92,9 +92,9 @@ http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/542053.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Planeta tv movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://45.190.13.50:8003/play/a03s/index.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31740
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w1988464715.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIzIDM6MzM6MTMgUE0maGFzaF92YWx1ZT1uL0NIMkNlRW5Lbk91cXlOREVMVzBnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298053
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/431812.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", JUSTICIA TV
