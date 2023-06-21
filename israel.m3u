@@ -108,15 +108,15 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
 #EXTINF:0 tvg-id="TelevisaVeracruz.mx" status="online",Televisa Veracruz (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="unsorted", HBO HD
-http://45.181.121.57:2909/play/017
+http://190.61.102.67:8000/play/a015
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", HBO2 HD
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/386225.m3u8
+http://190.61.102.67:8000/play/a016
 #EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO family
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/386226.m3u8
+http://190.61.102.67:8000/play/a018
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/386228.m3u8
+http://45.228.232.204:16000/play/a042/index.m3u8
 #EXTINF:0 type="stream" channelId="2587" group="unsorted", HBO Xtreme
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/386231.m3u8
+http://190.61.102.67:8000/play/a019
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
 http://168.194.171.33:8000/play/a05m/index.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
@@ -124,7 +124,7 @@ http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:0 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
 http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/364
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN HD
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580772.m3u8
+http://190.61.102.67:8000/play/a02b
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", GOLDEN EDG HD
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/441945.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Golden Multiplex HD
