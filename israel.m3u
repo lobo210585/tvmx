@@ -114,9 +114,9 @@ http://190.61.102.67:8000/play/a016
 #EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO family
 http://156.146.38.236:1198
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
-http://45.228.232.204:16000/play/a042/index.m3u8
+http://156.146.38.236:1195
 #EXTINF:0 type="stream" channelId="2587" group="unsorted", HBO Xtreme
-http://190.61.102.67:8000/play/a019
+http://156.146.38.236:1201
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
 http://168.194.171.33:8000/play/a05m/index.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
