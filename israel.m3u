@@ -10,9 +10,9 @@ https://a71f-201-114-107-21.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8?
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -1
-http://hidra.live:80/xaehsalg/454K7nBmkn/304504
+http://156.146.38.236:1011
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Las Estrellas -2
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
+hhttp://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30356.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Cantinflas
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/636735.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
