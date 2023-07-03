@@ -108,9 +108,9 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w334239876.m3u8
 #EXTINF:0 tvg-id="TelevisaVeracruz.mx" status="online",Televisa Veracruz (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="unsorted", HBO HD
-http://190.61.102.67:8000/play/a015
+http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", HBO2 HD
-http://190.61.102.67:8000/play/a016
+http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO family
 http://156.146.38.236:1198
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
