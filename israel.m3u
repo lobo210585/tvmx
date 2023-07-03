@@ -94,7 +94,7 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31740
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://hidra.live:80/xaehsalg/454K7nBmkn/35000
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298053
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/431812.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", JUSTICIA TV
