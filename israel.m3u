@@ -198,13 +198,13 @@ http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:0 type="stream" channelId="56" group="unsorted", NAT GEO
 http://45.190.13.50:8003/play/a02a/index.m3u8
 #EXTINF:0 type="stream" channelId="57" group="unsorted", DISCOVERY CHANNEL
-http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/336
+http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
 http://181.189.243.254:8000/play/a0q4/index.m3u8
 #EXTINF:0 type="stream" channelId="1200" group="unsorted", LIFETIME
 http://181.189.243.254:8000/play/a0pl/index.m3u8
 #EXTINF:0 type="stream" channelId="58" group="unsorted", DISCOVERY SCIENCE
-http://181.189.243.254:8000/play/a0ny/index.m3u8
+http://45.166.92.22:58001/play/a01s/index.m3u8
 #EXTINF:0 type="stream" channelId="73" group="unsorted", TNT
 http://45.190.13.50:8003/play/a02w/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" group="unsorted", TNT SERIES
