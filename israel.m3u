@@ -30,7 +30,7 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52474.ts
 #EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
@@ -142,11 +142,11 @@ https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/chunklist_w17610
 #EXTINF:0 type="stream" channelId="1968" group="unsorted", TELEMUNDO INTERNACIONAL
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:0 type="stream" channelId="3804" group="unsorted", TUDN
-http://45.190.13.50:8002/play/a003/index.m3u8
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/48992.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SPR
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="473" group="unsorted", BABY TV
-http://181.189.243.254:8000/play/a0ns/index.m3u8
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166502.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", FILMS&ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
@@ -162,17 +162,17 @@ http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:0 type="stream" channelId="1208" group="unsorted", A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:0 type="stream" channelId="1190" group="unsorted", COMEDY CENTRAL
-http://181.189.243.254:8000/play/a0su/index.m3u8
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/169604.ts
 #EXTINF:0 type="stream" channelId="388" group="unsorted", UNICABLE
 http://45.228.234.77:3340/play/unicable/index.m3u8?
 #EXTINF:0 type="stream" channelId="3713" group="unsorted", HOLA TV
 http://45.166.92.22:58001/play/a016/index.m3u8
 #EXTINF:0 type="stream" channelId="238" group="unsorted", AZ CORAZON
-http://181.189.243.254:8000/play/a0pg/index.m3u8
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52473.ts
 #EXTINF:0 type="stream" channelId="1188" group="unsorted", E!
 http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTINF:0 type="stream" channelId="3228" group="unsorted", TBS
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59110
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121706.ts
 #EXTINF:0 type="stream" channelId="2504" group="unsorted", TLNOVELAS
 http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/413
 #EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
@@ -188,7 +188,7 @@ http://45.228.232.204:16000/play/a06y/index.m3u8
 #EXTINF:0 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/2978
 #EXTINF:0 type="stream" channelId="2639" group="unsorted", TOONCAST
-http://181.189.243.254:8000/play/a0s3/index.m3u8
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/131731.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", DISCOVERY THEATER
 http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:0 type="stream" channelId="2839" group="unsorted", DISCOVERY WORLD
@@ -202,7 +202,7 @@ http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
 http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:0 type="stream" channelId="1200" group="unsorted", LIFETIME
-http://181.189.243.254:8000/play/a0pl/index.m3u8
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/187271.ts
 #EXTINF:0 type="stream" channelId="58" group="unsorted", DISCOVERY SCIENCE
 http://45.228.232.204:16000/play/a03b/index.m3u8
 #EXTINF:0 type="stream" channelId="73" group="unsorted", TNT
