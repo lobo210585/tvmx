@@ -204,7 +204,7 @@ http://181.189.243.254:8000/play/a0q4/index.m3u8
 #EXTINF:0 type="stream" channelId="1200" group="unsorted", LIFETIME
 http://181.189.243.254:8000/play/a0pl/index.m3u8
 #EXTINF:0 type="stream" channelId="58" group="unsorted", DISCOVERY SCIENCE
-http://45.166.92.22:58001/play/a01s/index.m3u8
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/126393
 #EXTINF:0 type="stream" channelId="73" group="unsorted", TNT
 http://45.190.13.50:8003/play/a02w/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" group="unsorted", TNT SERIES
