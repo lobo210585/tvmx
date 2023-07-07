@@ -16,7 +16,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30356.m3u8
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Cantinflas
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/273153.ts
 #EXTINF:0 type="stream" channelId="0" group="unsorted", Nick Junior HD
-http://200.123.15.181:6011/play/a01w/index.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/199.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/396
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Mvs TV
@@ -44,7 +44,7 @@ http:\\zeustv.vip:8080\cuentapremium22\Nd7ANcYN9N7E\113958
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NICK JR
-https://v3.playerlatino.live/stream/m3u8/79
+http://tvstarlife.com:25461/live/cesar/cesar123/200.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
