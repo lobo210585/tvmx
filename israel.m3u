@@ -92,7 +92,7 @@ http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/201298
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Planeta tv movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31740
+http://181.78.8.90:16123/play/ch57
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298053
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
@@ -210,7 +210,7 @@ http://181.78.21.206:8000/play/a03b/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" group="unsorted", TNT SERIES
 http://45.166.92.22:58001/play/a01m/index.m3u8
 #EXTINF:0 type="stream" channelId="64" group="unsorted", CINECANAL
-http://45.166.92.22:58001/play/a02f/index.m3u8
+http://181.78.8.90:16123/play/ch10
 #EXTINF:0 type="stream" channelId="383" group="unsorted", SPACE
 http://181.78.21.206:8000/play/a031/index.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
@@ -622,10 +622,10 @@ http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580701.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted",  06 | CINEMA 4K
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580705.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted",  07 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580697.m3u8
+http://181.78.8.90:16123/play/ch52
 #EXTINF:0 type="stream" channelId="-1" group="unsorted",  08 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580696.m3u8
+http://181.78.8.90:16123/play/ch51
 #EXTINF:0 type="stream" channelId="-1" group="unsorted",  09 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580702.m3u8
+http://181.78.8.90:16123/play/ch50
 #EXTINF:0 type="stream" channelId="-1" group="unsorted",  10 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580700.m3u8
+http://181.78.8.90:16123/play/ch49
