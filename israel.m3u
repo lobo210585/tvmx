@@ -44,7 +44,7 @@ http://181.78.21.206:8000/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NICK JR
-http://200.123.15.181:6011/play/a01w/index.m3u8
+http://45.228.232.204:16000/play/a02b/index.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
