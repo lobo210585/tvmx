@@ -62,7 +62,7 @@ http://181.78.21.206:8000/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://45.228.232.204:16000/play/a02b/index.m3u8
+http://864457675215511602.ot0711.xyz:80/play/csoler120923/646684/511602.ts
 #EXTINF:0 type="stream" channelId="322" group="unsorted", NICK JR
 http://45.228.232.204:16000/play/a02b/index.m3u8
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
