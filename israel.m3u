@@ -20,7 +20,7 @@ http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/396
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://v3.playerlatino.live/stream/m3u8/14
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59095
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 Puebla
@@ -68,7 +68,7 @@ http://45.228.232.204:16000/play/a02b/index.m3u8
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16579.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+http://181.78.21.206:8000/play/a097/index.m3u8
 #EXTINF:0 type="stream" channelId="2639" group="unsorted", TOONCAST
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/131731.ts
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
