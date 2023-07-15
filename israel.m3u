@@ -8,7 +8,7 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://d68f-201-114-107-60.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/70889
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 http://tv.nousiptv.com:8080/ramonlujan1/55778899/1161847
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
@@ -64,7 +64,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://864457675215511602.ot0711.xyz:80/play/csoler120923/646684/511602.ts
 #EXTINF:0 type="stream" channelId="322" group="unsorted", NICK JR
-http://bgtv.site/play/23-701.php?a=64&token=hulahula
+http://45.71.252.29:8000/play/a00s/index.m3u8
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16579.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
