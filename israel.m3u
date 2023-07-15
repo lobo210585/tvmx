@@ -14,7 +14,7 @@ http://bgtv.site/play/play-701.php?pl=30&token=hulahula|user-agent=Lavf/57.71.10
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30356.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://864457675215275643.ot0711.xyz:80/play/csoler120923/646684/275643.ts
+http://tv.nousiptv.com:8080/ramonlujan1/55778899/4040
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://bgtv.site/play/play-701.php?16=341&token=hulahula
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
@@ -40,7 +40,7 @@ http://181.189.243.254:8000/play/a0s4/index.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
 http://190.95.220.212:8000/play/a02l/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-http://156.146.38.236:1131
+http://tv.nousiptv.com:8080/ramonlujan1/55778899/1155855
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
