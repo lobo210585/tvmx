@@ -62,7 +62,7 @@ http://181.78.21.206:8000/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://864457675215511602.ot0711.xyz:80/play/csoler120923/646684/511602.ts
+http://190.83.116.229:9010/play/a02f/index.m3u8
 #EXTINF:0 type="stream" channelId="322" group="unsorted", NICK JR
 http://45.71.252.29:8000/play/a00s/index.m3u8
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
@@ -170,9 +170,9 @@ http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:0 type="stream" channelId="935" group="unsorted", HBO2 HD
 http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO family
-http://156.146.38.236:1198
+http://190.83.116.229:9010/play/a023/index.m3u8
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
-http://156.146.38.236:1195
+http://190.83.116.229:9010/play/a022/index.m3u8
 #EXTINF:0 type="stream" channelId="2587" group="unsorted", HBO Xtreme
 http://156.146.38.236:1201
 #EXTINF:0 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
@@ -223,24 +223,118 @@ http://45.166.92.22:58001/play/a00k/index.m3u8
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:0 type="stream" channelId="3804" group="unsorted", TUDN
 http://45.170.225.210:58001/play/a041/index.m3u8
-#EXTINF:0 type="stream" channelId="287", Claro Sports HD
-http://181.189.243.254:8000/play/a0on/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", ESPN +
-http://45.228.232.204:16000/play/a030/index.m3u8
-#EXTINF:0 type="stream" channelId="3746", ESPN 2 HD
-http://181.78.21.206:8000/play/a03e/index.m3u8
-#EXTINF:0 type="stream" channelId="357", ESPN 3 HD
-http://181.78.11.238:8000/play/a03c/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", ESPN 4 HD
-http://181.78.21.206:8000/play/a03i/index.m3u8
-#EXTINF:0 type="stream" channelId="1263", ESPN HD
-http://181.78.21.206:8000/play/a03y/index.m3u8
-#EXTINF:0 type="stream" channelId="179", FOX SPORTS 2 HD
-http://181.78.21.206:8000/play/a03j/index.m3u8
-#EXTINF:0 type="stream" channelId="213", FOX SPORTS 3 HD
-http://181.78.21.206:8000/play/a03d/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", EXCELSIORTV
-https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=1449&f=.m3u8
+#EXTINF:-1,LD - ESPN MX
+http://50.7.66.234:8080/Ianira/Alessia/1155892
+#EXTINF:-1,LD - ESPN 2 MX HD
+http://50.7.66.234:8080/Ianira/Alessia/1118923
+#EXTINF:-1,LD - ESPN 3 MX HD
+http://50.7.66.234:8080/Ianira/Alessia/1155903
+#EXTINF:-1,LD - ESPN PLUS MX
+http://50.7.66.234:8080/Ianira/Alessia/4120
+#EXTINF:-1,LD - ESPN EXTRA BRASIL
+http://50.7.66.234:8080/Ianira/Alessia/1159094
+#EXTINF:-1,LD - ESPN 1 BRASIL
+http://50.7.66.234:8080/Ianira/Alessia/1159095
+#EXTINF:-1,LD - ESPN 2 BRASIL
+http://50.7.66.234:8080/Ianira/Alessia/1159096
+#EXTINF:-1,LD - ESPN 3 BRASIL 
+http://50.7.66.234:8080/Ianira/Alessia/1159093
+#EXTINF:-1,LD - ESPN DEPORTES
+http://50.7.66.234:8080/Ianira/Alessia/1155891
+#EXTINF:-1,LD - FOX SPORTS 1 HD CHILE
+http://50.7.66.234:8080/Ianira/Alessia/1155912
+#EXTINF:-1,LD - FOX SPORTS 1 SD (CHILE)
+http://50.7.66.234:8080/Ianira/Alessia/1095232
+#EXTINF:-1,LD - FOX SPORTS 2 SUR HD
+http://50.7.66.234:8080/Ianira/Alessia/16139
+#EXTINF:-1,LD - FOX SPORTS 2 SUR SD
+http://50.7.66.234:8080/Ianira/Alessia/42456
+#EXTINF:-1,LD - FOX SPORTS 3 SUR HD
+http://50.7.66.234:8080/Ianira/Alessia/33475
+#EXTINF:-1,LD - FOX SPORTS 3 SUR SD
+http://50.7.66.234:8080/Ianira/Alessia/43640
+#EXTINF:-1,LD - FOX SPORTS 1 HD MEX 
+http://50.7.66.234:8080/Ianira/Alessia/1156755
+#EXTINF:-1,LD - FOX SPORTS 2 HD MEX 
+http://50.7.66.234:8080/Ianira/Alessia/1156756
+#EXTINF:-1,LD - FOX SPORTS 3 HD MEX
+http://50.7.66.234:8080/Ianira/Alessia/1156757
+#EXTINF:-1,LD - FOX SPORTS 3 MX
+http://50.7.66.234:8080/Ianira/Alessia/4008
+#EXTINF:-1,LD - FOX SPORTS PREMIUM FHD (MX)
+http://50.7.66.234:8080/Ianira/Alessia/1126417
+#EXTINF:-1,LD - DIRECTV SPORTS FHD
+http://50.7.66.234:8080/Ianira/Alessia/1091366
+#EXTINF:-1,LD - DIRECTV SPORTS HD
+http://50.7.66.234:8080/Ianira/Alessia/7863
+#EXTINF:-1,LD - DIRECTV SPORTS SD
+http://50.7.66.234:8080/Ianira/Alessia/33512
+#EXTINF:-1,LD - DIRECTV SPORTS 2 FHD
+http://50.7.66.234:8080/Ianira/Alessia/1091367
+#EXTINF:-1,LD - DIRECTV SPORTS 2 HD
+http://50.7.66.234:8080/Ianira/Alessia/32882
+#EXTINF:-1,LD - DIRECTV SPORTS 2 SD
+http://50.7.66.234:8080/Ianira/Alessia/32881
+#EXTINF:-1,LD - DIRECTV SPORTS PLUS FHD
+http://50.7.66.234:8080/Ianira/Alessia/1091368
+#EXTINF:-1,LD - DIRECTV SPORTS PLUS HD
+http://50.7.66.234:8080/Ianira/Alessia/27879
+#EXTINF:-1,LD - DIRECTV SPORTS PLUS SD
+http://50.7.66.234:8080/Ianira/Alessia/8520
+#EXTINF:-1,LD - DIRECTV FIGHT FHD 
+http://50.7.66.234:8080/Ianira/Alessia/1155911
+#EXTINF:-1,LD - DIRECTV MOTOR 
+http://50.7.66.234:8080/Ianira/Alessia/1166264
+#EXTINF:-1,LD - GOL TV FHD
+http://50.7.66.234:8080/Ianira/Alessia/1092639
+#EXTINF:-1,LD - GOL TV HD
+http://50.7.66.234:8080/Ianira/Alessia/1156009
+#EXTINF:-1,LD - GOL TV SD
+http://50.7.66.234:8080/Ianira/Alessia/1092653
+#EXTINF:-1,LD - GOLF LATIN AMERICA
+http://50.7.66.234:8080/Ianira/Alessia/33363
+#EXTINF:-1,LD - TYC SPORTS
+http://50.7.66.234:8080/Ianira/Alessia/8247
+#EXTINF:-1,LD - TVC DEPORTES
+http://50.7.66.234:8080/Ianira/Alessia/4139
+#EXTINF:-1,LD - CLARO SPORTS HD
+http://50.7.66.234:8080/Ianira/Alessia/12011
+#EXTINF:-1,LD - AYM SPORTS
+http://50.7.66.234:8080/Ianira/Alessia/1156008
+#EXTINF:-1,LD - UNIVISION TUDN USA
+http://50.7.66.234:8080/Ianira/Alessia/1156010
+#EXTINF:-1,LD - UNIVISION DEPORTES FHD
+http://50.7.66.234:8080/Ianira/Alessia/3962
+#EXTINF:-1,LD - UNIVISION TUDN HD
+http://50.7.66.234:8080/Ianira/Alessia/4117
+#EXTINF:-1,LD - TUDN FHD
+http://50.7.66.234:8080/Ianira/Alessia/3963
+#EXTINF:-1,LD - UFC LIVE HD
+http://50.7.66.234:8080/Ianira/Alessia/53372
+#EXTINF:-1,LD - UFC  NETWORK FHD
+http://50.7.66.234:8080/Ianira/Alessia/4082
+#EXTINF:-1,LD - BEIN SPORTS Ñ HD 
+http://50.7.66.234:8080/Ianira/Alessia/1155904
+#EXTINF:-1,LD - BEIN SPORTS SD
+http://50.7.66.234:8080/Ianira/Alessia/43187
+#EXTINF:-1,LD - SKY SPORTS
+http://50.7.66.234:8080/Ianira/Alessia/1151425
+#EXTINF:-1,LD - ELEVEN SPORTS 1
+http://50.7.66.234:8080/Ianira/Alessia/1147316
+#EXTINF:-1,LD - ELEVEN SPORTS 2
+http://50.7.66.234:8080/Ianira/Alessia/1147317
+#EXTINF:-1,LD - ELEVEN SPORTS 3
+http://50.7.66.234:8080/Ianira/Alessia/1147318
+#EXTINF:-1,LD - ELEVEN SPORTS 4
+http://50.7.66.234:8080/Ianira/Alessia/1147319
+#EXTINF:-1,LD - ELEVEN SPORTS 5
+http://50.7.66.234:8080/Ianira/Alessia/1147320
+#EXTINF:-1,LD - ELEVEN SPORTS 6
+http://50.7.66.234:8080/Ianira/Alessia/1147321
+#EXTINF:-1,LD - TIGO SPORTS HD (PARAGUAY)
+http://50.7.66.234:8080/Ianira/Alessia/29832
+#EXTINF:-1,LD - VIX LO MEJOR DE LIGA MX 
+http://50.7.66.234:8080/Ianira/Alessia/1158436
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
