@@ -174,7 +174,7 @@ http://190.83.116.229:9010/play/a023/index.m3u8
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
 http://190.83.116.229:9010/play/a022/index.m3u8
 #EXTINF:0 type="stream" channelId="2587" group="unsorted", HBO Xtreme
-http://156.146.38.236:1201
+http://190.83.116.229:9010/play/a024/index.m3u8
 #EXTINF:0 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
 http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/364
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PARAMUNT CHANNEL
