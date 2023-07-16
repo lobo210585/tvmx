@@ -166,9 +166,9 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298053
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/431812.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="unsorted", HBO HD
-http://45.166.92.22:58001/play/a03s/index.m3u8
+http://190.83.116.230:9010/play/a0bj/index.m3u8
 #EXTINF:0 type="stream" channelId="935" group="unsorted", HBO2 HD
-http://50.7.66.234:8080/099792772/Futbol10/4095
+http://190.83.116.230:9010/play/a021/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO family
 http://190.83.116.229:9010/play/a023/index.m3u8
 #EXTINF:0 type="stream" channelId="2585" group="unsorted", HBO Plus HD
