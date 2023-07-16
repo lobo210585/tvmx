@@ -38,7 +38,7 @@ http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52473.ts
 #EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
 http://181.189.243.254:8000/play/a0s4/index.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
-http://190.95.220.212:8000/play/a02l/index.m3u8
+http://50.7.66.234:8080/Ianira/Alessia/4086
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
 http://tv.nousiptv.com:8080/ramonlujan1/55778899/1155855
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
@@ -56,7 +56,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
 http://45.166.92.22:58001/play/a036/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/273153.ts
+http://50.7.66.234:8080/Ianira/Alessia/1144258
+#EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
+http://50.7.66.234:8080/Ianira/Alessia/47697
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
 http://181.78.21.206:8000/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
@@ -162,7 +164,7 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
 http://181.78.8.90:16123/play/ch57
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298053
+http://50.7.66.234:8080/099792772/Futbol10/1155788
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/431812.m3u8
 #EXTINF:0 type="stream" channelId="1330" group="unsorted", HBO HD
@@ -223,6 +225,8 @@ http://45.166.92.22:58001/play/a00k/index.m3u8
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:0 type="stream" channelId="3804" group="unsorted", TUDN
 http://45.170.225.210:58001/play/a041/index.m3u8
+#EXTINF:-1,MX - AFIZZIONADOS
+http://50.7.66.234:8080/Ianira/Alessia/8248
 #EXTINF:-1,LD - ESPN MX
 http://50.7.66.234:8080/Ianira/Alessia/1155892
 #EXTINF:-1,LD - ESPN 2 MX HD
@@ -698,15 +702,15 @@ http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601700.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 01 | CINEMA 4K
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580703.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 02 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580699.m3u8
+http://50.7.66.234:8080/Ianira/Alessia/1141388
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 03 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580704.m3u8
+http://50.7.66.234:8080/Ianira/Alessia/29412
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 04 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580698.m3u8
+http://50.7.66.234:8080/Ianira/Alessia/1161849
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 05 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580701.m3u8
+http://50.7.66.234:8080/Ianira/Alessia/1161848
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 06 | CINEMA 4K
-http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580705.m3u8
+http://50.7.66.234:8080/Ianira/Alessia/1161847
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 07 | CINEMA 4K
 http://181.78.8.90:16123/play/ch52
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 08 | CINEMA 4K
@@ -715,4 +719,18 @@ http://181.78.8.90:16123/play/ch51
 http://181.78.8.90:16123/play/ch50
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 10 | CINEMA 4K
 http://181.78.8.90:16123/play/ch49
+#EXTINF:-1,LA CASA ACCESO TOTAL
+http://50.7.66.234:8080/Ianira/Alessia/1165612
+#EXTINF:-1,24/7 LA CASA DE LOS FAMOSOS
+http://50.7.66.234:8080/Ianira/Alessia/1165613
+#EXTINF:-1,1 LA CASA DE LOS FAMOSOS MEXICO 1
+http://50.7.66.234:8080/Ianira/Alessia/1165614
+#EXTINF:-1,2 LA CASA DE LOS FAMOSOS MEXICO 2
+http://50.7.66.234:8080/Ianira/Alessia/1165615
+#EXTINF:-1,3 LA CASA DE LOS FAMOSOS MEXICO 3
+http://50.7.66.234:8080/Ianira/Alessia/1165616
+#EXTINF:-1,4 LA CASA DE LOS FAMOSOS MEXICO 4
+http://50.7.66.234:8080/Ianira/Alessia/1165617
+#EXTINF:-1,5 LA CASA DE LOS FAMOSOS MEXICO 5
+http://50.7.66.234:8080/Ianira/Alessia/1165618
 
