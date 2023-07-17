@@ -20,7 +20,7 @@ http://bgtv.site/play/play-701.php?16=341&token=hulahula
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=10
+http://51.222.43.170:8001/Dariomejia7790/uy5xPezF6U/263434
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 Puebla
