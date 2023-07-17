@@ -64,9 +64,9 @@ http://181.78.21.206:8000/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://190.83.116.229:9010/play/a02f/index.m3u8
+http://pe.shortgod.com/pin/tv7.php?id=242022
 #EXTINF:0 type="stream" channelId="322" group="unsorted", NICK JR
-http://45.71.252.29:8000/play/a00s/index.m3u8
+http://190.83.116.229:9010/play/a02f/index.m3u8
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16579.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
