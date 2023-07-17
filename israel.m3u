@@ -8,7 +8,7 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://d68f-201-114-107-60.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+http://extremeplus.xyz:8080/live/Flaco25/m3zAXDuNCCwd/77000.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 http://tv.nousiptv.com:8080/ramonlujan1/55778899/1161847
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
@@ -20,7 +20,7 @@ http://bgtv.site/play/play-701.php?16=341&token=hulahula
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://864457675215279270.ot0711.xyz:80/play/csoler120923/646684/279270.ts
+http://192.99.70.160:25461/live/Cristian/Cristian/32.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 Puebla
@@ -28,7 +28,7 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-https://dai.google.com/linear/hls/event/1FnFvMQHTl6h-RT9cSU2tg/master.m3u8
+http://192.99.70.160:25461/live/Cristian/Cristian/26.m3u8
 #EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
