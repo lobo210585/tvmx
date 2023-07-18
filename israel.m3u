@@ -72,15 +72,15 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16579.m3u8
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
 http://181.78.21.206:8000/play/a097/index.m3u8
 #EXTINF:0 type="stream" channelId="2639" group="unsorted", TOONCAST
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/131731.ts
+http://190.83.116.230:9010/play/a07o/index.m3u8
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
 http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:0 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
-http://tv.nousiptv.com:8080/ramonlujan1/55778899/4004
+http://190.90.252.200:16001/play/a04c/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", DSINEY JR
 http://181.78.21.206:8000/play/a09e/index.m3u8
 #EXTINF:0 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/2978
+http://190.90.252.200:16001/play/a02p/index.m3u8
 #EXTINF:0 type="stream" channelId="473" group="unsorted", BABY TV
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166502.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
