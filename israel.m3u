@@ -124,7 +124,7 @@ http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:0 type="stream" channelId="1188" group="unsorted", E!
 http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", STAR CHANNEL
-http://45.166.92.22:58001/play/a048/index.m3u8
+http://45.170.225.212:58001/play/a01q/index.m3u8
 #EXTINF:0 type="stream" channelId="56" group="unsorted", NAT GEO
 http://45.166.92.22:58001/play/a01k/index.m3u8
 #EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
