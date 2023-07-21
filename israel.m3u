@@ -16,7 +16,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30356.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
 http://tv.nousiptv.com:8080/ramonlujan1/55778899/4040
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-http://bgtv.site/play/play-701.php?16=341&token=hulahula
+http://kuchini.site:8080/devtv/5af3eeb538/9039
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
@@ -137,6 +137,8 @@ http://45.166.92.22:58001/play/a04x/index.m3u8
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/121706.ts
 #EXTINF:0 type="stream" channelId="3713" group="unsorted", HOLA TV
 http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:0 type="stream", MEXICO TRAVEL CHANNEL
+https://5ca9af4645e15.streamlock.net:443/mexicotravel/videomexicotravel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDIzIDM6NTY6MzUgQU0maGFzaF92YWx1ZT1QUGZ3bmZKWEZiczY0Umt2TG0wNzJRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 #EXTINF:0 type="stream" channelId="57" group="unsorted", DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", DISCOVERY THEATER
