@@ -8,7 +8,7 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://e1c4-201-114-107-110.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://elmonkey.us:25461/Victor/Victor/33
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 http://tv.nousiptv.com:8080/ramonlujan1/55778899/1161847
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
