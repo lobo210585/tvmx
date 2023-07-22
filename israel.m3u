@@ -63,6 +63,8 @@ http://50.7.66.234:8080/Ianira/Alessia/47697
 http://181.78.21.206:8000/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1,MX - moni tv
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://elmonkey.us:25461/Victor/Victor/106
 #EXTINF:0 type="stream" channelId="322" group="unsorted", NICK JR
