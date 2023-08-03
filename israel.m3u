@@ -6,9 +6,9 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:0 type="stream" channelId="-1" group="unsorted" shift="-2", MEXICO AZTECA UNO -2 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
-https://e1c4-201-114-107-110.ngrok-free.app/tmp_hls/stream/index.m3u8
+https://2dfa-201-114-107-97.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-http://pe.shortgod.com/sopa/tv6.php?id=57&token=ShortGod&file=.m3u8
+http://45.228.234.77:3340/play/lasestrellas/index.m3u8?
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 http://tv.nousiptv.com:8080/ramonlujan1/55778899/1161847
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
