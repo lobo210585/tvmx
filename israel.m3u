@@ -20,7 +20,7 @@ http://kuchini.site:8080/devtv/5af3eeb538/9039
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://bgtv.site/play/2-777.php?id=L3NvcGEvdHY0LnBocD9pZD01Mg==
+https://v3.playerlatino.live/stream/m3u8/14
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 Puebla
@@ -32,11 +32,11 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59097
 #EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/59129
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
-http://pe.shortgod.com/pon/tv2.php?id=538.ts
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:0 type="stream" channelId="238" group="unsorted", AZ CORAZON
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/52473.ts
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
-http://181.189.243.254:8000/play/a0s4/index.m3u8
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
 http://50.7.66.234:8080/Ianira/Alessia/4086
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
