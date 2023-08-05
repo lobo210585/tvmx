@@ -63,6 +63,8 @@ http://50.7.66.234:8080/Ianira/Alessia/47697
 http://181.78.21.206:8000/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", 05 | seo tv kids 4K
+https://live.seo.tv.bo/live/2SEO.m3u8
 #EXTINF:-1,MX - moni tv
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
@@ -93,8 +95,6 @@ http://50.7.66.234:8080/Ianira/Alessia/1141388
 http://50.7.66.234:8080/Ianira/Alessia/29412
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 04 | PLANETA JUNIOR 4K
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", 05 | seo tv kids 4K
-https://live.seo.tv.bo/live/2SEO.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 06 | pitufos 4K
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Dios Tv
@@ -239,6 +239,14 @@ http://45.166.92.22:58001/play/a00k/index.m3u8
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:0 type="stream" channelId="3804" group="unsorted", TUDN
 http://45.170.225.210:58001/play/a041/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", 07 | CINEMA 4K
+http://181.78.8.90:16123/play/ch52
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", 08 | CINEMA 4K
+http://181.78.8.90:16123/play/ch51
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", 09 | CINEMA 4K
+http://181.78.8.90:16123/play/ch50
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", 10 | CINEMA 4K
+http://181.78.8.90:16123/play/ch49
 #EXTINF:-1,MX - AFIZZIONADOS
 http://50.7.66.234:8080/Ianira/Alessia/8248
 #EXTINF:-1,LD - ESPN MX
@@ -715,14 +723,6 @@ http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601705.m3u8
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/601700.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 01 | CINEMA 4K
 http://playstreaming.net:8080/live/PlayMaster564/H63LtqY29P/580703.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", 07 | CINEMA 4K
-http://181.78.8.90:16123/play/ch52
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", 08 | CINEMA 4K
-http://181.78.8.90:16123/play/ch51
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", 09 | CINEMA 4K
-http://181.78.8.90:16123/play/ch50
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", 10 | CINEMA 4K
-http://181.78.8.90:16123/play/ch49
 #EXTINF:-1,LA CASA ACCESO TOTAL
 http://50.7.66.234:8080/Ianira/Alessia/1165612
 #EXTINF:-1,24/7 LA CASA DE LOS FAMOSOS
