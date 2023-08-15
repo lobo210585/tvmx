@@ -64,9 +64,9 @@ http://181.78.21.206:8000/play/a09f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 05 | seo tv kids 4K
-https://live.seo.tv.bo/live/2SEO.m3u8
+http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/54692
 #EXTINF:-1,MX - moni tv
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m3u8
+http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/10673
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://elmonkey.us:25461/Victor/Victor/106
 #EXTINF:0 type="stream" channelId="322" group="unsorted", NICK JR
@@ -90,11 +90,13 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38649
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 02 | PICAPIEDRA 4K
-http://50.7.66.234:8080/Ianira/Alessia/1141388
+http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/61596
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 03 | SIMPSON 4K
 http://50.7.66.234:8080/Ianira/Alessia/29412
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 04 | PLANETA JUNIOR 4K
-http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/61604
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", 04 | Disney movies 4K
+http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/62391
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 06 | pitufos 4K
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Dios Tv
