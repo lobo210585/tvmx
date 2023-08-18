@@ -16,7 +16,7 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
 http://tv.nousiptv.com:8080/ramonlujan1/55778899/4040
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-http://kuchini.site:8080/devtv/5af3eeb538/9039
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/3767
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
@@ -40,7 +40,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
 http://50.7.66.234:8080/Ianira/Alessia/4086
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-http://tv.nousiptv.com:8080/ramonlujan1/55778899/1155855
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/163347
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
@@ -57,6 +57,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://45.166.92.22:58001/play/a036/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas
 http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/62361
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/159338
 #EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
 http://50.7.66.234:8080/Ianira/Alessia/47697
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE niños
@@ -114,7 +116,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/3799
 #EXTINF:0 type="stream" channelId="-1", Canal 13 Puebla
 https://c13mx.mediatiquestream.com/canal13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13puebla/live3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TVBuap
