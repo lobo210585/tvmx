@@ -127,8 +127,12 @@ https://tvenvivo.buap.mx/livestream/stream.m3u8
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.2 (720p) [Not 24/7]
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", RADIO SICOM HUAUCHINANGO
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", HUAUCHINANGO RADIO SICOM 
 https://5d0d1d7a6be9e.streamlock.net/SHOUTcast/sethuachi.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", PUEBLA RADIO SICOM
+https://5d0d1d7a6be9e.streamlock.net/setpuebla/radio/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", ZACATLAN RADIO SICOM
+https://5d0d1d7a6be9e.streamlock.net/setzacatlan/radio/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Heraldo Tv
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
