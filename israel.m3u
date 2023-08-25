@@ -70,7 +70,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 05 | seo tv kids 4K
 http://50.7.66.234:8080/rub/0302/46490
 #EXTINF:-1,MX - moni tv
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2556
+http://50.7.66.234:8080/rub/0302/44721
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://tv.nousiptv.com:8080/VictorE/5787546755/4194
 #EXTINF:0 type="stream" channelId="322" group="unsorted", NICK JR
