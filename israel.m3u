@@ -19,6 +19,8 @@ http://tv.nousiptv.com:8080/ramonlujan1/55778899/4040
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/3767
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
+#EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
+http://50.7.66.234:8080/rub/0302/6022
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153182
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
