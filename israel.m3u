@@ -144,7 +144,7 @@ http://45.170.225.212:58001/play/a01q/index.m3u8
 #EXTINF:0 type="stream" channelId="56" group="unsorted", NAT GEO
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35575
 #EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
-http://45.166.92.22:58001/play/a00m/index.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44590
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/100662
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
