@@ -58,19 +58,19 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35713
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas
-http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/62361
+http://50.7.66.234:8080/rub/0302/1144258
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/159338
 #EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
 http://50.7.66.234:8080/Ianira/Alessia/47697
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MOVIECENTER KIDS HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/31815
+http://50.7.66.234:8080/rub/0302/44728
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", 05 | seo tv kids 4K
-http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/54692
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2554
 #EXTINF:-1,MX - moni tv
-http://premiumultra.xyz:8080/1307cristianramosUP/13072021@@@/10673
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2556
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://tv.dominiotv.xyz:25461/live/JordyPA/77202614/323865.ts
 #EXTINF:0 type="stream" channelId="322" group="unsorted", NICK JR
@@ -123,10 +123,12 @@ http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/3799
 https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/c13puebla/live3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TVBuap
 https://tvenvivo.buap.mx/livestream/stream.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", SET Televisión Canal 26.2 (720p) [Not 24/7]
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", SET Televisión Canal 26.1 (720p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.1 (720p) [Not 24/7]
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.2 (720p) [Not 24/7]
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", RADIO SICOM HUAUCHINANGO
+https://5d0d1d7a6be9e.streamlock.net/SHOUTcast/sethuachi.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Heraldo Tv
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
