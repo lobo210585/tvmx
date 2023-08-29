@@ -163,12 +163,24 @@ http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/75694
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/36017
 #EXTINF:0 type="stream", fxm
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74313
+#EXTINF:0, DISCOVERY CHANNEL FHD
+http://tv.nousiptv.com:8080/299857/daniel299/4069
+#EXTINF:0, DISCOVERY CHANNEL
+http://tv.nousiptv.com:8080/299857/daniel299/1155807
 #EXTINF:0 type="stream" channelId="57" group="unsorted", DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", DISCOVERY THEATER
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74341
 #EXTINF:0 type="stream" channelId="58" group="unsorted", DISCOVERY SCIENCE
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35583
+#EXTINF: 0, DISCOVERY CHANNEL EN ESPANOL HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44585
+#EXTINF:0,DISCOVERY CHANNEL HD*+*
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/82557
+#EXTINF:0,DISCOVERY CHANNEL  LATINOAMERICA FHD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/31872
+#EXTINF:0,DISCOVERY CHANNEL FHD 
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35578
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", H&H
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44583
 #EXTINF:0 type="stream" channelId="1200" group="unsorted", LIFETIME
