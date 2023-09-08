@@ -118,7 +118,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693013614/ei/DgLpZIGtLMziuALvgZOABw/ip/2806%3A105e%3A15%3A68ef%3Ae1a0%3A3f5d%3A7521%3Aec3f/id/mp959QcNgmo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f21nEaKMmRkQSeVO50gHdcGYJiOZZWj0gNF-7RONSd98W-VJtZ8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIwEPHbplKDzf8tj5uN-bulfOwM7r95fU7f5_ZKwE_JUCIFeLrkL05ppGCH6QHTiVZ13aiW_5IkvxFgKjRbkkFMwy/file/index.m3u8
+https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 13 Puebla
 https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/c13puebla/live3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TVBuap
