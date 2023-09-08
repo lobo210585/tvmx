@@ -151,8 +151,8 @@ http://45.166.92.22:58001/play/a00n/index.m3u8
 http://45.170.225.212:58001/play/a01q/index.m3u8
 #EXTINF:0 type="stream" channelId="56" group="unsorted", NAT GEO
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35575
-#EXTINF:0 type="stream" channelId="56" group="unsorted", NATIONAL GEOGRAPHIC (MX) 
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2015
+#EXTINF:0 type="stream" channelId="56" group="unsorted", NATIONAL GEOGRAPHIC México 
+http://50.7.66.234:8080/rub/0302/4126
 #EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44590
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
