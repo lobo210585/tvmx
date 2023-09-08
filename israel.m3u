@@ -14,9 +14,9 @@ https://5fc584f3f19c9.streamlock.net:443/montecristotv/videomontecristotv/playli
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://tv.nousiptv.com:8080/ramonlujan1/55778899/4040
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150325
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/3767
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35534
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
@@ -118,7 +118,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35379
 #EXTINF:0 type="stream" channelId="-1", Canal 13 Puebla
 https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/c13puebla/live3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TVBuap
@@ -136,7 +136,7 @@ https://5d0d1d7a6be9e.streamlock.net/setzacatlan/radio/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Heraldo Tv
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
-https://video.cdmx.gob.mx/livestream/stream.m3u8
+https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 #EXTINF:0 type="stream" channelId="1968" group="unsorted", TELEMUNDO INTERNACIONAL
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:0 type="stream" channelId="388" group="unsorted", UNICABLE
@@ -151,6 +151,8 @@ http://45.166.92.22:58001/play/a00n/index.m3u8
 http://45.170.225.212:58001/play/a01q/index.m3u8
 #EXTINF:0 type="stream" channelId="56" group="unsorted", NAT GEO
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35575
+#EXTINF:0 type="stream" channelId="56" group="unsorted", NATIONAL GEOGRAPHIC (MX) 
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2015
 #EXTINF:0 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44590
 #EXTINF:0 type="stream" channelId="1455" group="unsorted", HISTORY
