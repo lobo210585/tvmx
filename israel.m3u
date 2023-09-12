@@ -30,7 +30,9 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74286
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0 type="stream" channelId="255" group="unsorted", Deportes 
+https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8
 #EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
@@ -45,6 +47,8 @@ http://50.7.66.234:8080/Ianira/Alessia/4086
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/163347
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", canal 22
+https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", N +
@@ -57,6 +61,8 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35713
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
+https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas
 http://50.7.66.234:8080/rub/0302/1144258
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Cantinflas
