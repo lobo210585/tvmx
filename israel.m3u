@@ -14,7 +14,7 @@ https://5fc584f3f19c9.streamlock.net:443/montecristotv/videomontecristotv/playli
 #EXTINF:0 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150325
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30330.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35534
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
@@ -34,8 +34,10 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Deportes 
 https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8
 #EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/19653.m3u8
 #EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34295.m3u8
+#EXTINF:0 type="stream" channelId="243" group="unsorted", /tastemadees
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="238" group="unsorted", AZ CORAZON
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
