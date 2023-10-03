@@ -173,6 +173,8 @@ http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44590
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37971.m3u8
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74347
+#EXTINF:-1, - H2
+http://tv.nousiptv.com:8080/VictorE/5787546755/4005
 #EXTINF:-1 type="stream" channelId="3228" group="unsorted", Tnt novelas
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/56587.m3u8
 #EXTINF:-1 type="stream" channelId="3713" group="unsorted", HOLA TV
@@ -187,8 +189,8 @@ http://tv.nousiptv.com:8080/299857/daniel299/1155807
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF: 0, DISCOVERY CHANNEL EN ESPANOL HD
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44585
-#EXTINF:0,DISCOVERY CHANNEL HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/82557
+#EXTINF:-1, - DISCOVERY CHANNEL FHD
+http://tv.nousiptv.com:8080/VictorE/5787546755/4069
 #EXTINF:-1,DISCOVERY CHANNEL  LATINOAMERICA FHD
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/31872
 #EXTINF:-1,DISCOVERY CHANNEL FHD 
