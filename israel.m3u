@@ -171,7 +171,7 @@ http://50.7.66.234:8080/rub/0302/4126
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44590
 #EXTINF:-1 type="stream" channelId="1455" group="unsorted", HISTORY
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37971.m3u8
-#EXTINF:-1 type="stream" channelId="1201" group="unsorted", H2
+#EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74347
 #EXTINF:-1 type="stream" channelId="3228" group="unsorted", Tnt novelas
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/56587.m3u8
@@ -187,7 +187,7 @@ http://tv.nousiptv.com:8080/299857/daniel299/1155807
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF: 0, DISCOVERY CHANNEL EN ESPANOL HD
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44585
-#EXTINF:-1,DISCOVERY CHANNEL HD MEXICO
+#EXTINF:0,DISCOVERY CHANNEL HD MEXICO
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/82557
 #EXTINF:-1,DISCOVERY CHANNEL  LATINOAMERICA FHD
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/31872
