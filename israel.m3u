@@ -181,11 +181,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/56587.m3u8
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/36017
 #EXTINF:-1 type="stream", fxm
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74313
-#EXTINF:-1, DISCOVERY CHANNEL FHD
-http://tv.nousiptv.com:8080/299857/daniel299/4069
-#EXTINF:-1, DISCOVERY CHANNEL
-http://tv.nousiptv.com:8080/299857/daniel299/1155807
-#EXTINF:-1 type="stream" channelId="57" group="unsorted", DISCOVERY CHANNEL
+#EXTINF:-1 type="stream" channelId="57", DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF: 0, DISCOVERY CHANNEL EN ESPANOL HD
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44585
@@ -766,18 +762,6 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", LoupeArt
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="2169" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Cine Club
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750", Lo Mejor de la Liga MX USA
-https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Novelas de Romance
-https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/62092cdfb0742315039cb363/1a02c8ded45dc86458a0eff7e355703f?tr=q-80&w=750", Novelas en Familia
-https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/62067bafe60b4f65c744443e/ddac3d628e29430d0af295b7f9d1621e?tr=q-80&w=750", Novelas de Oro
-https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750", Noticias Univision 24/7
-https://linear-254.frequency.stream/dist/vix/254/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="217" group="ViX" logo="https://images.vix.com/prd/channel/61f83716771641f4fc47bd86/471578cf6a4cd5fef1471695cd092009?tr=q-80&w=750", Euronews
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/61bceb9bb6d51a2a70333c1d/3af9a923631cd0b8db1486cc6e5fda32?tr=q-80&w=750", beIn Sports XTRA ñ
@@ -792,22 +776,6 @@ https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/623a8773900f85b88093acfc/8f7d48dec6e7efc0b79692cf0efefc2e?tr=q-80&w=750", Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="328" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", ForoTV
-https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750", N+ Media
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/6237e40c284b55f29fd0613c/08b7062c3223bb43d5c502a1939056a9?tr=q-80&w=750", Fuakata!
-https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Amores Verdaderos
-https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Aqui Y Ahora
-https://linear-306.frequency.stream/306/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/62274e72ed9b67bf206f1a5e/239fe6fbfe883777cfb427e23256f1fc?tr=q-80&w=1920", Cine Retro
-https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/62274abded9b67e9806eef58/e589cadaabcf0bf7291bd08048006fd2?tr=q-80&w=1920", Cine de Oro
-https://linear-308.frequency.stream/308/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Moovi Mex
-https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=750", Jajaja
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750", La Familia P.Luche
