@@ -83,6 +83,8 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 http://50.7.66.234:8080/rub/0302/46490
 #EXTINF:-1,MX - moni tv
 http://50.7.66.234:8080/rub/0302/44721
+#EXTINF:-1,RETRO INFANTIL
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/4858
 #EXTINF:-1 type="stream" channelId="322" group="unsorted", NICK JR
@@ -221,6 +223,8 @@ http://50.7.66.234:8080/099792772/Futbol10/1155788
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/76071
 #EXTINF:-1 type="stream" channelId="2504" group="unsorted", TLNOVELAS
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/65920
+#EXTINF:-1 type="stream" channelId="2504" group="unsorted", CANAL MULTIVISION
+https://vdo2.streamgato.us:3608/live/canalmultivisionlive.m3u8
 #EXTINF:-1,HBO FAMILY HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30345.m3u8
 #EXTINF:-1,HBO Family SD
