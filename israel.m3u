@@ -8,13 +8,13 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://c569-2806-105e-15-d4c9-11ef-807b-d883-cf1c.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/246
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143226
 #EXTINF:-1 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30330.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10554
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35534
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
@@ -74,15 +74,15 @@ http://50.7.66.234:8080/rub/0302/1144258
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/159338
 #EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
-http://50.7.66.234:8080/Ianira/Alessia/47697
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/148726
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MOVIECENTER KIDS HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38701.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2090938
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 05 | seo tv kids 4K
-http://50.7.66.234:8080/rub/0302/46490
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2091014
 #EXTINF:-1,MX - moni tv
-http://50.7.66.234:8080/rub/0302/44721
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2091027
 #EXTINF:-1,RETRO INFANTIL
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
@@ -90,7 +90,7 @@ http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/4858
 #EXTINF:-1 type="stream" channelId="322" group="unsorted", NICK JR
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132318
 #EXTINF:-1 type="stream" channelId="41" group="unsorted", NICK
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16579.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10973
 #EXTINF:-1 type="stream" channelId="1305" group="unsorted", CARTOONITO
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/149686
 #EXTINF:-1 type="stream" channelId="2639" group="unsorted", TOONCAST
@@ -98,23 +98,23 @@ http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132325
 #EXTINF:-1 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/149690
 #EXTINF:-1 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16539.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10971
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", DSINEY JR
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16540.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10972
 #EXTINF:-1 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
 http://190.90.252.200:16001/play/a02p/index.m3u8
 #EXTINF:-1 type="stream" channelId="473" group="unsorted", BABY TV
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16516.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10978
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 02 | PICAPIEDRA 4K
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38722.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2090989
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 03 | SIMPSON 4K
-http://tv.dominiotv.xyz:25461/live/JordyPA/77202614/117797.ts
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2091015
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 03 | SIMPSON 4K
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38706.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2091014
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 04 | Disney movies 4K
-http://50.7.66.234:8080/rub/0302/44728
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2090939
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 06 | pitufos 4K
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dios Tv
@@ -156,23 +156,23 @@ https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 #EXTINF:-1 type="stream" channelId="1968" group="unsorted", TELEMUNDO INTERNACIONAL
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 type="stream" channelId="388" group="unsorted", UNICABLE
-http://45.228.234.77:3340/play/unicable/index.m3u8?
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10582
 #EXTINF:-1 type="stream" channelId="1303" group="unsorted", FX
 http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:-1 type="stream" channelId="1208" group="unsorted", A&E
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30300.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/222250
 #EXTINF:-1 type="stream" channelId="1188" group="unsorted", E!
 http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", STAR CHANNEL
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/26287.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10558
 #EXTINF:-1 type="stream" channelId="56" group="unsorted", NAT GEO
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35575
 #EXTINF:-1 type="stream" channelId="56" group="unsorted", NATIONAL GEOGRAPHIC México 
-http://50.7.66.234:8080/rub/0302/4126
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10414
 #EXTINF:-1 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44590
 #EXTINF:-1 type="stream" channelId="1455" group="unsorted", HISTORY
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37971.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10424
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74347
 #EXTINF:-1, - H2
@@ -225,42 +225,7 @@ http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/76071
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/65920
 #EXTINF:-1 type="stream" channelId="2504" group="unsorted", CANAL MULTIVISION
 https://vdo2.streamgato.us:3608/live/canalmultivisionlive.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30345.m3u8
-#EXTINF:-1,HBO Family SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3323.m3u8
-#EXTINF:-1,HBO HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30346.m3u8
-#EXTINF:-1,HBO HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37988.m3u8
-#EXTINF:-1,HBO HD.
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37998.m3u8
-#EXTINF:-1,HBO Mundi
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3324.m3u8
-#EXTINF:-1,HBO MUNDI HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30347.m3u8
-#EXTINF:-1,HBO Mundi HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37979.m3u8
-#EXTINF:-1,HBO Plus SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3321.m3u8
-#EXTINF:-1,HBO POP HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30348.m3u8
-#EXTINF:-1,HBO POP SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3159.m3u8
-#EXTINF:-1,HBO SD =
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3299.m3u8
-#EXTINF:-1,HBO SIGNATURE HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30349.m3u8
-#EXTINF:-1,HBO Signature HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37986.m3u8
-#EXTINF:-1,HBO Signature SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3325.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30350.m3u8
-#EXTINF:-1,HBO XTREME HD E
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37993.m3u8
-#EXTINF:-1,HBO Xtreme SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3326.m3u8
+
 #EXTINF:-1 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/75690
 #EXTINF:-1,UNIVERSAL CHANNEL HD
