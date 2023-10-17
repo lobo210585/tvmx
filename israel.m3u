@@ -225,64 +225,73 @@ http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/76071
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/65920
 #EXTINF:-1 type="stream" channelId="2504" group="unsorted", CANAL MULTIVISION
 https://vdo2.streamgato.us:3608/live/canalmultivisionlive.m3u8
-
+#EXTINF:-1,P | HBO Family
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10877
+#EXTINF:-1,P | HBO Family HD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10878
+#EXTINF:-1,P | HBO +
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10879
+#EXTINF:-1,P | HBO + HD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10880
+#EXTINF:-1,P | HBO Signature
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10881
+#EXTINF:-1,P | HBO Signature HD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10882
+#EXTINF:-1,P | HBO 2 HD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10883
+#EXTINF:-1,P | HBO 2
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10884
+#EXTINF:-1,P | HBO HD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10885
+#EXTINF:-1,P | HBO
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10886
 #EXTINF:-1 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/75690
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30386.m3u8
-#EXTINF:-1,Universal Channel HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37981.m3u8
-#EXTINF:-1,Universal Channel SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3103.m3u8
-#EXTINF:-1,Universal Cinema
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36358.m3u8
-#EXTINF:-1,Universal Comedy
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36354.m3u8
-#EXTINF:-1,Universal Crime Este
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36355.m3u8
-#EXTINF:-1,Universal Crime Oeste
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36359.m3u8
-#EXTINF:-1,Universal Premier Oeste
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36360.m3u8
-#EXTINF:-1,Universal Premiere
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36356.m3u8
-#EXTINF:-1,Universal Reality
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36357.m3u8
+#EXTINF:-1,P | Universal Comedy
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2081444
+#EXTINF:-1,P | Universal Crime Este
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2081445
+#EXTINF:-1,P | Universal Premier Este
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2081446
+#EXTINF:-1,P | Universal Reality
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2081447
+#EXTINF:-1,P | Universal Cinema
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2081448
+#EXTINF:-1,P | Universal Crime Oeste
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2081449
+#EXTINF:-1,P | Universal Premier Oeste
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2081450
+#EXTINF:-1,P | Claro Cinema
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2091457
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PARAMUNT CHANNEL
 http://45.166.92.22:58001/play/a01l/index.m3u8
-#EXTINF:-1,Golden Edge SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3146.m3u8
-#EXTINF:-1,Golden Plus SD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1473.m3u8
-#EXTINF:-1,Golden Premier 2
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50419.m3u8
-#EXTINF:-1,Golden Premier 2 | p op2
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/67321.m3u8
-#EXTINF:-1,Golden Premier FHD (CO)
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/47050.m3u8
-#EXTINF:-1,GOLDEN PREMIER HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30342.m3u8
-#EXTINF:-1,Golden Premier HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38005.m3u8
+#EXTINF:-1,P | Golden Plus FHD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/154112
+#EXTINF:-1,P | Golden Premier FHD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/200946
+#EXTINF:-1,P | Golden Edge HD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/154111
+#EXTINF:-1,P | Golden HD
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/154110
 #EXTINF:-1,TNT Mexico HD.
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37972.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10875
 #EXTINF:-1,TNT Series
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38480.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10578
 #EXTINF:-1,I-TNT Series Latino America HD
 #EXTINF:-1 type="stream" channelId="2501" group="unsorted", AMC
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 type="stream" channelId="188" group="unsorted", SONY CHANNEL
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16581.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10577
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 34.1
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/chunklist_w1761094365.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgNjo1NTo0OCBQTSZoYXNoX3ZhbHVlPStNeHJ4amhCeHpZUURoVEEvQmdRcGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
 #EXTINF:-1 type="stream" channelId="2557" group="unsorted", WARNER CHANNEL
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37991.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10583
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", SPR
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", FILMS&ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:-1 type="stream" channelId="1190" group="unsorted", COMEDY CENTRAL
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30319.m3u8
+http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/17286
 #EXTINF:-1 type="stream" channelId="64" group="unsorted", CINECANAL
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/71009
 #EXTINF:-1 type="stream" channelId="383" group="unsorted", SPACE
