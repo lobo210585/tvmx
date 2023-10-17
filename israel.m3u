@@ -8,7 +8,7 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://c569-2806-105e-15-d4c9-11ef-807b-d883-cf1c.ngrok-free.app/tmp_hls/stream/index.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35654
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
@@ -30,23 +30,23 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35659
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Deportes 
 https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8
 #EXTINF:-1 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", AZ CLIC
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34295.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35664
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", /tastemadees
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="238" group="unsorted", AZ CORAZON
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3117.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35661
 #EXTINF:-1 type="stream" channelId="228" group="unsorted", AZ MUNDO
-https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74289
 #EXTINF:-1 type="stream" channelId="3727" group="unsorted", AZ CINEMA
-http://50.7.66.234:8080/Ianira/Alessia/4086
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74288
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", NU9VE
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2448.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35666
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1131072.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", canal 22
