@@ -30,7 +30,7 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35659
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153181
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Deportes 
 https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8
 #EXTINF:-1 type="stream" channelId="3720" group="unsorted", A+
@@ -168,11 +168,11 @@ http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10558
 #EXTINF:-1 type="stream" channelId="56" group="unsorted", NAT GEO
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35575
 #EXTINF:-1 type="stream" channelId="56" group="unsorted", NATIONAL GEOGRAPHIC México 
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10414
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74345
 #EXTINF:-1 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44590
 #EXTINF:-1 type="stream" channelId="1455" group="unsorted", HISTORY
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10424
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/100662
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74347
 #EXTINF:-1, - H2
@@ -774,6 +774,8 @@ https://dmlmov0qa6fqb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750", La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1,24/7| LA ROSA DE GUADALUPE HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/277509
 #EXTINF:-1 type="stream" channelId="3765" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="1963" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Golden Premier
@@ -784,3 +786,39 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?h
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920", Univision Latam
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1,LAT| LO MEJOR DE CARACOL VIX HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/123581
+#EXTINF:-1,LAT| AQUI & AHORA 24/7 VIX HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/123577
+#EXTINF:-1,LAT| CUIDADO CON EL ANGEL VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130100
+#EXTINF:-1,LAT| DEL MERCADO AL PLATO VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130101
+#EXTINF:-1,LAT| LA PROMESA VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130102
+#EXTINF:-1,LAT| FAMILIA PELUCHE VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130103
+#EXTINF:-1,LAT| HEROES DEL NORTE VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130104
+#EXTINF:-1,LAT| JUANA LA VIRGEN VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130105
+#EXTINF:-1,LAT| LA PROMESA VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130106
+#EXTINF:-1,LAT| MI GORDA BELLA VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130110
+#EXTINF:-1,LAT| REBELDE VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130115
+#EXTINF:-1,LAT| SORTILEGIO VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130117
+#EXTINF:-1,LAT| TERESA VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130118
+#EXTINF:-1,LAT| TRIUNFO DEL AMOR VIX+
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/130120
+#EXTINF:-1,LAT| CRONICA 24/7 VIX HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/123578
+#EXTINF:-1,LAT| N+ MEDIA VIX HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/123579
+#EXTINF:-1,LAT| VIX NOVELAS DE ORO HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/115460
+#EXTINF:-1,LAT| AFV FUNNY TIME HD
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/95144
