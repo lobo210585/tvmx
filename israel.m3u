@@ -82,7 +82,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 05 | seo tv kids 4K
 http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2091014
 #EXTINF:-1,MX - moni tv
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2091027
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RETRO INFANTIL
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
@@ -108,7 +108,7 @@ http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10978
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 02 | PICAPIEDRA 4K
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2090989
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/chunklist_w790998453.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 03 | SIMPSON 4K
 http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/2091015
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 03 | SIMPSON 4K
