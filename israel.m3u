@@ -121,6 +121,26 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dios Tv Kids
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1,24/7 | Sonic X
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/248499
+#EXTINF:-1,24/7| ALF 
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/413
+#EXTINF:-1,24/7| EL CHAVO DEL 8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/414
+#EXTINF:-1,24/7| SCOOBY DOO
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/416
+#EXTINF:-1,24/7| TOOM & JERRY
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/419
+#EXTINF:-1,24/7| LOS PICAPIEDRAS
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/420
+#EXTINF:-1,24/7 | PAW PATROL 
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/8029
+#EXTINF:-1,24/7 | LA CASA DE MICKEY MOUSE
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/8058
+#EXTINF:-1,24/7 | EL CHAPULIN COLORADO
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/41900
+#EXTINF:-1,24/7 | PINKI & CEREBRO 
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/41909
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Aliento vision
