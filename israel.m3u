@@ -14,7 +14,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73650
 #EXTINF:-1 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10554
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35687
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35534
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
@@ -65,12 +65,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35713
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:-1 ,Cantinflas
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38745.m3u8
-#EXTINF:-1 ,Cantinflas ds
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92512.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
-http://50.7.66.234:8080/rub/0302/1144258
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74176
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/159338
 #EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
