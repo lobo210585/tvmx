@@ -150,7 +150,7 @@ https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35379
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/51632.m3u8
+https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 13 Puebla
 https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/c13puebla/live3/chunks.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TVBuap
@@ -232,9 +232,9 @@ https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Planeta tv movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://181.78.8.90:16123/play/ch57
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/43292
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://50.7.66.234:8080/099792772/Futbol10/1155788
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/76070
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/76071
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 1" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_HD.png" group-title="SEO TV NORMAL",1 | SEO TV 1
@@ -298,43 +298,31 @@ http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/70994
 #EXTINF:-1 type="stream" channelId="2501" group="unsorted", AMC
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 type="stream" channelId="188" group="unsorted", SONY CHANNEL
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10577
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/70991
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 34.1
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/chunklist_w1761094365.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgNjo1NTo0OCBQTSZoYXNoX3ZhbHVlPStNeHJ4amhCeHpZUURoVEEvQmdRcGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
 #EXTINF:-1 type="stream" channelId="2557" group="unsorted", WARNER CHANNEL
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10583
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/7099
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", SPR
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", FILMS&ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:-1 type="stream" channelId="1190" group="unsorted", COMEDY CENTRAL
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/17286
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74316
 #EXTINF:-1 type="stream" channelId="64" group="unsorted", CINECANAL
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/71009
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/10066
 #EXTINF:-1 type="stream" channelId="383" group="unsorted", SPACE
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74315
 #EXTINF:-1 type="stream" channelId="1326" group="unsorted", CINEMAX
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/69980
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/100667
 #EXTINF:-1 type="stream" channelId="2625" group="unsorted", STUDIO UNIVERSAL
 http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1 type="stream" channelId="895" group="unsorted", TCM
 http://45.166.92.22:58001/play/a03l/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 07 | CINEMA 4K
-http://181.78.8.90:16123/play/ch52
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 08 | CINEMA 4K
-http://181.78.8.90:16123/play/ch51
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 09 | CINEMA 4K
-http://181.78.8.90:16123/play/ch50
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 10 | CINEMA 4K
-http://181.78.8.90:16123/play/ch49
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", PELICILAS 1
-http://50.7.66.234:8080/Ianira/Alessia/8128
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 01PELICULA
-http://50.7.66.234:8080/Ianira/Alessia/1156007
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 5 DEPORTES" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="SEO TV NORMAL",5 | SEO TV 5 DEPORTES  
 	https://live.seo.tv.bo/live/SEO_5.m3u8
 #EXTINF:-1 type="stream" channelId="3804" group="unsorted", TUDN
-http://45.170.225.210:58001/play/a041/index.m3u8
+http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73695
 #EXTINF:-1,          "CANALES PPV"
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/93801
 #EXTINF:-1,PPVV| MOVISTAR FUTBOL HD 
