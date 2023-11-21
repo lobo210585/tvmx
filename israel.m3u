@@ -150,7 +150,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/3799
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700630934/ei/Nj1dZanhHJTSlu8PyZC5yA4/ip/2806%3A105e%3A15%3Acd76%3A4122%3A3659%3A5838%3Aece3/id/aCaCshAgYMQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fyy30eggDIASksSI9f4noh-B1btTm_3KhlDXj6hiK2My2zYnToQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAM7JwyheBPPkrW_yj27MwMMgXtxwzyjTMyG-7XKix4ITAiAfP-iEoYig6DopZ9pYB0sKRY4Fbey7e1bvTLaznuJa6g%3D%3D/file/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 13 Puebla
