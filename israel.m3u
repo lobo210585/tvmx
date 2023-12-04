@@ -130,7 +130,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/129043
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 13 Puebla
@@ -176,31 +176,23 @@ http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/135859
 #EXTINF:-1, - H2
 http://tv.nousiptv.com:8080/VictorE/5787546755/4005
 #EXTINF:-1 type="stream" channelId="3228" group="unsorted", Tnt novelas
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/56587.m3u8
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/162944
 #EXTINF:-1 type="stream" channelId="3713" group="unsorted", HOLA TV
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/36017
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/140819
 #EXTINF:-1 type="stream", fxm
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74313
-#EXTINF:-1 type="stream" channelId="57", DISCOVERY CHANNEL
-http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF: 0, DISCOVERY CHANNEL EN ESPANOL HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44585
-#EXTINF:-1, - DISCOVERY CHANNEL FHD
-http://tv.nousiptv.com:8080/VictorE/5787546755/4069
-#EXTINF:-1,DISCOVERY CHANNEL  LATINOAMERICA FHD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/31872
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/136486
 #EXTINF:-1,DISCOVERY CHANNEL FHD 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35578
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2020
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", DISCOVERY THEATER
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74341
 #EXTINF:-1 type="stream" channelId="58" group="unsorted", DISCOVERY SCIENCE
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35583
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2812
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", H&H
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44583
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132578
 #EXTINF:-1 type="stream" channelId="1200" group="unsorted", LIFETIME
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/100651
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/154828
 #EXTINF:-1 type="stream" channelId="2839" group="unsorted", DISCOVERY WORLD
-http://45.166.92.22:58001/play/a01p/index.m3u8
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/3606
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", JUSTICIA TV
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", CANAL 4
@@ -214,11 +206,11 @@ https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Planeta tv movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/43292
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=3934
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/76070
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/131132
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/76071
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/135785
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 1" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_HD.png" group-title="SEO TV NORMAL",1 | SEO TV 1
 	https://live.seo.tv.bo/live/SEO_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 3 NVLS" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_NOVELAS_HD.png" group-title="SEO TV NORMAL",3 | SEO TV 3 NVLS
@@ -230,73 +222,71 @@ http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/76071
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 7" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_7_HD.png" group-title="SEO TV NORMAL",7 | SEO TV 7
 	https://live.seo.tv.bo/live/SEO_7.m3u8
 #EXTINF:-1 type="stream" channelId="2504" group="unsorted", TLNOVELAS
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/65920
-#EXTINF:-1 type="stream" channelId="2504" group="unsorted", CANAL MULTIVISION
-https://vdo2.streamgato.us:3608/live/canalmultivisionlive.m3u8
-#EXTINF:-1,| HBO Plus
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74299
-#EXTINF:-1,| HBO Family
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74300
-#EXTINF:-1,| HBO Signature
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74301
-#EXTINF:-1 type="stream" channelId="187" group="unsorted", UNIVERSAL CHANNEL
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/75690
-#EXTINF:-1,CINE| HBO LATINO DIRECTV
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/125873
-#EXTINF:-1,CINE| HBO 2  DIRECTV
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/125874
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/3798
+#EXTINF:-1,CINE: HBO Mᴇxɪᴄᴏ Sᵀᴰ
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/49
+#EXTINF:-1,CINE: HBO 2 Mᴇxɪᴄᴏ Sᵀᴰ
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/50
+#EXTINF:-1,CINE: HBO FAMILY SD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/51
+#EXTINF:-1,CINE: HBO MUNDI SD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/52
+#EXTINF:-1,CINE: HBO PLUS SD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/53
+#EXTINF:-1,CINE: HBO POP SD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/54
+#EXTINF:-1,CINE: HBO SIGNATURE SD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/55
+#EXTINF:-1,CINE: HBO XTREME SD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/56
 #EXTINF:-1,CINE| UNIVERSAL COMEDY HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/286748
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150076
 #EXTINF:-1,CINE| UNIVERSAL CINEMAS HD 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/101760
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150074
 #EXTINF:-1,CINE| UNIVERSAL PREMIER HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/101761
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/1552031
 #EXTINF:-1,CINE| UNIVERSAL CRIME ESTE HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/101762
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/158526
 #EXTINF:-1,CINE| UNIVERSAL REALITY HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/101763
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/7990
 #EXTINF:-1,CINE| UNIVERSAL CHANNEL FHD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35607
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/7980
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PARAMUNT CHANNEL
-http://45.166.92.22:58001/play/a01l/index.m3u8
-#EXTINF:-1,MXVIP| Golden
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74304
-#EXTINF:-1,MXVIP| Golden Plus
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74305
-#EXTINF:-1,MXVIP| Golden Edge
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74306
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150111
+#EXTINF:-1,CINE: GOLDEN UHD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150099
+#EXTINF:-1,CINE: GOLDEN EDGE UHD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150100
+#EXTINF:-1,CINE: GOLDEN PLUS UHD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150101
+#EXTINF:-1,CINE: GOLDEN PREMIER UHD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150102 	
 #EXTINF:-1,MXVIP| Cinecanal
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74308
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=217
 #EXTINF:-1,MXVIP| TNT
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74309
-#EXTINF:-1,TNT Mexico HD.
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74309
-#EXTINF:-1,LAT| TNT NOVELAS HD 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/297556
-#EXTINF:-1,LATINO| TNT CHANNEL PREMIUN FHD (DUAL AUDIO)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/70993
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/138044
 #EXTINF:-1,LATINO| TNT SERIES PREMIUN FHD (DUAL AUDIO)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/70994
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150117
 #EXTINF:-1 type="stream" channelId="2501" group="unsorted", AMC
-http://45.166.92.22:58001/play/a00q/index.m3u8
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150090
 #EXTINF:-1 type="stream" channelId="188" group="unsorted", SONY CHANNEL
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/70991
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150113
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 34.1
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/chunklist_w1761094365.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgNjo1NTo0OCBQTSZoYXNoX3ZhbHVlPStNeHJ4amhCeHpZUURoVEEvQmdRcGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
 #EXTINF:-1 type="stream" channelId="2557" group="unsorted", WARNER CHANNEL
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/7099
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=267
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", SPR
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", FILMS&ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:-1 type="stream" channelId="1190" group="unsorted", COMEDY CENTRAL
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74316
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150324
 #EXTINF:-1 type="stream" channelId="64" group="unsorted", CINECANAL
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/10066
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/59
 #EXTINF:-1 type="stream" channelId="383" group="unsorted", SPACE
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74315
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=258
 #EXTINF:-1 type="stream" channelId="1326" group="unsorted", CINEMAX
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/100667
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150094
 #EXTINF:-1 type="stream" channelId="2625" group="unsorted", STUDIO UNIVERSAL
 http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1 type="stream" channelId="895" group="unsorted", TCM
@@ -305,220 +295,74 @@ http://45.166.92.22:58001/play/a03l/index.m3u8
 	https://live.seo.tv.bo/live/SEO_5.m3u8
 #EXTINF:-1 type="stream" channelId="3804" group="unsorted", TUDN
 http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73695
-#EXTINF:-1,          "CANALES PPV"
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/93801
-#EXTINF:-1,PPVV| MOVISTAR FUTBOL HD 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/72163
-#EXTINF:-1,PPVV| NBA HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/639
-#EXTINF:-1,PPVV| CANADA NBA HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/62847
-#EXTINF:-1,PPVV| TVA SPORTS HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/56652
-#EXTINF:-1,PPVV| AT&T SPORTS HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/62827
-#EXTINF:-1,PPVV| SPECTRUM SPORTSNET L.A DOGERS
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73749
-#EXTINF:-1,PPVV| SPECTRUM SPORTS NET HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35500
-#EXTINF:-1,PPVV| LA LIGA BAR TV FHD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/49704
-#EXTINF:-1,PPVV| MOVISTAR LA LIGA FHD 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/46940
-#EXTINF:-1,PPVV| EEVENTO DEPORTES 1 HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/436
-#EXTINF:-1,PPVV| EVENTO DEPORTES 2 HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/437
-#EXTINF:-1,PPVV| YES NETWORK HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/931
-#EXTINF:-1,PPVV| UFC FIGHT PASS
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/8572
-#EXTINF:-1,PPVV| NBCS BOSTON HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/788
-#EXTINF:-1,PPVV| AT&T SPORTS NET HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/933
-#EXTINF:-1,PPVV| LA LIGA BAR FHD SPAIN
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/966
-#EXTINF:-1,PPVV| SPECTRUM SPORTS NET L.A DOGERS HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/75859
-#EXTINF:-1,USA| LOS ANGELES LAKERS 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/82615
-#EXTINF:-1,           "DEPORTES"
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/93797
-#EXTINF:-1,DEPORTES| BEIN SPORTS EXTRA HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/79839
-#EXTINF:-1,DEPORTES| TUDN USA * HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74974
-#EXTINF:-1,DEPORTES| ZONA TUDN HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/288998
-#EXTINF:-1,DEPORTES| TYC SPORTS HD LOCAL
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73726
-#EXTINF:-1,DEPORTES| FOX SPORTS 1 HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73686
-#EXTINF:-1,DEPORTES| FOX SPORTS 2 HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73687
-#EXTINF:-1,DEPORTES| FOX SPORTS 3 HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73688
-#EXTINF:-1,DEPORTES| FOX SPORTS 2 FHD MEXICO 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73715
-#EXTINF:-1,DEPORTES| FOX SPORTS 3 FHD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73716
-#EXTINF:-1,DEPORTES| ESPN XTRA MEXICO HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73689
-#EXTINF:-1,DEPORTES| ESPN 1 HD MEXICO 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73690
-#EXTINF:-1,DEPORTES| ESPN 2 HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73691
-#EXTINF:-1,DEPORTES| ESPN  3 HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73692
-#EXTINF:-1,DEPORTES| ESPN 1 FHD MEXICO 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73712
-#EXTINF:-1,DEPORTES| ESPN 2 FHD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73713
-#EXTINF:-1,DEPORTES| ESPN 3 FHD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73714
-#EXTINF:-1,DEPORTES| TUDN  HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73693
-#EXTINF:-1,DEPORTES| AFIZZIONADOS HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73694
-#EXTINF:-1,DEPORTES| CLARO SPORTS HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73695
-#EXTINF:-1,DEPORTES| TVC DEPORTES HD MEXICO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73696
-#EXTINF:-1,DEPORTES| ESPN 1 HD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73697
-#EXTINF:-1,DEPORTES| ESPN 2 HD ARGENTINA 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73698
-#EXTINF:-1,DEPORTES| ESPN 3 HD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73699
-#EXTINF:-1,DEPORTES| ESPN 1 FHD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73717
-#EXTINF:-1,DEPORTES| ESPN 2 FHD ARGENTINA 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73718
-#EXTINF:-1,DEPORTES| ESPN  3 FHD ARGENTINA 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73719
-#EXTINF:-1,DEPORTES| FOX SPORTS 1 HD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73700
-#EXTINF:-1,DEPORTES| FOX SPORTS 2 HD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73701
-#EXTINF:-1,DEPORTES| FOX SPORTS 3 HD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73702
-#EXTINF:-1,DEPORTES| FOX SPORTS 1 FHD ARGENTINA 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73720
-#EXTINF:-1,DEPORTES| FOX SPORTS 2 FHD ARGENTINA 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73721
-#EXTINF:-1,DEPORTES| DIRECTV SPORTS FHD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73703
-#EXTINF:-1,DEPORTES| DIRECTV SPORTS 2 FHD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73704
-#EXTINF:-1,DEPORTES| DIRECTV SPORTS HD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73705
-#EXTINF:-1,DEPORTES| DIRECTV SPORTS 2 HD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73706
-#EXTINF:-1,DEPORTES| DIRECTV SPORS + HD ARGENTINA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73707
-#EXTINF:-1,DEPORTES| DIRECTV SPORTS HD COLOMBIA
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73708
-#EXTINF:-1,DEPORTES| DIRECTV SPORTS + HD COLOMBIA 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73709
-#EXTINF:-1,DEPORTES| DIRECTV SPORTS 2 HD PERU
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73710
-#EXTINF:-1,DEPORTES| DIRECTV SPORTS  HD ECUADOR
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73711
-#EXTINF:-1,DEPORTES| MOVISTAR LA LIGA FHD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/31132
-#EXTINF:-1,DEPORTES| LA LIGATV BAR HD ESPANA LEAGUE 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/8887
-#EXTINF:-1,DEPORTES| SKY SPORTS LATINO HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73735
-#EXTINF:-1,DEPORTES|  SUPER SPORTS LA LIGA HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/101381
-#EXTINF:-1,DEPORTES| LIGA DE CAMPEONES FHD 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73738
-#EXTINF:-1,DEPORTES| LA LIGA TV BAR FHD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73739
-#EXTINF:-1,DEPORTES| DAZN LA LIGA SPAIN HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/141916
-#EXTINF:-1,DEPORTES| DAZN FORMULA 1 HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/98244
-#EXTINF:-1,home
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/122813
-#EXTINF:-1,DEPORTES| BEIN SPORTS EN ESPANOL* HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74985
-#EXTINF:-1,DEPORTES| BEIN SPORTS EN ESPANOL HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73732
-#EXTINF:-1,DEPORTES|  BEIN SPORTS N EXTRA EN ESPANOL HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/103051
-#EXTINF:-1,DEPORTES| TUDN  DEPORTES HD*
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/104313
-#EXTINF:-1,DEPORTES| TUDN  DEPORTES HQ
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/104314
-#EXTINF:-1,DEPORTES| TUDN  DEPORTES SD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/104315
-#EXTINF:-1,DEPORTES| BEIN SPORTS HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/91085
-#EXTINF:-1,BEIN SPORTS ESPANOL HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/90501
-#EXTINF:-1,DEPORTES| TYC SPORTS FHD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73725
-#EXTINF:-1,DEPORTES| GOLTV EN ESPANOL  HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73729
-#EXTINF:-1,DEPORTES| BEIN SPORTS LA LIGA  FHD 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73730
-#EXTINF:-1,DEPORTES| BEIN SPORTS EN ESPANOL LATINO FHD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73731
-#EXTINF:-1,DEPORTES| BEIN SPORTS EN INGLES FHD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73733
-#EXTINF:-1,DEPORTES| TUDN  DEPORTES HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73736
-#EXTINF:-1,DEPORTES| UNIVISION DEPORTES HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73737
-#EXTINF:-1,DEPORTES| BEIN SPORTS FHD*
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73910
-#EXTINF:-1,DEPORTES| COPA LIBERTADORES FHD 1 (BEIN SPORTS 4)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73913
-#EXTINF:-1,DEPORTES| COPA LIBERTADORES FHD 2 (BEIN SPORTS 5)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73914
-#EXTINF:-1,DEPORTES| COPA LIBERTADORES FHD 3 (BEIN SPORTS 6)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73915
-#EXTINF:-1,DEPORTES| COPA LIBERTADORES FHD 4 (BEIN SPORTS 7)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73916
-#EXTINF:-1,DEPORTES| COPA LIBERTADORES FHD 5 (BEIN SPORTS 8)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73917
-#EXTINF:-1,RCN HD (Colombia)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153189
-#EXTINF:-1,DIRECTV SPORTS 1 HD (Colombia)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153190
-#EXTINF:-1,EL CANAL DE FUTBOL HD (Ecuador)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153191
-#EXTINF:-1,DIRECTV SPORTS 1 HD (Ecuador)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153192
-#EXTINF:-1,VTV PLUS HD (Uruguay)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153194
-#EXTINF:-1,TV PUBLICA HD (Argentina)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153195
-#EXTINF:-1,TYC SPORTS HD (Argentina)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153196
-#EXTINF:-1,DIRECTV SPORTS HD (Argentina)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153197
-#EXTINF:-1,UNIVISION DEPORTES HD (usa)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153332
-#EXTINF:-1,TELEMUNDO NY (Usa)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153333
-#EXTINF:-1,AZTECA 7 HD (Mexico)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153181
-#EXTINF:-1,CANAL 5 HD (Mexico)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153182
-#EXTINF:-1,TUDN HD (Mexico)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153183
-#EXTINF:-1,DIRECTV SPORTS 1 HD (Chile)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153187
-#EXTINF:-1,CARACOL  HD (Colombia)
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/153188
-#EXTINF:-1,PORT| ELEVEN SPORTS 1 HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/281523
-#EXTINF:-1,DEPORTES| HI SPORTS HD
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/297557
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS PREMIUM MX®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146541
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ |  FOX SPORTS DEPORTES HD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146542
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS 2 MX
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/135649
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS 3 MX
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS MX
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/1971
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132271
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | ESPN  MX
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132278
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | ESPN 2 MX
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132279
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | ESPN 3 MX
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132280
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | ESPN DEPORTES HD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134462
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TELEMUNDO FHD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134463
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN ZONA FUTBOL PPV®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134464
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN MEXICO UHD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134466
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN UHD® (USA)
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134467
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS DEPORTES HD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134468
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS PREMIUM MX®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146541
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ |  FOX SPORTS DEPORTES HD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146542
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ| TUDN HD #2®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146603
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | AFIZZIONADOS FHD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/148888
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TVC DEPORTES HD® 
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150069
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | AYM SPORTS MX UHD
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/151831
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | CLARO SPORTS FHD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/153566
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | VIX LO MEJOR LIGA MX HD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/153567
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | ADRENALINA SPORTS NETWORK FHD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/154748
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | SKY SPORTS Premier HD®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/160999
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | Claro SPORTS (La Liga) MX® 
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/161000
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | VIX SPORTS (La Liga) MX®
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/162334
+#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TV en VIVO (La Liga) MX® 
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/162516
+#EXTINF:-1,Cʰᵃᵐᵖⁱᵒⁿˢ Lᵉᵃᵍᵘᵉ | UEFA - TUDN XTRA #4
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/148782
+#EXTINF:-1,Cʰᵃᵐᵖⁱᵒⁿˢ Lᵉᵃᵍᵘᵉ | UEFA - TUDN XTRA #3
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/148781
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | GOLTV LATINOAMERICA
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132281
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | DIRECTV SPORTS (Col)
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132282
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | DIRECTV SPORTS 2 (Col)
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132283
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ  | TYC SPORTS
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132284
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | TNT SPORTS
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132285
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
