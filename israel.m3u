@@ -116,9 +116,9 @@ http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/151716
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", 06 | pitufos 4K
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dios Tv
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+https://stream.oursnetworktv.com/latin/dD10sT3V3/chunklist_w316289126.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dios Tv Kids
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+https://stream.oursnetworktv.com/latin/dD10sT3V3K1dS/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Aliento vision
@@ -154,25 +154,25 @@ https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 #EXTINF:-1 type="stream" channelId="1968" group="unsorted", TELEMUNDO INTERNACIONAL
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 type="stream" channelId="388" group="unsorted", UNICABLE
-http://185.155.103.50:8080/restreamiptv/uHbQMnZaPxaQ/10582
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/156072
 #EXTINF:-1 type="stream" channelId="1303" group="unsorted", FX
-http://45.166.92.22:58001/play/a00s/index.m3u8
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/3646
 #EXTINF:-1 type="stream" channelId="1208" group="unsorted", A&E
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35587
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/138125
 #EXTINF:-1 type="stream" channelId="1188" group="unsorted", E!
 http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", STAR CHANNEL
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/2693
 #EXTINF:-1 type="stream" channelId="56" group="unsorted", NAT GEO
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/35575
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2020
 #EXTINF:-1 type="stream" channelId="56" group="unsorted", NATIONAL GEOGRAPHIC México 
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74345
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/2013
 #EXTINF:-1 type="stream" channelId="50" group="unsorted", ANIMAL PLANET
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/44590
+http:\\00322.xyz:8000\EMT5XDXU13\22S7FJXNS7\153674
 #EXTINF:-1 type="stream" channelId="1455" group="unsorted", HISTORY
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/100662
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132592
 #EXTINF:0 type="stream" channelId="1201" group="unsorted", H2
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/74347
+http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/135859
 #EXTINF:-1, - H2
 http://tv.nousiptv.com:8080/VictorE/5787546755/4005
 #EXTINF:-1 type="stream" channelId="3228" group="unsorted", Tnt novelas
