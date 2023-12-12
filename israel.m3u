@@ -23,6 +23,8 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 http://cineplay.vip:8080/movie/pochoa868/vs2KQQ7MEF/219108.mkv
 #EXTINF:-1 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/129037
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 Puebla
