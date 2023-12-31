@@ -7,8 +7,14 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Cultural Huauchinango
 https://4fd6-201-114-107-44.ngrok-free.app/tmp_hls/stream/index.m3u8
+#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal 21 chignahuapan
+https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
+#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Zacatalan
+https://stream.oursnetworktv.com/latin/canal21001/chunklist_w579659567.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27976
+#EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
