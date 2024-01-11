@@ -76,6 +76,8 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
 http://tv.nousiptv.com:8080/AR10465/10465R/1144258
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
+http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/25745
+#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/159338
 #EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
 http://45.167.253.253:4000/play/a00v/index.m3u8
