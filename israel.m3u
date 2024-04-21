@@ -318,76 +318,24 @@ http://45.166.92.22:58001/play/a00k/index.m3u8
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 5 DEPORTES" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="SEO TV NORMAL",5 | SEO TV 5 DEPORTES  
 	https://live.seo.tv.bo/live/SEO-5.m3u8
-#EXTINF:-1 type="stream" channelId="3804" group="unsorted", TUDN
-http://miarea.vip:8080/ChuyMXchange/Mk2ZZlfNqo/73695
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS PREMIUM MX®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146541
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ |  FOX SPORTS DEPORTES HD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146542
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS 2 MX
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/135649
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS 3 MX
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS MX
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/1971
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132271
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | ESPN  MX
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132278
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | ESPN 2 MX
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132279
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | ESPN 3 MX
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132280
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | ESPN DEPORTES HD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134462
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TELEMUNDO FHD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134463
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN ZONA FUTBOL PPV®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134464
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN MEXICO UHD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134466
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TUDN UHD® (USA)
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134467
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS DEPORTES HD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/134468
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | FOX SPORTS PREMIUM MX®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146541
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ |  FOX SPORTS DEPORTES HD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146542
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ| TUDN HD #2®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146603
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | AFIZZIONADOS FHD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/148888
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TVC DEPORTES HD® 
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/150069
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | AYM SPORTS MX UHD
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/151831
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | CLARO SPORTS FHD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/153566
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | VIX LO MEJOR LIGA MX HD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/153567
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | ADRENALINA SPORTS NETWORK FHD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/154748
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | SKY SPORTS Premier HD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/160999
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | Claro SPORTS (La Liga) MX® 
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/161000
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | VIX SPORTS (La Liga) MX®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/162334
-#EXTINF:-1,ᴸᴵᴳᴬ ᴹˣ | TV en VIVO (La Liga) MX® 
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/162516
-#EXTINF:-1,Cʰᵃᵐᵖⁱᵒⁿˢ Lᵉᵃᵍᵘᵉ | UEFA - TUDN XTRA #4
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/148782
-#EXTINF:-1,Cʰᵃᵐᵖⁱᵒⁿˢ Lᵉᵃᵍᵘᵉ | UEFA - TUDN XTRA #3
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/148781
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | GOLTV LATINOAMERICA
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132281
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | DIRECTV SPORTS (Col)
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132282
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | DIRECTV SPORTS 2 (Col)
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132283
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ  | TYC SPORTS
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132284
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | TNT SPORTS
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132285
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││TVC DEPORTES [HD]" tvg-logo="https://static.epg.best/mx/TVC.mx.png" group-title="││TV││ MEXICO",  ││MX││TVC DEPORTES [HD]
+http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/277
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││ FOX SPORTS MEXICO [SD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││ FOX SPORTS MEXICO [SD]
+http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/284
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││FOX SPORTS [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││FOX SPORTS [FHD]
+http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/376
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││FOX SPORTS 2  [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports2.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️", ││MX││FOX SPORTS 2  [FHD]
+http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/379
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││ FOX SPORTS 3 [FHD]" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",  ││MX││ FOX SPORTS 3 [FHD]
+http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/383
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││TVC DEPORTES MEXICO [HD]" tvg-logo="https://static.epg.best/mx/TVCDeportes.mx.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️", ││MX││TVC DEPORTES MEXICO [HD]
+http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/393
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││  TUDN USA [FHD]" tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️", ││MX││  TUDN USA [FHD]
+http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/395
+#EXTINF:-1 tvg-id="" tvg-name="││MX││TUDN MEXICO [FHD] " tvg-logo="https://static.epg.best/us/TUDN.us.png" group-title="││TV││⛹️ DEPORTE MEXICO ⛹️",││MX││TUDN MEXICO [FHD] 
+http://spaticplas.org:8080/Y629hwoe/DqUYbegCYepv/397
+
+
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
