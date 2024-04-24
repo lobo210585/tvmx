@@ -135,6 +135,7 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RETRO INFANTIL
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
+http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/312814
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/4858
 #EXTINF:-1 type="stream" channelId="322" group="unsorted", NICK JR
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132318
@@ -143,7 +144,7 @@ http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/149675
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", DSINEY JR
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132320
 #EXTINF:-1 type="stream" channelId="41" group="unsorted", NICK
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=4226
+http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/291378
 #EXTINF:-1 type="stream" channelId="1305" group="unsorted", CARTOONITO
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/149686
 #EXTINF:-1 type="stream" channelId="2639" group="unsorted", TOONCAST
