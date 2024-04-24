@@ -104,14 +104,28 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunkli
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
-http://tv.nousiptv.com:8080/AR10465/10465R/1144258
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
-http://cineplay.vip:8080/Marcoaguirre/gqcq57JhMM/25745
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cantinflas
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/159338
+
 #EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
 http://45.167.253.253:4000/play/a00v/index.m3u8
+
+#EXTINF:-1,24/7 | El Chavo del 8 (1918)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/150945.ts
+#EXTINF:-1,24/7 | 50 Clasicos de Disney (1440)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157508.ts
+#EXTINF:-1,24/7 | Don Gato y Su Pandilla (540)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157521.ts
+#EXTINF:-1,24/7 | El Conde Pátula (640)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157524.ts
+#EXTINF:-1,24/7 | Los Picapiedras (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157539.ts
+#EXTINF:-1,24/7 | Pajaro Loco (640)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157542.ts
+#EXTINF:-1,24/7 | Cinema Disney Family HD (1440)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137001.ts
+#EXTINF:-1,24/7 | Cinema Disney Pixar (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137097.ts
+#EXTINF:-1,24/7 | ALERTA AEROPUERTO (1920)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/299082.ts
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
@@ -119,15 +133,15 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 https://live.seo.tv.bo/live/SEO-2.m3u8
 #EXTINF:-1,MX - moni tv
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RETRO INFANTIL
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist.m3u8
+#EXTINF:-1,Super Mario Bros. La pelicula
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 #EXTINF:-1 type="stream" channelId="322" group="unsorted", NICK JR
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132318
 #EXTINF:-1 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/149675
+http://181.78.22.97:8000/play/a01n/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", DSINEY JR
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132320
+http://181.78.22.97:8000/play/a02j/index.m3u8
 #EXTINF:-1 type="stream" channelId="41" group="unsorted", NICK
 http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/291378
 #EXTINF:-1 type="stream" channelId="1305" group="unsorted", CARTOONITO
