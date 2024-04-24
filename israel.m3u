@@ -135,8 +135,6 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RETRO INFANTIL
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/312814
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/4858
 #EXTINF:-1 type="stream" channelId="322" group="unsorted", NICK JR
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132318
 #EXTINF:-1 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
