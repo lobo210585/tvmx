@@ -156,16 +156,7 @@ http://190.90.252.200:16001/play/a02p/index.m3u8
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/149689
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 02 | PICAPIEDRA 4K
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/chunklist_w790998453.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 03 | SIMPSON 4K
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/129313
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 03 | SIMPSON 4K
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/136246
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 04 | Disney movies 4K
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/151716
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 06 | pitufos 4K
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dios Tv
 https://stream.oursnetworktv.com/latin/dD10sT3V3/chunklist_w316289126.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dios Tv Kids
