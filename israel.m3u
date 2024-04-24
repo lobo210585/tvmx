@@ -108,24 +108,7 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3
 #EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
 http://45.167.253.253:4000/play/a00v/index.m3u8
 
-#EXTINF:-1,24/7 | El Chavo del 8 (1918)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/150945.ts
-#EXTINF:-1,24/7 | 50 Clasicos de Disney (1440)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157508.ts
-#EXTINF:-1,24/7 | Don Gato y Su Pandilla (540)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157521.ts
-#EXTINF:-1,24/7 | El Conde Pátula (640)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157524.ts
-#EXTINF:-1,24/7 | Los Picapiedras (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157539.ts
-#EXTINF:-1,24/7 | Pajaro Loco (640)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157542.ts
-#EXTINF:-1,24/7 | Cinema Disney Family HD (1440)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137001.ts
-#EXTINF:-1,24/7 | Cinema Disney Pixar (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137097.ts
-#EXTINF:-1,24/7 | ALERTA AEROPUERTO (1920)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/299082.ts
+
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
@@ -136,6 +119,7 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Super Mario Bros. La pelicula
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
+http://1play.cool:25461/live/3056329261/e882f32165/31226.m3u8
 #EXTINF:-1 type="stream" channelId="322" group="unsorted", NICK JR
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132318
 #EXTINF:-1 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
