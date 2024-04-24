@@ -172,6 +172,94 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 
+#EXTINF:1,Cinecanal
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
+#EXTINF:2.06933,Cinemax
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
+#EXTINF:1,Space
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/43
+#EXTINF:1,Studio
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
+#EXTINF:1.669,Wagner
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
+#EXTINF:1,AXN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
+#EXTINF:1,Movies?
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/143
+#EXTINF:1,Star
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/147
+#EXTINF:1.1011,HBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/152
+#EXTINF:1.55,HBO2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/153
+#EXTINF:1.25177,RCN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/165
+#EXTINF:1,RCN Novelas
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/166
+#EXTINF:1,TNT
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/171
+#EXTINF:1,TNT Series
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/172
+#EXTINF:1,[adult Swim]
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/174
+#EXTINF:1,Universal
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/176
+#EXTINF:1,Paramount EN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/397
+#EXTINF:1,Sony Movies
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/398
+#EXTINF:1,SyFy
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/400
+#EXTINF:1.454,HBO Signature
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/573
+#EXTINF:1,TBS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/849
+
+
+#EXTINF:1.12733,Animal Planet
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
+#EXTINF:1,HGTV EN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/308
+#EXTINF:1,Discovery
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
+#EXTINF:1,H&H
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
+#EXTINF:1,Discovery ID
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
+#EXTINF:1,Discovery Science
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
+#EXTINF:1,Discovery Theater HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
+#EXTINF:1.41254,Discovery Turbo
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
+#EXTINF:1.13447,Discovery Theater SD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
+#EXTINF:1,Lifetime HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/30
+#EXTINF:1,History
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
+#EXTINF:1,NatGeo HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/38
+#EXTINF:1.36803,NatGeo SD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
+#EXTINF:1,National Geographic
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
+#EXTINF:1,Discovery Channel
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/45
+#EXTINF:1,TLC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
+#EXTINF:1.01457,Discovery Español SD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/324
+#EXTINF:1,Disney Channel HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/458
+#EXTINF:1,History SD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/461
+#EXTINF:0.940311,Discovery Channel 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/489
+#EXTINF:1.16783,NatGeo Wild
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/492
+
+
 #EXTINF:1,ESPN2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
 #EXTINF:1,ESPN3
