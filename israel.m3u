@@ -191,6 +191,11 @@ https://linear-563.frequency.stream/mt/studio/563/hls/master/playlist.m3u8
 #EXTINF:-1,Moovi2 Mex 564
 https://linear-564.frequency.stream/mt/studio/564/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="CINE | Cine Dinamita HD" tvg-logo="http://209.126.82.213/1000/Cine/CINEDINAMITA.png" group-title="✔️ TV | CINE & SERIES LATINOS",CINE | Cine Dinamita HD
+http://1play.cool:25461/live/3056329261/e882f32165/174653.m3u8
+#EXTINF:-1 tvg-id="cinemax.ar" tvg-name="CINE | Cinemax FHD" tvg-logo="http://209.126.82.213/1000/Cine/CINEMAX.png" group-title="✔️ TV | CINE & SERIES LATINOS",CINE | Cinemax FHD
+http://1play.cool:25461/live/3056329261/e882f32165/41010.m3u8
+
 #----------------------------DOCU--------------------------------------------#
 
 #EXTINF:-3,Discovery Channel
