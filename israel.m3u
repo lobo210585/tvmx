@@ -119,24 +119,25 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://1play.cool:25461/live/3056329261/e882f32165/31226.m3u8
-#EXTINF:-1 type="stream" channelId="322" group="unsorted", NICK JR
-http://1play.cool:25461/live/3056329261/e882f32165/45939.m3u8
+http://956187718268811157.napgoto413.xyz:80/play/Gonza230512/TGFER945823/811157.ts
+#EXTINF:-1,MX: MEX: NICK JUNIOR VIP SD
+http://956187718268811157.napgoto413.xyz:80/play/Gonza230512/TGFER945823/811157.ts
+
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Top Cine Latam
-#EXTINF:-1 type="stream" channelId="19" group="unsorted", DISNEY CHANNEL
-http://181.78.22.97:8000/play/a01n/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", DSINEY JR
-http://181.78.22.97:8000/play/a02j/index.m3u8
+#EXTINF:-1,MX: MEX: DISNEY CHANNEL VIP SD
+http://956187718268812164.napgoto413.xyz:80/play/Gonza230512/TGFER945823/812164.ts
+#EXTINF:-1,MX: MEX: DISNEY JUNIOR VIP SD
+http://956187718268812165.napgoto413.xyz:80/play/Gonza230512/TGFER945823/812165.ts
 #EXTINF:-1 type="stream" channelId="41" group="unsorted", NICK
 http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/291378
 #EXTINF:-1 type="stream" channelId="1305" group="unsorted", CARTOONITO
 http://1play.cool:25461/live/3056329261/e882f32165/29798.m3u8
-#EXTINF:-1 type="stream" channelId="2639" group="unsorted", TOONCAST
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/132325
+#EXTINF:-1,MX: MEX: TOONCAST VIP SD
+http://956187718268664158.napgoto413.xyz:80/play/Gonza230512/TGFER945823/664158.ts
 #EXTINF:-1 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
 http://1play.cool:25461/live/3056329261/e882f32165/62803.m3u8
 #EXTINF:-1 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
