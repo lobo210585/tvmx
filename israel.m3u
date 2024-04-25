@@ -112,12 +112,10 @@ http://45.167.253.253:4000/play/a00v/index.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", 05 | seo tv kids 4K
-https://live.seo.tv.bo/live/SEO-2.m3u8
+
 #EXTINF:-1,MX - moni tv
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Super Mario Bros. La pelicula
-https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://1play.cool:25461/live/3056329261/e882f32165/31226.m3u8
 #EXTINF:-1 type="stream" channelId="322" group="unsorted", NICK JR
@@ -221,6 +219,7 @@ http://181.78.22.97:8000/play/a02t/index.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1,NatGo 91
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+
 
 
 
