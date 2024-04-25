@@ -20,7 +20,7 @@ http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/312776
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
 http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/159218
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/131132
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/159219
 #EXTINF:-1,MX || FILMEX UHD®
@@ -163,7 +163,7 @@ https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 
 #----------------------------MOV--------------------------------------------#
 #EXTINF:-1,Paramount
-http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+
 #EXTINF:-1,Golden 406
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1,Golden 408
@@ -176,16 +176,14 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1,MultiPremier
-http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 #EXTINF:-1,Space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+
 #EXTINF:-1,Studio
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+
 #EXTINF:-1,Cinecanal
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+
 #EXTINF:-1,TNT
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+
 #EXTINF:-1,HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1,HBO 2
@@ -197,17 +195,15 @@ http://181.78.22.97:8000/play/a02i/index.m3u8
 #EXTINF:-1,HBO PLUS
 http://181.78.22.97:8000/play/a02g/index.m3u8
 #EXTINF:-1,Universal 64
-http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+
 #EXTINF:-1,DePelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1,DePelicula+
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1,Cinema 120
-http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
+
 #EXTINF:-1,SonyComedia
 https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1,SonyMovies
-http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,Vix Cine Retro 562
@@ -216,175 +212,18 @@ https://linear-562.frequency.stream/mt/studio/562/hls/master/playlist.m3u8
 https://linear-563.frequency.stream/mt/studio/563/hls/master/playlist.m3u8
 #EXTINF:-1,Moovi2 Mex 564
 https://linear-564.frequency.stream/mt/studio/564/hls/master/playlist.m3u8
-#EXTINF:-1,ViX Cine Club 559
-https://linear-559.frequency.stream/mt/studio/559/hls/master/playlist.m3u8
-#EXTINF:-1,H6O
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-
-#----------------------------Toon-------------------------------------------#
-#EXTINF:-1,DreamWorks 99
-http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
-#EXTINF:-1,MAX ANIME
-https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1,ToonCast
-http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1,CartoonNetwork
-http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1,Nickelodeon
-http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-#EXTINF:-1,Nickelodeon2
-http://181.78.22.97:8000/play/a02r/index.m3u8
-#EXTINF:-1,Nick Jr 11
-http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
-#EXTINF:-1,Cartoonito 55
-http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-#EXTINF:-1,Baby TV 60
-http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
-#EXTINF:-1,Zoo Moo 69
-http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8
-#EXTINF:-1,PinkFong 355
-https://linear-355.frequency.stream/mt/studio/355/hls/master/playlist.m3u8
-#EXTINF:-1,BitMe 401
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-#EXTINF:-1,Lego 526
-https://linear-526.frequency.stream/mt/studio/526/hls/master/playlist.m3u8
-#EXTINF:-1,Disney Channel
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-#EXTINF:-1,Disney
-http://181.78.22.97:8000/play/a01n/index.m3u8
-#EXTINF:-1,Disney Junior
-http://181.78.22.97:8000/play/a02j/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://181.78.22.97:8000/play/a026/index.m3u8
-#EXTINF:-1,Super Mario Bros. La pelicula
-https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
-#EXTINF:-1,Elementos
-http://archive.org/download/Peliculas-wii/Elementos.mp4
 
 #----------------------------DOCU--------------------------------------------#
-#EXTINF:-1,Discovery 6
-http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1,Turbo
-http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1,History 58
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+
 #EXTINF:-1,History
 http://181.78.22.97:8000/play/a02t/index.m3u8
 #EXTINF:-1,Histoty 2 157
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1,Animal Planet 68
-http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1,Animal Planet (Colombia)
-http://190.149.66.90:4000/play/a01j/index.m3u8
 #EXTINF:-1,NatGo 91
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://181.78.22.97:8000/play/a02s/index.m3u8
-#EXTINF:-1,Gourmet G Channel 141
-http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
-#EXTINF:-1,Love Nature (ES)
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
-#EXTINF:-1,Nature Time 530
-https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
 
 
 
-#EXTINF:1,ESPN2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
-#EXTINF:1,ESPN3
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/26
-#EXTINF:1,ESPN
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
-#EXTINF:1,ESPN4
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/28
-#EXTINF:1,HD de por vida
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/30
-#EXTINF:1,Fox Sport
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
-#EXTINF:1,Fox Sport2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
-#EXTINF:1,TVC Deportes
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
-#EXTINF:1,TUDN
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/49
-#EXTINF:1.00333,TNT Sport2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/64
-#EXTINF:1,TUDN 2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/95
-#EXTINF:1,Fox Sport5
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/96
-#EXTINF:1,Deporte Supremo
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
-#EXTINF:1, Deporte Supremo 2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/98
-#EXTINF:1, Deporte Supremo 3
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/99
-#EXTINF:1,ESPNmx
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/100
-#EXTINF:1,Bein Deporte
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/101
-#EXTINF:1,Bein Sport Xtra
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/102
-#EXTINF:1.021,Descubrimiento Español HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
-#EXTINF:1,EuroSport1
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/139
-#EXTINF:1,Eurodeporte
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/140
-#EXTINF:1,VIX TUDN
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/583
-#EXTINF:1,Fox Premium
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
-#EXTINF:1,Fox Sports
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/650
-#EXTINF:1,ESPN op2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/652
-#EXTINF:1,FOX SPORT2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/653
-#EXTINF:1,FOX DEPORTE
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/655
-#EXTINF:1,FS PREMIUM
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/739
-#EXTINF:1.03437,FOX SPORT2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/781
-#EXTINF:1.024,FOXSPORT2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/782
-#EXTINF:1,TUDN 4
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/806
-#EXTINF:1,FSPREMIUM
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/831
-#EXTINF:1,ESPN2 op2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/836
-#EXTINF:1,ESPN3 op2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/837
-#EXTINF:1,TBS
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/849
-#EXTINF:1, Fox Sports AR
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/880
-#EXTINF:1,Fox Sports 2AR
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/881
-#EXTINF:1,Fox Sports 3AR
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/882
-#EXTINF:1,ESPN 2AR
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/899
-#EXTINF:1,TUDN 5
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/900
-#EXTINF:1,FOX SPORT PREMIUM
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/901
-#EXTINF:1,ESPNMX
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/902
-#EXTINF:1,ESPN 3 AR
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/973
-#EXTINF:1,TUDN 6
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1006
-#EXTINF:1,TUDN 7
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1007
-#EXTINF:1,ESPN 2 AR OP2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1016
-#EXTINF:1,FOX DEPORTES op2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
-#EXTINF:1,FOX DEPORTES op3
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1133
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
