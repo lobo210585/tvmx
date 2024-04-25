@@ -27,6 +27,8 @@ http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/159219
 http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146598
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://emuligl.info:8080/3ARBEj83vGem/5eJYhhkq6bG2/634
+#EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
+http://956187718268766855.napgoto413.xyz:80/play/Gonza230512/TGFER945823/766855.ts
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
@@ -308,6 +310,22 @@ http://138.59.177.34:8000/play/a054/index.m3u8
 http://138.59.177.34:8000/play/a00v/index.m3u8
 #EXTINF:-3 group-title="Educación",History Channel HD
 http://138.59.177.34:8000/play/a02s/index.m3u8
+
+#EXTINF:-1,MX: MEX: DISCOVERY THEATER VIP SD
+http://956187718268799801.napgoto413.xyz:80/play/Gonza230512/TGFER945823/799801.ts
+#EXTINF:-1,MX: MEX: HISTORY VIP SD
+http://956187718268694430.napgoto413.xyz:80/play/Gonza230512/TGFER945823/694430.ts
+#EXTINF:-1,MX: MEX: ANIMAL PLANET VIP HD
+http://956187718268811123.napgoto413.xyz:80/play/Gonza230512/TGFER945823/811123.ts
+#EXTINF:-1,MX: MEX: DISCOVERY H&H VIP SD
+http://956187718268812161.napgoto413.xyz:80/play/Gonza230512/TGFER945823/812161.ts
+#EXTINF:-1,MX: MEX: DISCOVERY WORLD VIP SD
+http://956187718268812163.napgoto413.xyz:80/play/Gonza230512/TGFER945823/812163.ts
+#EXTINF:-1,MX: MEX: DISNEY CHANNEL VIP SD
+http://956187718268812164.napgoto413.xyz:80/play/Gonza230512/TGFER945823/812164.ts
+#EXTINF:-1,MX: MEX: NATIONAL GEOGRAPHIC WILD VIP FHD
+http://956187718268812177.napgoto413.xyz:80/play/Gonza230512/TGFER945823/812177.ts
+
 
 ________________________________DEPORTES ___________
 
