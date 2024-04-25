@@ -161,92 +161,132 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 
-#EXTINF:1,Cinecanal
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
-#EXTINF:2.06933,Cinemax
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
-#EXTINF:1,Space
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/43
-#EXTINF:1,Studio
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
-#EXTINF:1.669,Wagner
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
-#EXTINF:1,AXN
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
-#EXTINF:1,Movies?
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/143
-#EXTINF:1,Star
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/147
-#EXTINF:1.1011,HBO
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/152
-#EXTINF:1.55,HBO2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/153
-#EXTINF:1.25177,RCN
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/165
-#EXTINF:1,RCN Novelas
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/166
-#EXTINF:1,TNT
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/171
-#EXTINF:1,TNT Series
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/172
-#EXTINF:1,[adult Swim]
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/174
-#EXTINF:1,Universal
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/176
-#EXTINF:1,Paramount EN
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/397
-#EXTINF:1,Sony Movies
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/398
-#EXTINF:1,SyFy
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/400
-#EXTINF:1.454,HBO Signature
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/573
-#EXTINF:1,TBS
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/849
+#----------------------------MOV--------------------------------------------#
+#EXTINF:-1,Paramount
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1,Golden 406
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1,Golden 408
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1,Golden
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1,MultiPremier
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1,Space
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1,Studio
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1,Cinecanal
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1,TNT
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1,HBO2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://181.78.22.97:8000/play/a02f/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://181.78.22.97:8000/play/a02h/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://181.78.22.97:8000/play/a02i/index.m3u8
+#EXTINF:-1,HBO PLUS
+http://181.78.22.97:8000/play/a02g/index.m3u8
+#EXTINF:-1,Universal 64
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1,DePelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1,DePelicula+
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1,Cinema 120
+http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
+#EXTINF:-1,SonyComedia
+https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,SonyMovies
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1,SonyCine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,Vix Cine Retro 562
+https://linear-562.frequency.stream/mt/studio/562/hls/master/playlist.m3u8
+#EXTINF:-1,Moovi Mex 563
+https://linear-563.frequency.stream/mt/studio/563/hls/master/playlist.m3u8
+#EXTINF:-1,Moovi2 Mex 564
+https://linear-564.frequency.stream/mt/studio/564/hls/master/playlist.m3u8
+#EXTINF:-1,ViX Cine Club 559
+https://linear-559.frequency.stream/mt/studio/559/hls/master/playlist.m3u8
+#EXTINF:-1,H6O
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
+#----------------------------Toon-------------------------------------------#
+#EXTINF:-1,DreamWorks 99
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1,MAX ANIME
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:-1,ToonCast
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1,CartoonNetwork
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1,Nickelodeon2
+http://181.78.22.97:8000/play/a02r/index.m3u8
+#EXTINF:-1,Nick Jr 11
+http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1,Cartoonito 55
+http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
+#EXTINF:-1,Baby TV 60
+http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1,Zoo Moo 69
+http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8
+#EXTINF:-1,PinkFong 355
+https://linear-355.frequency.stream/mt/studio/355/hls/master/playlist.m3u8
+#EXTINF:-1,BitMe 401
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+#EXTINF:-1,Lego 526
+https://linear-526.frequency.stream/mt/studio/526/hls/master/playlist.m3u8
+#EXTINF:-1,Disney Channel
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1,Disney
+http://181.78.22.97:8000/play/a01n/index.m3u8
+#EXTINF:-1,Disney Junior
+http://181.78.22.97:8000/play/a02j/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://181.78.22.97:8000/play/a026/index.m3u8
+#EXTINF:-1,Super Mario Bros. La pelicula
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+#EXTINF:-1,Elementos
+http://archive.org/download/Peliculas-wii/Elementos.mp4
 
-#EXTINF:1.12733,Animal Planet
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
-#EXTINF:1,HGTV EN
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/308
-#EXTINF:1,Discovery
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
-#EXTINF:1,H&H
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
-#EXTINF:1,Discovery ID
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
-#EXTINF:1,Discovery Science
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
-#EXTINF:1,Discovery Theater HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
-#EXTINF:1.41254,Discovery Turbo
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
-#EXTINF:1.13447,Discovery Theater SD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
-#EXTINF:1,Lifetime HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/30
-#EXTINF:1,History
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
-#EXTINF:1,NatGeo HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/38
-#EXTINF:1.36803,NatGeo SD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
-#EXTINF:1,National Geographic
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
-#EXTINF:1,Discovery Channel
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/45
-#EXTINF:1,TLC
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
-#EXTINF:1.01457,Discovery Español SD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/324
-#EXTINF:1,Disney Channel HD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/458
-#EXTINF:1,History SD
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/461
-#EXTINF:0.940311,Discovery Channel 2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/489
-#EXTINF:1.16783,NatGeo Wild
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/492
+#----------------------------DOCU--------------------------------------------#
+#EXTINF:-1,Discovery 6
+http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1,Turbo
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1,History 58
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1,History
+http://181.78.22.97:8000/play/a02t/index.m3u8
+#EXTINF:-1,Histoty 2 157
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1,Animal Planet 68
+http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
+#EXTINF:-1,Animal Planet (Colombia)
+http://190.149.66.90:4000/play/a01j/index.m3u8
+#EXTINF:-1,NatGo 91
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://181.78.22.97:8000/play/a02s/index.m3u8
+#EXTINF:-1,Gourmet G Channel 141
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+#EXTINF:-1,Love Nature (ES)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
+#EXTINF:-1,Nature Time 530
+https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
+
 
 
 #EXTINF:1,ESPN2
