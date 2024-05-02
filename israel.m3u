@@ -16,15 +16,13 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-2", Las Estrellas -2
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/312776
+http://956187718268787123.napgoto413.xyz:80/play/Gonza230512/TGFER945823/787123.ts
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/159218
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/159219
-#EXTINF:-1,MX || FILMEX UHD®
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/146598
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://emuligl.info:8080/3ARBEj83vGem/5eJYhhkq6bG2/634
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
@@ -34,7 +32,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
 http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/312777
 #EXTINF:-1 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://novared.pro:8080/J83hFMQ2xp67/hqfV6B3AVJQc/114283
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 type="stream" channelId="328" group="unsorted", Foro Tv
@@ -88,7 +86,7 @@ http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/129043
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 13 Puebla
-https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/c13puebla/live3/chunks.m3u8
+https://alba-mx-c13mexico-c13puebla.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TVBuap
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.1 (720p) [Not 24/7]
@@ -101,7 +99,7 @@ https://5d0d1d7a6be9e.streamlock.net/SHOUTcast/sethuachi.stream/playlist.m3u8
 https://5d0d1d7a6be9e.streamlock.net/setpuebla/radio/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", ZACATLAN RADIO SICOM
 https://5d0d1d7a6be9e.streamlock.net/setzacatlan/radio/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Heraldo Tv
+#EXTINF:-1 type="stream" channelId="-1" group="unsorted", ULTRA RADIO PUEBLA
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
