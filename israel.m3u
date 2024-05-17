@@ -18,7 +18,7 @@ https://u.m3uts.xyz/stream/hls/14
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
-https://u.m3uts.xyz/stream/hls/5
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Deportes 
 http://tv.soccerplus.link:8000/morenoscar/mission2023/92694
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
@@ -34,7 +34,7 @@ http://tv.soccerplus.link:8000/morenoscar/mission2023/6741
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-https://u.m3uts.xyz/stream/hls/21
+http://204.199.122.4:8000/play/b035/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
