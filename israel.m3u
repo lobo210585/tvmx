@@ -303,32 +303,24 @@ http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/182
 http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/183
 
 
-#EXTINF:-1 group-title="MyFutu" tvg-logo="https://www.dropbox.com/s/feeluq39iqait1k/fox_sports_2_lam.png?dl=1",MX | FOX SPORTS 2
-http://myfuturetv.com:8080/troica/654321/38404
-#EXTINF:-1 group-title="MyFutu" tvg-logo="https://www.dropbox.com/s/4rfk5cf0xqdrvnq/fox_sports_global.png?dl=1",MX | FOX SPORTS
-http://myfuturetv.com:8080/troica/654321/38405
-#EXTINF:-1 group-title="MyFutu" tvg-logo="https://www.dropbox.com/s/kqxi4yx3c46map8/fox_sports_3_lam.png?dl=1",MX | FOX SPORTS 3
-http://myfuturetv.com:8080/troica/654321/38407
-#EXTINF:-1 group-title="Fastream",LA_MEX-:FOX SPORTS PREMIUM
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/24775
-#EXTINF:-1 group-title="Fastream",LA_HD_MEX2:Fox Sports 3 HD
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/24922
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.imgur.com/3ZdQQhs.jpg",Dep|| Fox Sports 1 Mexico
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/59401
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png",Dep|| Fox Sports 1 SD | Mexico
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/59491
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/227628
-#Extinf:-1 group-title="NovaRed",Fox Sports 2
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/291004
-#Extinf:-1 group-title="NovaRed",FOX SPORTS 3 4K
-#EXTINF:-1 group-title="MyFutu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png",LA | FOX SPORTS
-http://myfuturetv.com:8080/troica/654321/38698
-#EXTINF:-1 group-title="MyFutu" tvg-logo="https://static.businessinsider.com/image/520cea5f6bb3f77d30000010/image.jpg",LA | FOX SPORTS 1
-http://myfuturetv.com:8080/troica/654321/38699
-#EXTINF:-1 group-title="MyFutu" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png",LA | FOX SPORTS 2
-http://myfuturetv.com:8080/troica/654321/38700
-#EXTINF:-1 group-title="MyFutu" tvg-logo="https://www.newslinereport.com/online/nota_la-frmula-1-estar-en-la-pantalla-de-fox-sports-3.jpg",LA | FOX SPORTS 3
-http://myfuturetv.com:8080/troica/654321/38701
+#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS 1 HD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139728
+#Extinf:-1 group-title="RedColTV",MX | F0X SPORTS 1 SD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139729
+#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS 2 HD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139730
+#Extinf:-1 group-title="RedColTV",MX | F0X SPORTS 2 SD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139731
+#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS 3 HD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139732
+#Extinf:-1 group-title="RedColTV",MX | F0X SPORTS 3 SD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139733
+#Extinf:-1 group-title="RedColTV",LIGA | FOX SPORTS PREMIUM HD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139734
+#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS PREMIUM HD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139735
+#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS PREMIUM SD
+http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139736
 #Extinf:-1 group-title="RedColTV",ESPN MEXICO HD
 http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139631
 #Extinf:-1 group-title="RedColTV",ESPN MEXICO SD
