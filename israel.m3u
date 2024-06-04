@@ -10,7 +10,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas -2" tvg-logo="" group-title="LOCALES LATINOS USA HD",Las Estrellas -2
 http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/38951.m3u8
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-https://u.m3uts.xyz/stream/hls/341
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315632.m3u8
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:-1 type="stream" channelId="328" group="unsorted", Foro Tv
@@ -40,7 +40,7 @@ http://204.199.122.4:8000/play/b035/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
-http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/vq9B667XhmK7sds/159219
+http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63736
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", N +
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_3.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", N+ Noticias
@@ -50,7 +50,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 type="stream" channelId="2690" group="unsorted", ADN 40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 type="stream" channelId="2883" group="unsorted", CNN
-http://emuligl.info:8080/3ARBEj83vGem/5eJYhhkq6bG2/181582
+http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/59637
 #EXTINF:-1 type="stream" channelId="266" group="unsorted", Capital 21
 https://video.cdmx.gob.mx/debatechilango/stream.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
@@ -66,15 +66,15 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="238" group="unsorted", AZ CORAZON
 http://45.228.232.205:16000/play/a02i/index.m3u8
 #EXTINF:-1 type="stream" channelId="228" group="unsorted", AZ MUNDO
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/145512
+http://saypopular.com:25461/datdude25/datdude2525/52726
 #EXTINF:-1 type="stream" channelId="3727" group="unsorted", AZ CINEMA
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=4375
+http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/22461.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal 21 chignahuapan
 https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Zacatalan
 https://stream.oursnetworktv.com/latin/canal21001/chunklist_w579659567.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-http://00322.xyz:8000/EMT5XDXU13/22S7FJXNS7/129043
+http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/26962
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 13 Puebla
