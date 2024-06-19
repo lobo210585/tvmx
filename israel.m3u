@@ -143,226 +143,145 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 
-#EXTINF:-1,MX: MEX: DISCOVERY CHANNEL VIP HD
-http://474429740523842318.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842318.ts
-#EXTINF:-1,MX: MEX: DISCOVERY H&H VIP HD
-http://474429740523842320.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842320.ts
-#EXTINF:-1,MX: MEX: DISCOVERY KIDS VIP HD
-http://474429740523842321.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842321.ts
-#EXTINF:-1,MX: MEX: DISCOVERY SCIENCE VIP HD
-http://474429740523842322.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842322.ts
-#EXTINF:-1,MX: MEX: DISCOVERY THEATER VIP HD
-http://474429740523842323.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842323.ts
-#EXTINF:-1,MX: MEX: DISCOVERY TURBO VIP SD
-http://474429740523842324.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842324.ts
-#EXTINF:-1,MX: MEX: DISCOVERY WORLD VIP HD
-http://474429740523842325.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842325.ts
-#EXTINF:-1,MX: MEX: NATIONAL GEOGRAPHIC VIP SD
-http://474429740523842362.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842362.ts
-#EXTINF:-1,MX: MEX: NATIONAL GEOGRAPHIC WILD VIP FHD
-http://474429740523842363.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842363.ts
-#EXTINF:-1,MX: MEX: TLC VIP SD
-http://474429740523842384.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842384.ts
-#EXTINF:-1,MX: MEX: HISTORY VIP SD
-http://474429740523855131.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/855131.ts
-#EXTINF:-1,MX: MEX: ANIMAL PLANET VIP SD
-http://474429740523842295.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842295.ts
-#EXTINF:-1,MX: MEX: INVESTIGATION DISCOVERY VIP SD
-http://474429740523842354.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842354.ts
-#EXTINF:-1,MX: MEX: LIFETIME VIP SD
-http://474429740523842355.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842355.ts
-#EXTINF:-1,MX: MEX: MAS CHIC VIP SD
-http://474429740523842356.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842356.ts
-#EXTINF:-1,MX: MEX: E! ENTERTAINMENT VIP SD
-http://474429740523842330.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842330.ts
-#EXTINF:-1,MX: MEX: EL GOURMET VIP HD
-http://474429740523842331.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842331.ts
-#EXTINF:-1,MX: MEX: HLN VIP SD
-http://474429740523842350.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842350.ts
-#EXTINF:-1,MX: MEX: HOLA TV VIP SD
-http://474429740523842351.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842351.ts
-#EXTINF:-1,MX: MEX: I SAT VIP HD
-http://474429740523842352.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842352.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/186388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY MOVIES
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/186393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",STUDIO UNIVERSAL
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/186399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E !E" tvg-logo="" group-title="PREMIUM LATINO  HD",A&E !E
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",AXN FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="PREMIUM LATINO  HD",AMC HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Cinecanal HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="PREMIUM LATINO  HD",CINEMAX
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Comedy Central FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN +" tvg-logo="" group-title="PREMIUM LATINO  HD",GOLDEN +
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Edge FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden plus FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden plus FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Plus HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Premier HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 1 FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Premier 1 FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 2 FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Premier 2 FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="PREMIUM LATINO  HD",HBO 2 HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="PREMIUM LATINO  HD",HBO Family HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",HBO FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="" group-title="PREMIUM LATINO  HD",HBO Mundi HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",HBO Plus FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title="PREMIUM LATINO  HD",HBO POP
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD (MX)" tvg-logo="" group-title="PREMIUM LATINO  HD",HBO Signature FHD (MX)
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315210.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",UNIVERSAL
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/186452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Paramount Channel FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="PREMIUM LATINO  HD",Space
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="PREMIUM LATINO  HD",Studio Universal
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD." tvg-logo="" group-title="PREMIUM LATINO  HD",SyFy HD.
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT Series FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner channel" tvg-logo="" group-title="PREMIUM LATINO  HD",Warner channel
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315218.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Lifetime HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Animal Planet HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Channel HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Familia
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery H&H HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery H&H HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery ID HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Science HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Science HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Theater HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery TLC HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Turbo FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery World HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet FHD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",El Gourmet FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",El Gourmet HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Food Network FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",HGTV HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",History Channel HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hisotory 2 HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Hisotory 2 HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",History 2 HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Channel FHD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",NatGeo Channel FHD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Natgeo HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",NatGeo Mundo HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",NatGeo Wild HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315242.m3u8
 
 
 
 
-#EXTINF:-1,MX: MEX: CINECANAL VIP SD
-http://474429740523842312.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842312.ts
-#EXTINF:-1,MX: MEX: CINEMAX VIP SD
-http://474429740523842313.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842313.ts
-#EXTINF:-1,MX: MEX: ANTENA 3 VIP FHD
-http://474429740523842296.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842296.ts
-#EXTINF:-1,MX: MEX: AXN VIP SD
-http://474429740523842297.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842297.ts
-#EXTINF:-1,MX: MEX: TNT SERIES VIP HD
-http://474429740523842385.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842385.ts
-#EXTINF:-1,MX: MEX: TNT VIP FHD
-http://474429740523842386.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842386.ts
-#EXTINF:-1,MX: MEX: WARNER VIP HD
-http://474429740523843625.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/843625.ts
-#EXTINF:-1,MX: MEX: TCM VIP SD
-http://474429740523852722.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/852722.ts
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",C/S• GOLDEN (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/127
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",C/S• GOLDEN (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/128
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg",C/S• GOLDEN (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/129
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",C/S• HBO 2 (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/131
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",C/S• HBO 2 (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/132
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",C/S• HBO 2 (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/133
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg",C/S• HBO 2 (HD) »4«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/134
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",C/S• HBO FAMILY (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/135
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",C/S• HBO FAMILY (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/136
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",C/S• HBO FAMILY (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/137
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",C/S• HBO FAMILY (HD) »4«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/138
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",C/S• HBO (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/139
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",C/S• HBO (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/140
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",C/S• HBO (HD) »4«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/141
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg",C/S• HBO MUNDI (HD)
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/142
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",C/S• HBO PLUS (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/144
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",C/S• HBO PLUS (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/145
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg",C/S• HBO PLUS (HD) »4«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/146
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",C/S• HBO POP (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/147
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",C/S• HBO POP (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/148
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg",C/S• HBO POP (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/149
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",C/S• HBO SIGNATURE (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/150
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",C/S• HBO SIGNATURE (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/151
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",C/S• HBO SIGNATURE (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/152
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",C/S• HBO SIGNATURE (HD) »4«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/153
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",C/S• HBO SUBTITULADO (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/154
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg",C/S• HBO SUBTITULADO (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/155
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",C/S• HBO XTREME (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/156
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",C/S• HBO XTREME (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/157
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",C/S• HBO XTREME (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/158
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",C/S• STAR CHANNEL (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/160
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",C/S• STAR CHANNEL (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/161
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg",C/S• STAR CHANNEL (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/162
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",C/S• TNT (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/166
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",C/S• TNT (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/167
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",C/S• TNT (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/168
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg",C/S• TNT (HD) »4«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/169
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",C/S• TNT SERIES (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/170
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",C/S• TNT SERIES (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/171
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",C/S• TNT SERIES (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/172
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",C/S• CINEMAX (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/173
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg",C/S• A3 CINE (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/174
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",C/S• CINEMAX (HD) »2«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/176
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg",C/S• CINEMAX ACTION (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/177
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",C/S• CINEMAX EAST (HD)
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/178
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg",C/S• CINEMAX (HD) »3«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/179
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg",C/S• CINEMAX (HD) »4«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/180
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg",C/S• DE PELÍCULA (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/181
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg",C/S• DE PELÍCULA CLASICO (HD) »1«
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/182
-#EXTINF:-1 group-title="Fastream" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg",C/S• DE PELÍCULA PLUS (HD)
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/183
-
-
-#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS 1 HD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139728
-#Extinf:-1 group-title="RedColTV",MX | F0X SPORTS 1 SD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139729
-#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS 2 HD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139730
-#Extinf:-1 group-title="RedColTV",MX | F0X SPORTS 2 SD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139731
-#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS 3 HD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139732
-#Extinf:-1 group-title="RedColTV",MX | F0X SPORTS 3 SD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139733
-#Extinf:-1 group-title="RedColTV",LIGA | FOX SPORTS PREMIUM HD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139734
-#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS PREMIUM HD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139735
-#Extinf:-1 group-title="RedColTV",MX | FOX SPORTS PREMIUM SD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139736
-#Extinf:-1 group-title="RedColTV",ESPN MEXICO HD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139631
-#Extinf:-1 group-title="RedColTV",ESPN MEXICO SD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139632
-#Extinf:-1 group-title="RedColTV",ESPN Mexico 2 HD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139633
-#Extinf:-1 group-title="RedColTV",ESPN Mexico 2 sd
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139634
-#Extinf:-1 group-title="RedColTV",ESPN Mexico 3 HD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139635
-#Extinf:-1 group-title="RedColTV",ESPN  Mexico 3 SD
-http://redcoltelevision.info:25461/Armandopalomino/hbgyttrfv/139636
-#EXTINF:-1,MX: MEX: ESPN 2 VIP HD
-http://474429740523855125.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/855125.ts
-#EXTINF:-1,MX: MEX: ESPN VIP HD
-http://474429740523855126.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/855126.ts
-#EXTINF:-1,MX: MEX: TVC DEPORTES VIP FHD
-http://474429740523843624.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/843624.ts
-#EXTINF:-1,MX: MEX: FOX SPORTS 2 VIP [LIVE DURING EVENTS ONLY] SD
-http://474429740523848703.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/848703.ts
-#EXTINF:-1,MX: MEX: TDN VIP SD
-http://474429740523842377.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842377.ts
-#EXTINF:-1,MX: MEX: ESPN 3 VIP FHD
-http://474429740523842333.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842333.ts
-#EXTINF:-1,MX: MEX: ESPN EXTRA VIP FHD
-http://474429740523842334.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842334.ts
-#EXTINF:-1,MX: MEX: EUROPA EUROPA VIP HD
-http://474429740523842336.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842336.ts
-#EXTINF:-1,MX: MEX: FOX NEWS VIP SD
-http://474429740523842339.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842339.ts
-#EXTINF:-1,MX: MEX: FOX SPORTS 1 VIP HD
-http://474429740523842340.ofgh525.xyz:80/play/Jordan1023D/Aktwakdae121/842340.ts
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="FOX DEPORTES HD" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzOTAxNjA4NDUzODgz/fox-deportes-logo-sizedjpg.jpg" group-title="DEPORTES LATINOS  HD",FOX DEPORTES HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/2784.m3u8
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS 1 MX" tvg-logo="http://5.9.14.74/video/logo/1/fox.sports.png" group-title="DEPORTES LATINOS  HD",FOX SPORTS 1 MX
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/2172.m3u8
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 MX" tvg-logo="http://5.9.14.74/video/logo/1/fox.sports.2.png" group-title="DEPORTES LATINOS  HD",FOX SPORTS 2 MX
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/2173.m3u8
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 MX" tvg-logo="http://5.9.14.74/video/logo/1/fox.sports.3.png" group-title="DEPORTES LATINOS  HD",FOX SPORTS 3 MX
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/3963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR*" tvg-logo="" group-title="DEPORTES LATINOS  HD",FOX SPORTS 2 SUR*
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/3954.m3u8
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN DEPORTES HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES LATINOS  HD",ESPN DEPORTES HD
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/2834.m3u8
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="ESPN MX" tvg-logo="http://hubwav.com/wp-content/uploads/2018/04/ESPN.jpg" group-title="DEPORTES LATINOS  HD",ESPN MX
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/6155.m3u8
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 MX" tvg-logo="https://icanadvertising.com/wp-content/uploads/2014/11/ESPN2_Logo-whiteback.png" group-title="DEPORTES LATINOS  HD",ESPN 2 MX
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/6154.m3u8
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 MX" tvg-logo="http://image.cdnllnwnl.xosnetwork.com/pics33/800/HT/HTXSKNCHGAGPGZB.20151029185158.jpg" group-title="DEPORTES LATINOS  HD",ESPN 3 MX
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/6153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+ MX" tvg-logo="" group-title="DEPORTES LATINOS  HD",ESPN+ MX
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/17383.m3u8
 
 
 
