@@ -38,9 +38,9 @@ http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158344
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://204.199.122.4:8000/play/b035/index.m3u8
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315628.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315629.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63736
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", N +
