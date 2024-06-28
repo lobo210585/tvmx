@@ -78,11 +78,11 @@ https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Zacatalan
 https://stream.oursnetworktv.com/latin/canal21001/chunklist_w579659567.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/26962
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719615690/ei/aux-Zta9B-rCybgPtN3BiAM/ip/2806%3A105e%3A15%3A1dbb%3A6dde%3A44b5%3A2306%3A85/id/UNdtkc7w80A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-NEnHmEzu-NKG4qjkBvsI_odHffCqsTpzDttCNxfZoe1av0XmBUt4neE52HUmhOQOA03YX5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgON_U3vQ6DI0EI9rff4Ck-2v9TnjnRV_XvlhQgZirVsICIGvIHlS2sKY3tGBrfTbd440hiTtLFCHUxEKnnbDkBHQl/file/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 13 Puebla
-https://alba-mx-c13mexico-c13puebla.stream.mediatiquestream.com/index.m3u8
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TVBuap
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.1 (720p) [Not 24/7]
