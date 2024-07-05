@@ -26,7 +26,7 @@ http://tv.soccerplus.link:8000/morenoscar/mission2023/92694
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", NU9VE
-http://u.m3uts.xyz/stream/hls/772.m3u8
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/59595
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", canal 22
@@ -112,6 +112,9 @@ http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/59540
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="INF• DREAMWORKS (HD) »1«" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",INF• DREAMWORKS (HD) »1«
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/61598
 
 #EXTINF:-1,MX: MEX: DISNEY CHANNEL VIP SD
 http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/59539
@@ -266,27 +269,38 @@ http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315242.m3u8
 
 
 
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="FOX DEPORTES HD" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzOTAxNjA4NDUzODgz/fox-deportes-logo-sizedjpg.jpg" group-title="DEPORTES LATINOS  HD",FOX DEPORTES HD
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/2784.m3u8
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS 1 MX" tvg-logo="http://5.9.14.74/video/logo/1/fox.sports.png" group-title="DEPORTES LATINOS  HD",FOX SPORTS 1 MX
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/2172.m3u8
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 MX" tvg-logo="http://5.9.14.74/video/logo/1/fox.sports.2.png" group-title="DEPORTES LATINOS  HD",FOX SPORTS 2 MX
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/2173.m3u8
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 MX" tvg-logo="http://5.9.14.74/video/logo/1/fox.sports.3.png" group-title="DEPORTES LATINOS  HD",FOX SPORTS 3 MX
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/3963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR*" tvg-logo="" group-title="DEPORTES LATINOS  HD",FOX SPORTS 2 SUR*
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/3954.m3u8
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN DEPORTES HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES LATINOS  HD",ESPN DEPORTES HD
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/2834.m3u8
-#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="ESPN MX" tvg-logo="http://hubwav.com/wp-content/uploads/2018/04/ESPN.jpg" group-title="DEPORTES LATINOS  HD",ESPN MX
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/6155.m3u8
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 MX" tvg-logo="https://icanadvertising.com/wp-content/uploads/2014/11/ESPN2_Logo-whiteback.png" group-title="DEPORTES LATINOS  HD",ESPN 2 MX
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/6154.m3u8
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 MX" tvg-logo="http://image.cdnllnwnl.xosnetwork.com/pics33/800/HT/HTXSKNCHGAGPGZB.20151029185158.jpg" group-title="DEPORTES LATINOS  HD",ESPN 3 MX
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/6153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+ MX" tvg-logo="" group-title="DEPORTES LATINOS  HD",ESPN+ MX
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/17383.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »1«
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/505
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 MX (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »2«
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/509
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 CL (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 CL (HD)
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/512
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 AR (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 AR (HD)
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/513
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 LAT (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 LAT (HD)
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/514
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 MX (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 MX (HD)
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/511
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 LAT (HD)" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 LAT (HD)
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/517
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »1«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »1«
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/515
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »2«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »2«
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/516
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 MX (HD) »1«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/540
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 MX (HD) »2«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/534
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TUDN HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:TUDN HD
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24941
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TVC Deportes HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:TVC Deportes HD
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24950
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Fox Sports 3 HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Fox Sports 3 HD
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24922
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:ESPN 2 HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:ESPN 2 HD
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24915
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:ESPN HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:ESPN HD
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24916
 
 
 
