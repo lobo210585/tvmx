@@ -4,7 +4,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO 
 https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/index.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315634.m3u8
+http://magmas5.com:8000/live/RX493lI023OO/mn0OlIDDC487/129048.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas -2" tvg-logo="" group-title="LOCALES LATINOS USA HD",Las Estrellas -2
@@ -269,38 +269,38 @@ http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315242.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »1«
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/505
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 2 MX (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »2«
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/509
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 CL (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 CL (HD)
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/512
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 AR (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 AR (HD)
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/513
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 LAT (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 LAT (HD)
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/514
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 3 MX (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 MX (HD)
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/511
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 LAT (HD)" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 LAT (HD)
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/517
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »1«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »1«
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/515
-#EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN 4 MX (HD) »2«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »2«
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/516
-#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 MX (HD) »1«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/540
-#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 1 MX (HD) »2«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/534
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TUDN HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:TUDN HD
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24941
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:TVC Deportes HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:TVC Deportes HD
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24950
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Fox Sports 3 HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:Fox Sports 3 HD
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24922
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:ESPN 2 HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:ESPN 2 HD
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24915
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:ESPN HD" tvg-logo="" group-title="→ MÉXICO ←",LA_HD_MEX2:ESPN HD
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/24916
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 1 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2 (México)
+http://tilinki.com:25461/caqo5939/2g7xS/24
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN SPORT 1 (México)
+https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN SPORT 2 (México)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069852
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN SPORT 3 (México)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069859
+#EXTINF:-1 group-title="Bics DEPORTES", espn 4 (México)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
+#EXTINF:-1 group-title="Bics DEPORTES",TVC DEPORTES
+http://budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159097
+#EXTINF:-1 group-title="Bics DEPORTES", fox sport premiun (mexico)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN usa
+http://tvmate.icu:8080/Alan/Alan1234/82241
+ #EXTINF:-1 group-title="Bics DEPORTES", sky sport (México)
+https://dashtvcloud.online:8443/josealbrook/panama121/144286
+#EXTINF:-1 group-title="Bics DEPORTES", azteca deportes (México)
+http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/180062
+#EXTINF:-1 group-title="Bics DEPORTES", deportes ufc (México)
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
+#EXTINF:-1 group-title="Bics DEPORTES", deportes itv (México)
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", futbol network tv (México)
+https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 
 
 
