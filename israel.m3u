@@ -8,7 +8,7 @@ http://magmas5.com:8000/live/RX493lI023OO/mn0OlIDDC487/129048.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted" shift="-1", Las Estrellas -1
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas -2" tvg-logo="" group-title="LOCALES LATINOS USA HD",Las Estrellas -2
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/38951.m3u8
+http://45.228.234.167:8000/play/a0le/index.m3u8
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315632.m3u8
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
@@ -16,7 +16,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 #EXTINF:-1 type="stream" channelId="328" group="unsorted", Foro Tv
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8
 #EXTINF:-1 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/114283
+http://45.228.234.167:8000/play/a0ll/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
@@ -40,9 +40,9 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="→ 24/7 II ←",24H | Cantinflas
 http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/62361
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315628.m3u8
+http://tv.soccerplus.link:8000/morenoscar/mission2023/92759
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315629.m3u8
+http://tv.soccerplus.link:8000/morenoscar/mission2023/22167
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63736
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", N +
@@ -54,7 +54,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 type="stream" channelId="2690" group="unsorted", ADN 40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 type="stream" channelId="2883" group="unsorted", CNN
-http://fastream.xyz:8080/carlosrojas9061/fQ5G4XVCgWgK/59637
+http://tv.soccerplus.link:8000/morenoscar/mission2023/435
 #EXTINF:-1 type="stream" channelId="266" group="unsorted", Capital 21
 https://video.cdmx.gob.mx/debatechilango/stream.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
@@ -65,7 +65,7 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", AZ CLIC
 http://45.228.232.205:16000/play/a04j/index.m3u8
-#EXTINF:-1 type="stream" channelId="243" group="unsorted", /tastemadees
+#EXTINF:-1 type="stream" channelId="243" group="unsorted", tastemadees
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="238" group="unsorted", AZ CORAZON
 http://45.228.232.205:16000/play/a02i/index.m3u8
@@ -104,9 +104,9 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunkli
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/392
+http://tv.soccerplus.link:8000/morenoscar/mission2023/22319
 #EXTINF:-1,MX: MEX: NICK JUNIOR VIP SD
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/59540
+http://tv.soccerplus.link:8000/morenoscar/mission2023/22321
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
