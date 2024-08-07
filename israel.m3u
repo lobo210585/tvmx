@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/91zqGNzwk5L._AC_SL1500_.jpg", Super Mario Bros La Pelicula | REGIOFLIX
+http://notabasica.com/612132/The.Super.Mario.Bros.Movie.2023.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_696208-MLM75727749784_042024-O.webp", Garfield Fuera de Casa | REGIOFLIX
+http://notabasica.com/612132/Garfield.Fuera.de.Casa.2024.720p-Dual-Lat%20%281%29.mp4
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO 
@@ -7,14 +11,16 @@ https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/ind
 https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://magmas5.com:8000/live/RX493lI023OO/mn0OlIDDC487/129048.m3u8
+#EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
+http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/236447
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:-1 type="stream" channelId="328" group="unsorted", Foro Tv
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8
+http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/241994
 #EXTINF:-1 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://45.228.234.167:8000/play/a0ll/index.m3u8
+http://tv.nousiptv.com:8080/washington/larrude/1155866
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
@@ -44,27 +50,21 @@ https://amg01602-themahqfrance-vivekanalddrama-freetv-hd8p0.amagi.tv/playlist/am
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc8d643f6-3c26-456a-89ef-8821f7a0c02a%2FORO_Tv_1920X1080_JPG_RDX_1_.jpg", ORO TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa/variant.m3u8?url=e97abca80a51d83589c594e87207a328-c53791e8be953ffba57159464da7371780b7f17ec63594fa96fc227365074ac22df9c2307a0b9e8294b1bcc0170931550d668765e5f865dfd745e77834e500591ff1510b371b993ba8b9da025db31c518ff83be26606fe71057dbf85a8cbe318b6dfa5faf5912eb474dc8515e84f31f46391c89eb53cccc0d6bd191a0b41f9ca1730b4ba444faf391886ca63deab825fc3d183c26186ce9d0e26c0e8f680419bc10cd5e4db0248684f5ef3b94e584202101c62b373905e2c293a5579412fd364267156fbaca4be42b7e3defdd9620bac&x-plex-token=W8gGWyVyGSYRypNEXxGD&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1721541654
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", NU9VE
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/59595
+http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/67449
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Vecinos_(serie_de_televisi%C3%B3n_mexicana)#/media/Archivo:Vecinos_(_TV_series)_logo.png", Vecinos
-https://dcs3-live.mp.lura.live/server/podserve/Akpqp9fxaoNEhKJj/rendition.m3u8?track=video-5&ts=1721598266&psi=ea3670efd85cf1bc98c875a94616c61c&encp=e29pOFr49WwwSQKqGy-JNQ:_TgpeuZqLWrkTV_CCykQe7PWeY0E1K0Twuz5E4C8kj2CprhF8zy-JnKyQYgAa0fUKL6Nq9CI3aCaN2yFyaQCFLAlknpZ41k16l2UpJWm-zTmV8zchl0LDRv-i9cyPsQOu-kiuAqJTIeyJ6Tng4M99k-5kuhwji8gilI2Bj_Cqi_lUPyAH4xslMLv88ftnHAaxtzzCRgc44zyf5bKyjZCD0X8yqrzOcHlSuI9rppjYXHKjLMZOojedEZzK2UXxqTW_-TkmYqTOtsiYVhpe6Riiv305MYPi3XqGZBZKycX8Caon4P4wJklzDLPzjhmC0Lo9voaBSNfb5WkjCB2J0COiu7OX4CCzA8eJyV2XyFBZ1OxTuvEMvI1f9W_DCNukIkI-nSRbq5qElso4QorgtZM5LjBG7969vKpplN3Z5UqrfljifILrxGU0A7YfWFAqmDJsgHOOMSRwt2qgGPlJeVcZ-_HDpPMT9j3hQ3Pso3gf5H1Aoou456C-99MwwmUtSki_GDcnjxPogYmO4jTKJTPZbj8GiE8bqhQZhTRFiT7WmIQfHUkJizkOAMujD-jal_4dYHWOdwgg3O8_qQ6moRquECSU0BTsQfB2psRAJDStH-3urYKUobvkbx0dKI-V2Z9kE-RHxhA9msOY-O5g_btdEFMJH86jKpmkbYIZCFwp3SuxzCQOc-idcRFXlFkZOy7b5h0fN4x1uOr2agMYreHVEMwR-HkZ5mqXJTw28ZpRU3usxiPaIX02sZK2xyx0enGsk1LrAIgu1kDBOXfKUg4Xnsuo1XI8V93bnOFGsxv6SIGwMeBLSmmpsLUiILzQ553SwfAHJLqKZ7LACHpHQmxQxZgbskdeT__AJQ2c_NZyFU7qgaTmgkErnfn_Q4RBOJeIN6Myz6xEVa_xEPmP8-lHyvdVyCQyeI6_EKtq_P4UZC65nzb1yXQjYiNMLaVXfq70r3y-MV59R4btUFJhcGCeY7h8p5JO-hIBQJ5c0fmv6Up7jIsaESudsXmol84YI7ObMMWh3NMvtPHIBuCEQPAZ82UGE0Gv_Z8-0o7B2sdS7OCedYoEL-0qVg8kvpttcgQ&pcqx=65f93a76340b9c9e72d63f932f260df5&sid=5460e738-7d99-41cf-8725-9418049ba7cc:MRN2
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema La India Maria HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema La India Maria HD
-http://tv.soccerplus.link:8000/morenoscar/mission2023/63094
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1711912482532.png",Chespirito (R)|24/7
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/158344
+http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/312776
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="→ 24/7 II ←",24H | Cantinflas
 http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/62361
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://tv.soccerplus.link:8000/morenoscar/mission2023/92759
+http://saypopular.com:25461/datdude25/datdude2525/52743
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://tv.soccerplus.link:8000/morenoscar/mission2023/22167
+http://tv.nousiptv.com:8080/washington/larrude/1155788
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63736
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", N +
@@ -76,9 +76,9 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 type="stream" channelId="2690" group="unsorted", ADN 40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 type="stream" channelId="2883" group="unsorted", CNN
-http://tv.soccerplus.link:8000/morenoscar/mission2023/435
+http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63073
 #EXTINF:-1 type="stream" channelId="266" group="unsorted", Capital 21
-https://video.cdmx.gob.mx/debatechilango/stream.m3u8
+https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 Puebla
@@ -86,17 +86,15 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", AZ CLIC
-http://45.228.232.205:16000/play/a04j/index.m3u8
+http://fastream.xyz:8080/963316995tv/h82ngdc/24891
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", tastemadees
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="238" group="unsorted", AZ CORAZON
-http://45.228.232.205:16000/play/a02i/index.m3u8
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22466
 #EXTINF:-1 type="stream" channelId="228" group="unsorted", AZ MUNDO
-http://saypopular.com:25461/datdude25/datdude2525/52726
+http://138.186.20.13:23200/play/a0e0
 #EXTINF:-1 type="stream" channelId="3727" group="unsorted", AZ CINEMA
 http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/22461.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Congreso de Puebla
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719612947/ei/s-F-Zv7EGLijlu8P3daniAY/ip/2806%3A105e%3A15%3A1dbb%3A6dde%3A44b5%3A2306%3A85/id/xwZXsgzzxa8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3LbwHtuPehArFaGkLc77Gw1Pe9u3urKVZe7fbAlCv0ggQNX5N8Qm8LL4w-DaBGgpLURpRAt/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJP4-lfiYvbPAL0M8mqGoNyeTfPyI39bixcgdSKHwfJqAiA1Vji2g4-HaxaX7bbbEburuugDW6-ngEtCGUgErSuK1Q%3D%3D/file/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal 21 chignahuapan
 https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Zacatalan
