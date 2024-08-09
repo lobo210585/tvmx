@@ -14,11 +14,11 @@ http://magmas5.com:8000/live/RX493lI023OO/mn0OlIDDC487/129048.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/236447
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-http://181.78.105.146:2000/play/a00h/index.m3u8
+http://tv.nousiptv.com:8080/washington/larrude/1124600
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:-1 type="stream" channelId="328" group="unsorted", Foro Tv
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/241994
+http://tv.nousiptv.com:8080/washington/larrude/1155870
 #EXTINF:-1 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://tv.nousiptv.com:8080/washington/larrude/1155866
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
