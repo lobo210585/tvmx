@@ -29,6 +29,10 @@ https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8
 http://magmas5.com:8000/live/RX493lI023OO/mn0OlIDDC487/129048.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/236447
+#EXTINF:-1 group-title="Home-PlayTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png",MX | Canal de Las Estrellas -1
+http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/415380
+#EXTINF:-1 group-title="Home-PlayTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png",MX | Canal de Las Estrellas -2
+http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/415381
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://tv.nousiptv.com:8080/washington/larrude/1124600
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
