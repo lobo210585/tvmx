@@ -144,9 +144,9 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunkli
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://200.60.124.19:29000/play/a02c/index.m3u8
+http://playtv44.com:8080/dbaez458/123123/15585
 #EXTINF:-1,MX: MEX: NICK JUNIOR VIP SD
-http://fastream.xyz:8080/963316995tv/h82ngdc/393
+http://tv.nousiptv.com:8080/washington/larrude/4194
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -157,28 +157,24 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe
 http://38.252.158.1:8000/play/a02z
 
 #EXTINF:-1,MX: MEX: DISNEY CHANNEL VIP SD
-http://200.60.124.19:29000/play/a010/index.m3u8
+http://38.252.158.1:8000/play/a00y
 #EXTINF:-1,MX: MEX: DISNEY JUNIOR VIP SD
-http://fastream.xyz:8080/963316995tv/h82ngdc/24812
+http://181.78.8.90:16123/play/ch05
 #EXTINF:-1 type="stream" channelId="41" group="unsorted", NICK
-http://saypopular.com:25461/datdude25/datdude2525/52811
+http://38.7.101.90:8000/play/a04y/index.m3u8
 #EXTINF:-1 type="stream" channelId="1305" group="unsorted", CARTOONITO
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/22294.m3u8
+http://tv.nousiptv.com:8080/washington/larrude/1155854
 #EXTINF:-1,MX: MEX: TOONCAST VIP SD
 http://tv.nousiptv.com:8080/washington/larrude/1155861
 #EXTINF:-1 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22309
+http://38.7.101.90:8000/play/a089/index.m3u8
 #EXTINF:-1 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/54404
+http://38.7.101.90:8000/play/a05c/index.m3u8
 #EXTINF:-1 type="stream" channelId="473" group="unsorted", BABY TV
 http://tv.nousiptv.com:8080/washington/larrude/1156043
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dios Tv
-https://stream.oursnetworktv.com/latin/dD10sT3V3/chunklist_w316289126.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dios Tv Kids
-https://stream.oursnetworktv.com/latin/dD10sT3V3K1dS/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Aliento vision
@@ -196,58 +192,55 @@ http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/1263
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY MOVIES
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/469055
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",STUDIO UNIVERSAL
-http://fastream.xyz:8080/963316995tv/h82ngdc/219
+http://38.7.101.90:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E !E" tvg-logo="" group-title="PREMIUM LATINO  HD",A&E !E
 http://38.7.101.90:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",AXN FHD
-http://170.82.37.21:8000/play/a001/index.m3u8
+http://38.7.101.90:8000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="PREMIUM LATINO  HD",AMC HD
-http://170.82.37.21:8000/play/a01m/index.m3u8
+http://38.7.101.90:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Cinecanal HD
 http://38.252.158.1:8000/play/a00j
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="PREMIUM LATINO  HD",CINEMAX
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Comedy Central FHD
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/6742.m3u8
+http://38.7.101.90:8000/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN +" tvg-logo="" group-title="PREMIUM LATINO  HD",GOLDEN +
-http://138.186.20.13:23200/play/a0bf
+http://playtv44.com:8080/dbaez458/123123/315893
 #EXTINF:-1 tvg-id="" tvg-name="Golden Edge FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Edge FHD
 http://38.252.158.1:8000/play/a01e
 #EXTINF:-1 tvg-id="" tvg-name="Golden FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden FHD
 http://38.7.101.90:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden plus FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden plus FHD
-http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315199.m3u8
+http://tv.nousiptv.com:8080/washington/larrude/1148196
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Premier HD
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/469057
-#EXTINF:-1 group-title="Servidor SoccerPlus" tvg-logo="http://iptbest.xyz/logo/HBO2.png",HBO 2
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/22207.m3u8
-#EXTINF:-1 group-title="Servidor SoccerPlus" tvg-logo="http://iptbest.xyz/logo/HBO-Family.png",HBO FAMILY
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/22208.m3u8
-#EXTINF:-1 group-title="Servidor SoccerPlus" tvg-logo="http://iptbest.xyz/logo/HBO-Plus.png",HBO PLUS
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/22209.m3u8
-#EXTINF:-1 group-title="Servidor SoccerPlus" tvg-logo="http://iptbest.xyz/logo/HBO-Signature.png",HBO SIGNATURE
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/22210.m3u8
-#EXTINF:-1 group-title="Servidor SoccerPlus" tvg-logo="http://iptbest.xyz/logo/HBO-Pop.png",HBO POP HD
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/54581.m3u8
-#EXTINF:-1 group-title="Servidor SoccerPlus" tvg-logo="http://iptbest.xyz/logo/HBO-Mundi.png",HBO MUNDI HD
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/55753.m3u8
-#EXTINF:-1 group-title="Servidor Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1200px-HBO_Latino_Logo.svg.png",HBO
-http://saypopular.com:25461/datdude25/datdude2525/52791
+
+#EXTINF:-1 group-title="38.7",HBO 2 HD
+http://38.7.101.90:8000/play/a092/index.m3u8
+#EXTINF:-1 group-title="38.7",HBO Family HD
+http://38.7.101.90:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="38.7",HBO HD
+http://38.7.101.90:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="38.7",HBO POP HD
+http://38.7.101.90:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="38.7",HBO XTREME HD
+http://38.7.101.90:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",UNIVERSAL
-http://fastream.xyz:8080/963316995tv/h82ngdc/234
+http://38.7.101.90:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Paramount Channel FHD
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/312819
+http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/54277
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="PREMIUM LATINO  HD",Space
-http://138.186.20.13:23200/play/a04o
+http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/1282
 #EXTINF:-1 tvg-id="" tvg-name="SyFy HD." tvg-logo="" group-title="PREMIUM LATINO  HD",SyFy HD.
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/92168.m3u8
+http://tv.nousiptv.com:8080/washington/larrude/4049
 #EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT FHD
-http://181.78.8.90:16123/play/a08i
+http://tv.nousiptv.com:8080/washington/larrude/4103
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT Series FHD
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/9560
 #EXTINF:-1 tvg-id="" tvg-name="Warner channel" tvg-logo="" group-title="PREMIUM LATINO  HD",Warner channel
-http://fastream.xyz:8080/963316995tv/h82ngdc/238
+http://tv.nousiptv.com:8080/washington/larrude/1155808http://fastream.xyz:8080/963316995tv/h82ngdc/238
 
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Lifetime HD
 http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315211.m3u8
