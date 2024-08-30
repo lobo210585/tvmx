@@ -86,15 +86,11 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="→ 24/7 II ←",24H | Cantinflas
 http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/62361
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://saypopular.com:25461/datdude25/datdude2525/52743
+http://tv.nousiptv.com:8080/washington/larrude/1155786
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://tv.nousiptv.com:8080/washington/larrude/1155788
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63736
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", N +
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_3.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", N+ Noticias
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_2.m3u8
 #EXTINF:-1 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 type="stream" channelId="2690" group="unsorted", ADN 40 HD
@@ -102,7 +98,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 type="stream" channelId="2883" group="unsorted", CNN
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63073
 #EXTINF:-1 type="stream" channelId="266" group="unsorted", Capital 21
-https://video.cdmx.gob.mx/redes/stream.m3u8
+https://video.cdmx.gob.mx/maratonncdmx/stream.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 Puebla
@@ -110,19 +106,19 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", AZ CLIC
-http://fastream.xyz:8080/963316995tv/h82ngdc/24891
+http://45.228.234.167:8000/play/a01e/index.m3u8
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", tastemadees
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="238" group="unsorted", AZ CORAZON
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22466
 #EXTINF:-1 type="stream" channelId="228" group="unsorted", AZ MUNDO
-http://138.186.20.13:23200/play/a0e0
+http://tv.nousiptv.com:8080/washington/larrude/4055
 #EXTINF:-1 type="stream" channelId="3727" group="unsorted", AZ CINEMA
-http://tv.soccerplus.link:8000/live/Sebastianqsf/HOryl6u3ty/22461.m3u8
+http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/9492
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal 21 chignahuapan
-https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
+https://stream.oursnetworktv.com/latin/pueblamx/chunklist_w1268814102_vo.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Zacatalan
-https://stream.oursnetworktv.com/latin/canal21001/chunklist_w579659567.m3u8
+https://stream.oursnetworktv.com/latin/canal21001/chunklist_w813470556_vo.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719615690/ei/aux-Zta9B-rCybgPtN3BiAM/ip/2806%3A105e%3A15%3A1dbb%3A6dde%3A44b5%3A2306%3A85/id/UNdtkc7w80A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-NEnHmEzu-NKG4qjkBvsI_odHffCqsTpzDttCNxfZoe1av0XmBUt4neE52HUmhOQOA03YX5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgON_U3vQ6DI0EI9rff4Ck-2v9TnjnRV_XvlhQgZirVsICIGvIHlS2sKY3tGBrfTbd440hiTtLFCHUxEKnnbDkBHQl/file/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
