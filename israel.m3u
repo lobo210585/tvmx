@@ -28,7 +28,7 @@ https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/ind
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/20af7d3/2147483647/strip/true/crop/616x174+0+0/resize/329x93!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F03%2Fcb%2F01a850a04562a0d216857ec2a80d%2Foooo.png", LA ACADEMIA 24/7
 https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
-http://magmas5.com:8000/live/RX493lI023OO/mn0OlIDDC487/129048.m3u8
+http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/70905
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/236447
 #EXTINF:-1 group-title="Home-PlayTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png",MX | Canal de Las Estrellas -1
@@ -40,15 +40,17 @@ http://tv.nousiptv.com:8080/washington/larrude/1124600
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:-1 type="stream" channelId="328" group="unsorted", Foro Tv
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/241994
+http://tv.nousiptv.com:8080/washington/larrude/1155870
 #EXTINF:-1 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://tv.nousiptv.com:8080/washington/larrude/1155866
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 type="stream" channelId="255" group="unsorted", Deportes 
-https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
+#EXTINF:-1 group-title="Servidor Nousiptv",MX - ONCE TV NIÑOS Y NIÑAS
+http://tv.nousiptv.com:8080/washington/larrude/47697
+#EXTINF:-1 type="stream", Deportes 
+http://38.252.158.1:8000/play/a02x
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/accio_un.png", Free accion
@@ -66,19 +68,19 @@ https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/saber_mas.png", FreeTV Saber Más
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebb05a13d96da5b91455912847e59f43c8814aa6d2d209985ed727f91498c6f6828513d7809b43936ee3301a162172899078e1aa37d78ac01d53f6643b790e47efb592fd574ee02d270dc1d1e5e50b9574cf8d36cf6439af72fb25e560d01ac063a6e55deea4a8e04e402dd6a7310077faa8caedfa3120f362f2a69b9f193cc8f5457d439e69da727b6d95ff9840879013cfe372d2b63b4a39c29243cecfb1d998daea4b983684d2e6944f2e240902108358b68c23d826d022fda46220585e0aac8a45fb95cd51226770939252a65371c7d39f97cf1d61852f0c4dff2edf490069d822227fea20b69e397a80250f966f459136348451b2ad3fcab7c9ec103ab6c7b524950bbe8c24fcac7ac3013d5d11fdf33c4f7a427cddeb14655a1fe557e1d6fed72d4a6a85f6c9ed8e543d092b12207ae196c8629289c9271c1ac44066647150318401d35de95a016a40c81ac0e2086495392338e8a33358281afcbcb28e8a98c548ac72c3daee383b757f71b836311034afdce358f92b057d454d92006056be02483080ffa1f698826bdc9165b90a8b7509b498e8d29a33090127a3d20efa5bfa9a1eb6e9b236aec1ac628801a1c17b7db0dfce78f0ada0ca4a1d99a9566316ff058273125fad23c12789dc73d1be52095e4f28e30139358d3c91f6bebd4cb225a94e0f79e532dcf686e7853106b7c3035b61780a204483a9505898a395678e41ce461f461795ca58ac505d303e08f387185785e7483f9521675a68c1a18480c51919c662f53a9c2e53e61f3a27efc837fd90f2ddcec73e044e89edeb7bb2afded59796d2702a422c118bd1535040dd24db8513aef84e2ba1dadda59245bf41cf19f7c4ba27ef39e0ecb90da59fd4bed87f05515752b390a5ac5a8bf25a0beb3be84c2b198e83aba136ac94ef510a9f378ab20e60aa31694e89faab76af058ca6687aa9d7131abf1215ceeff82a19b25484282072fcc8c1237bf8ca0197428c86b56868891b15f0484e6bce2dad9fde890e7d6681d4372c47c357ed5dabce735a8a8f7a3a13ae/17/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/video/thumbnails/square/itv-deportes_500x500.jpg", ITV Deportes
-https://stream.ads.ottera.tv/cl/240721cqe9scv5jp5t8ia862bg/1280x720_4214276_1_f.m3u8?i=475_7397
+http://38.252.158.1:8000/play/a02x
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/vive_kanal_d_drama_2023-whitebg.png", Vive Kanal D Drama
 https://amg01602-themahqfrance-vivekanalddrama-freetv-hd8p0.amagi.tv/playlist/amg01602-themahqfrance-vivekanalddrama-freetv/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe20f44db68a4b94f55912847e49f43c8814aa6d1d75d9d5ed727f941c89ba68b8615d48f9b7b9369e3301a16236d89bf7b86c759badfe81f53e872274b505aeaba9eee5b2f87530d7aeaface8b53a55ea4ee24857379bf099c3dc65aca3aa958a2e519a4afeb8f17443bf790583221f9b0f1ddf96764bc64f8a4bc8f7026f79c737943da23dc2c3f4af397aa44deb77ffca330baa47b142ec1925ce9fbd8e7be89a364c667a0aef59c2e0c49660a10832fd7f01eeb2cd1db65cd062d5d5e04b4da66c194d05b23380cecee5fd00055bae49b91d00a2ec9650928990ab64d0c7ac93f6d72e421fd9e2e6d842750fd5f51fa5c26ce43eca813fba6d6e07453dfb8e150fa6adb8350879c73a8692f1703a3e2134c51436fd5d1731f3c0b832f9adbdef5671a5aa3b8dae9d71d3e153c12461ac5e1e87dd48ac53f1415c4407c101e79169217986ad01059015caa74b2fc530cef682029f5e92a4e657c84c1a78084cfb822df1b82f6d3171dd23809cc5bfab5fdb2ccef74c57a2d537f45890c6b31c56d386ccbe5046104e214a3b26bb82c6a5442c8f505480a530912624d35deb62c88a708b59ac45fc5e18a1d07f65408c2a7ffa2bf44d1c9fba0670694ab5b1e68ddb44da0277e90478479c1ba22a9ef623dcde33c1ce2f714fcd183fd60ff8bd05f8c42066ce37bbad3ceb6ce6f55e8ae693a27106fda1e38790103a2d3d9680134b9f277a615d1e25bad4d43207f69eac2510ec8b82c5cab3c7036f1fb8b93fb9e4a50eb7ee479cc5706a47c043aae996bbdcde1a5bacf447c34f49ae70cb7a883848cf1cf2575042570b8c94d5a7add69a1de51affd532ca1d9cbd6db689667eb7aeed7e160b76ad2bed664999993faf460041e0b078ea6d9ce548aec4415c138b12b0a17938de8f11f8bf9b41577e758a0c84759a7307a52deb8b963ec2eabed2d25f78d0a088c272aa0009eb5c05af0c1847944e616979c2b6812a88f2e8a323d/193/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc8d643f6-3c26-456a-89ef-8821f7a0c02a%2FORO_Tv_1920X1080_JPG_RDX_1_.jpg", ORO TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa/variant.m3u8?url=e97abca80a51d83589c594e87207a328-c53791e8be953ffba57159464da7371780b7f17ec63594fa96fc227365074ac22df9c2307a0b9e8294b1bcc0170931550d668765e5f865dfd745e77834e500591ff1510b371b993ba8b9da025db31c518ff83be26606fe71057dbf85a8cbe318b6dfa5faf5912eb474dc8515e84f31f46391c89eb53cccc0d6bd191a0b41f9ca1730b4ba444faf391886ca63deab825fc3d183c26186ce9d0e26c0e8f680419bc10cd5e4db0248684f5ef3b94e584202101c62b373905e2c293a5579412fd364267156fbaca4be42b7e3defdd9620bac&x-plex-token=W8gGWyVyGSYRypNEXxGD&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1721541654
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", NU9VE
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/67449
+#EXTINF:-1 group-title="Servidor Varios",Once México (1080p)
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/312776
+http://38.252.158.1:8000/play/a010
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="→ 24/7 II ←",24H | Cantinflas
