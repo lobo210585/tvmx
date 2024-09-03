@@ -30,11 +30,7 @@ https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/70905
 #EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/236447
-#EXTINF:-1 group-title="Home-PlayTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png",MX | Canal de Las Estrellas -1
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/415380
-#EXTINF:-1 group-title="Home-PlayTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png",MX | Canal de Las Estrellas -2
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/415381
+http://200.60.124.19:29000/play/a01d/index.m3u8
 #EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://tv.nousiptv.com:8080/washington/larrude/1124600
 #EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
@@ -144,9 +140,9 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunkli
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://playtv44.com:8080/dbaez458/123123/15585
+http://200.60.124.19:29000/play/a02c/index.m3u8
 #EXTINF:-1,MX: MEX: NICK JUNIOR VIP SD
-http://tv.nousiptv.com:8080/washington/larrude/4194
+http://191.97.6.30:8000/play/a09e/index.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
