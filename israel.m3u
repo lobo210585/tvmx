@@ -290,38 +290,32 @@ http://flive.ktv.com.mx:2095/live/540css12yy/bBmj6Z3rqB/315242.m3u8
 
 
 
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 1 (México)
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2 (México)
-http://tilinki.com:25461/caqo5939/2g7xS/24
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (México)
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN SPORT 1 (México)
-https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN SPORT 2 (México)
-http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069852
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN SPORT 3 (México)
-http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069859
-#EXTINF:-1 group-title="Bics DEPORTES", espn 4 (México)
-http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
-#EXTINF:-1 group-title="Bics DEPORTES",TVC DEPORTES
-http://budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159097
-#EXTINF:-1 group-title="Bics DEPORTES", fox sport premiun (mexico)
-http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
-#EXTINF:-1 group-title="Bics DEPORTES", TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TUDN usa
-http://tvmate.icu:8080/Alan/Alan1234/82241
- #EXTINF:-1 group-title="Bics DEPORTES", sky sport (México)
-https://dashtvcloud.online:8443/josealbrook/panama121/144286
-#EXTINF:-1 group-title="Bics DEPORTES", azteca deportes (México)
-http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/180062
-#EXTINF:-1 group-title="Bics DEPORTES", deportes ufc (México)
-http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
-#EXTINF:-1 group-title="Bics DEPORTES", deportes itv (México)
-https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", futbol network tv (México)
-https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
+#EXTINF:-1 group-title="38.7",ESPN 2 HD
+http://38.7.101.90:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN 3 HD
+http://38.7.101.90:8000/play/a09u/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN 4 HD
+http://38.7.101.90:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN 4 HD
+http://38.7.101.90:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN 5HD
+http://38.7.101.90:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN 6HD
+http://38.7.101.90:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN 7HD
+http://38.7.101.90:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN HD
+http://38.7.101.90:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN HD
+http://38.7.101.90:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN HD
+http://38.7.101.90:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="38.7",ESPN Premium HD
+http://38.7.101.90:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="191",Fox Sports 2
+http://191.97.6.30:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="191",Fox Sports 3
+http://191.97.6.30:8000/play/a07x/index.m3u8
 
 
 
@@ -534,14 +528,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Videos Chistosos
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750", La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="3765" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="1963" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="1954" group="ViX" logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920", Las Estrellas
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920", Las Estrellas Latam
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
