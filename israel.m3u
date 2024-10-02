@@ -21,12 +21,7 @@ https://s39.1ll.lat/0:/p/tornados_espanol_2024.mp4
 http://notabasica.com/612132/The.Super.Mario.Bros.Movie.2023.lati.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_696208-MLM75727749784_042024-O.webp", Garfield Fuera de Casa | REGIOFLIX
 http://notabasica.com/612132/Garfield.Fuera.de.Casa.2024.720p-Dual-Lat%20%281%29.mp4
-#EXTINF:-1 group-title="Servidor Varios",Canal del Congreso 45.3 (1080p) [No 24/7]
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Servidor Varios",Canal del Congreso 45.1 (480p) [No 24/7]
-https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Servidor Varios",Canal del Congreso 45.2 (480p) [No 24/7]
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO 
@@ -44,7 +39,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 #EXTINF:-1 type="stream" channelId="328" group="unsorted", Foro Tv
 http://tv.nousiptv.com:8080/washington/larrude/1155870
 #EXTINF:-1 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://tv.nousiptv.com:8080/washington/larrude/1155866
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/303782
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
