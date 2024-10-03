@@ -45,7 +45,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Servidor Nousiptv",MX - ONCE TV NIÑOS Y NIÑAS
-http://tv.nousiptv.com:8080/washington/larrude/47697
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?=-1
 #EXTINF:-1 type="stream", Deportes 
 http://38.252.158.1:8000/play/a02x
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
