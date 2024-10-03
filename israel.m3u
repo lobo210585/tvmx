@@ -77,13 +77,13 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://38.252.158.1:8000/play/a010
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="→ 24/7 II ←",24H | Cantinflas
-http://aztkplay.pro:8080/EstefUser/ACnEdsbDfk/222938
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/62361
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://190.60.40.37:12500/play/a01l/index.m3u8
+http://tv.nousiptv.com:8080/washington/larrude/1155786
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://tv.nousiptv.com:8080/washington/larrude/1155788
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
@@ -95,7 +95,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 type="stream" channelId="2883" group="unsorted", CNN
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63073
 #EXTINF:-1 type="stream" channelId="266" group="unsorted", Capital 21
-https://video.cdmx.gob.mx/maratonncdmx/stream.m3u8
+https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 6 Puebla
@@ -103,13 +103,13 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", AZ CLIC
-http://45.228.234.167:8000/play/a01e/index.m3u8
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 type="stream" channelId="243" group="unsorted", tastemadees
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="238" group="unsorted", AZ CORAZON
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22466
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 type="stream" channelId="228" group="unsorted", AZ MUNDO
-http://tv.nousiptv.com:8080/washington/larrude/4055
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 type="stream" channelId="3727" group="unsorted", AZ CINEMA
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/9492
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal 21 chignahuapan
@@ -117,7 +117,7 @@ https://stream.oursnetworktv.com/latin/pueblamx/chunklist_w1268814102_vo.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Zacatalan
 https://stream.oursnetworktv.com/latin/canal21001/chunklist_w813470556_vo.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719615690/ei/aux-Zta9B-rCybgPtN3BiAM/ip/2806%3A105e%3A15%3A1dbb%3A6dde%3A44b5%3A2306%3A85/id/UNdtkc7w80A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-NEnHmEzu-NKG4qjkBvsI_odHffCqsTpzDttCNxfZoe1av0XmBUt4neE52HUmhOQOA03YX5/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgON_U3vQ6DI0EI9rff4Ck-2v9TnjnRV_XvlhQgZirVsICIGvIHlS2sKY3tGBrfTbd440hiTtLFCHUxEKnnbDkBHQl/file/index.m3u8
+https://ythls-v3.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1", Canal 13 Puebla
@@ -141,9 +141,9 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunkli
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://200.60.124.19:29000/play/a02c/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278545.m3u8?=-1
 #EXTINF:-1,MX: MEX: NICK JUNIOR VIP SD
-http://191.97.6.30:8000/play/a09e/index.m3u8
+http://181.204.79.182:8202/play/a02c
 
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -160,9 +160,9 @@ http://181.78.8.90:16123/play/ch05
 #EXTINF:-1 type="stream" channelId="41" group="unsorted", NICK
 http://38.7.101.90:8000/play/a04y/index.m3u8
 #EXTINF:-1 type="stream" channelId="1305" group="unsorted", CARTOONITO
-http://tv.nousiptv.com:8080/washington/larrude/1155854
+http://45.176.193.222:2405/play/a06p
 #EXTINF:-1,MX: MEX: TOONCAST VIP SD
-http://tv.nousiptv.com:8080/washington/larrude/1155861
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278552.m3u8?=-1
 #EXTINF:-1 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
 http://38.7.101.90:8000/play/a089/index.m3u8
 #EXTINF:-1 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
@@ -187,7 +187,7 @@ https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/1263
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY MOVIES
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/469055
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",STUDIO UNIVERSAL
 http://38.7.101.90:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E !E" tvg-logo="" group-title="PREMIUM LATINO  HD",A&E !E
@@ -199,19 +199,19 @@ http://38.7.101.90:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Cinecanal HD
 http://38.252.158.1:8000/play/a00j
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="PREMIUM LATINO  HD",CINEMAX
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/8
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Comedy Central FHD
 http://38.7.101.90:8000/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN +" tvg-logo="" group-title="PREMIUM LATINO  HD",GOLDEN +
-http://playtv44.com:8080/dbaez458/123123/315893
+http://181.78.21.46:8000/play/a01h
 #EXTINF:-1 tvg-id="" tvg-name="Golden Edge FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Edge FHD
 http://38.252.158.1:8000/play/a01e
 #EXTINF:-1 tvg-id="" tvg-name="Golden FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden FHD
-http://38.7.101.90:8000/play/a032/index.m3u8
+http://190.60.40.37:12500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden plus FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden plus FHD
 http://tv.nousiptv.com:8080/washington/larrude/1148196
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Premier HD
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/469057
+http://168.181.122.234:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 group-title="38.7",HBO 2 HD
 http://38.7.101.90:8000/play/a092/index.m3u8
@@ -225,15 +225,15 @@ http://38.7.101.90:8000/play/a04t/index.m3u8
 http://38.7.101.90:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",UNIVERSAL
-http://38.7.101.90:8000/play/a02q/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278518.m3u8?=-1
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Paramount Channel FHD
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/54277
+http://38.180.133.31:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="PREMIUM LATINO  HD",Space
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/1282
+http://38.41.8.1:8000/play/a00a
 #EXTINF:-1 tvg-id="" tvg-name="SyFy HD." tvg-logo="" group-title="PREMIUM LATINO  HD",SyFy HD.
-http://tv.nousiptv.com:8080/washington/larrude/4049
+http://181.205.130.194:4000/play/a06v
 #EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT FHD
-http://tv.nousiptv.com:8080/washington/larrude/4103
+http://192.141.99.3:8000/play/a05p
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT Series FHD
 http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/9560
 #EXTINF:-1 tvg-id="" tvg-name="Warner channel" tvg-logo="" group-title="PREMIUM LATINO  HD",Warner channel
