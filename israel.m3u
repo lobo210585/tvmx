@@ -272,34 +272,39 @@ http://181.205.130.194:4000/play/a08s
 
 
 
+#EXTINF:0, MX: FOX SPORTS ESPAÑOL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:0, MX: FOX SPORTS 1
+https://sdmx.vip:443/belpley/sYqKZQrTZa/155648
+#EXTINF:0, MX: FOX SPORTS 2
+https://sdmx.vip:443/belpley/sYqKZQrTZa/10952
+#EXTINF:0, MX: FOX SPORTS 3
+https://sdmx.vip:443/belpley/sYqKZQrTZa/10951
+#EXTINF:0, MX: FOX SPORTS PREMIUM
+https://sdmx.vip:443/belpley/sYqKZQrTZa/10915
+#EXTINF:0, MX: FOX SPORTS PREMIUM
+https://sdmx.vip:443/belpley/sYqKZQrTZa/2106730
 
 
-#EXTINF:-1 group-title="38.7",ESPN 2 HD
-http://38.7.101.90:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN 3 HD
-http://38.7.101.90:8000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN 4 HD
-http://38.7.101.90:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN 4 HD
-http://38.7.101.90:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN 5HD
-http://38.7.101.90:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN 6HD
-http://38.7.101.90:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN 7HD
-http://38.7.101.90:8000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN HD
-http://38.7.101.90:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN HD
-http://38.7.101.90:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN HD
-http://38.7.101.90:8000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="38.7",ESPN Premium HD
-http://38.7.101.90:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="191",Fox Sports 2
-http://191.97.6.30:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="191",Fox Sports 3
-http://191.97.6.30:8000/play/a07x/index.m3u8
+#EXTINF:0, ESPN 1 MX 
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5779
+#EXTINF:0, ESPN 2 MX 
+http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
+#EXTINF:0, ESPN 3 MX 
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3032
+#EXTINF:0, Claro Sports
+http://192.141.99.3:8000/play/a02a
+#EXTINF:0, ESPN 4
+http://181.205.130.194:4000/play/a085
+#EXTINF:0, ESPN
+http://181.205.130.194:4000/play/a08n
+#EXTINF:0, ESPN Premium
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/84964
+#EXTINF:0, ESPN 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147019
+#EXTINF:0, ESPN 3
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147020
+
 
 
 
