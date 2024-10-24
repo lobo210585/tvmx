@@ -1,27 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e4acfe046d5ddee75d55b6c5a77c6d3e4ef3b3c37b1946faa354a1697faba3f2.jpg", Sonic 2 La Película
-https://s00.1ll.lat/0:/p/sonic_2_la_pelicula_espanol_2022.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://radio.uchile.cl/wp-content/uploads/2024/06/Intensamente-2-1.png", IntensaMente 2
-https://s30.1ll.lat/0:/p/intensamente_2_espanol_2024.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://ganovideo.com/ganoapp/2021/08/2Y5OZsWBksmEl2Dggfx46DfRkFO-185x278.jpg", PAW Patrol: La pelicula
-https://s00.1ll.lat/0:/p/paw_patrol_la_pelicula_espanol_2021.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://ganovideo.com/ganoapp/2022/08/l3rIbP71sR7hKtz77E6x7mdz6vG-185x278.jpg", La cuadrilla cat. Un evento exclusivo de paw patrol
-https://s00.1ll.lat/0:/p/la_cuadrilla_cat_un_evento_exclusivo_de_paw_patrol_espanol_2022.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://ganovideo.com/ganoapp/2023/11/uwkqb5ZiS7jhQH5gwtkiTdd54w6-185x278.jpg", PAW Patrol: La súper película
-https://s17.1ll.lat/0:/p/paw_patrol_la_super_pelicula_espanol_2023.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://ganovideo.com/ganoapp/2022/08/dXL2iC7WXUqzRQmDJ3NfzQUisni-185x278.jpg", DC Liga De Supermascotas
-https://s00.1ll.lat/0:/p/dc_liga_de_supermascotas_espanol_2022.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://ganovideo.com/ganoapp/2024/06/5jI2vEHJReAx8iFDmhC2O3yW37w-185x278.jpg",  Bad Boys: Hasta la muerte
-https://s38.1ll.lat/0:/p/bad_boys_hasta_la_muerte_espanol_2024.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://ganovideo.com/ganoapp/2024/08/wTpzSDfbUuHPEgqgt5vwVtPHhrb-185x278.jpg",  Mi villano favorito 4 2024
-https://s39.1ll.lat/0:/p/mi_villano_favorito_4_espanol_2024.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://ganovideo.com/ganoapp/2024/08/50xgtaDR0xJkLSVghdTGUeMoPHP-185x278.jpg", TORNADO
-https://s39.1ll.lat/0:/p/tornados_espanol_2024.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/91zqGNzwk5L._AC_SL1500_.jpg", Super Mario Bros La Pelicula | REGIOFLIX
-http://notabasica.com/612132/The.Super.Mario.Bros.Movie.2023.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_696208-MLM75727749784_042024-O.webp", Garfield Fuera de Casa | REGIOFLIX
-http://notabasica.com/612132/Garfield.Fuera.de.Casa.2024.720p-Dual-Lat%20%281%29.mp4
-
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO 
