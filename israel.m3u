@@ -40,7 +40,29 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="→ 24/7 II ←",24H | Cantinflas
-http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/62361
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525832
+#EXTINF:-1 ,24/7 Cantinflas*
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525936
+#EXTINF:-1 ,24/7 Chespirito
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525942
+#EXTINF:-1 ,24/7 Chespirito 2
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525873
+#EXTINF:-1 ,24/7 El Chapulín Colorado animado
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/221332
+#EXTINF:-1 ,24/7 El chavo - 2 temp
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525864
+#EXTINF:-1 ,24/7 El Chavo del 8
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525939
+#EXTINF:-1 ,24/7 Los Picapiedras
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/529198
+#EXTINF:-1 ,24/7 LOS SIMPSON
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/1440
+#EXTINF:-1 ,24/7 Los Simpsons
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525916
+#EXTINF:-1 ,24/7 Los supersónicos
+http://tvgusplay.info:8080/RerNXybL9yhD/hwsX52WtTjES/221337
+#EXTINF:-1 ,24/7 Mazinger Z
+http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525880
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
 http://tv.nousiptv.com:8080/washington/larrude/1155786
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
