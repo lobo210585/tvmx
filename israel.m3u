@@ -214,7 +214,7 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 #EXTINF:-1 tvg-id="" tvg-name="Hisotory 2 HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Hisotory 2 HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Channel FHD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",NatGeo Channel FHD
-http://192.141.99.3:8000/play/a05i
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=63&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Natgeo HD
 http://181.205.130.194:4000/play/a08s
 
