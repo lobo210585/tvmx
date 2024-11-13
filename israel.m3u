@@ -68,11 +68,7 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 type="stream" channelId="228" group="unsorted", AZ MUNDO
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 type="stream" channelId="3727" group="unsorted", AZ CINEMA
-http://home-playtv.com:8080/DalePlay/fFUsxN5yGSXK/9492
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal 21 chignahuapan
-https://stream.oursnetworktv.com/latin/pueblamx/chunklist_w1268814102_vo.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Zacatalan
-https://stream.oursnetworktv.com/latin/canal21001/chunklist_w813470556_vo.m3u8
+https://azt-cin.otteravision.com/azt/cin/cin_720.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls-v3.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
@@ -95,10 +91,9 @@ https://5d0d1d7a6be9e.streamlock.net/setzacatlan/radio/playlist.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 
 
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", PLANETATV KIDS
-https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278545.m3u8?=-1
+http://181.78.107.162:49000/play/a0fz/index.m3u8
 #EXTINF:-1,MX: MEX: NICK JUNIOR VIP SD
 http://181.204.79.182:8202/play/a02c
 
@@ -111,21 +106,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe
 http://38.252.158.1:8000/play/a02z
 
 #EXTINF:-1,MX: MEX: DISNEY CHANNEL VIP SD
-http://38.252.158.1:8000/play/a00y
+http://181.78.107.162:49000/play/a0i8/index.m3u8
 #EXTINF:-1,MX: MEX: DISNEY JUNIOR VIP SD
-http://181.78.8.90:16123/play/ch05
+http://181.78.107.162:49000/play/a0g1/index.m3u8
 #EXTINF:-1 type="stream" channelId="41" group="unsorted", NICK
 http://38.7.101.90:8000/play/a04y/index.m3u8
 #EXTINF:-1 type="stream" channelId="1305" group="unsorted", CARTOONITO
 http://45.176.193.222:2405/play/a06p
 #EXTINF:-1,MX: MEX: TOONCAST VIP SD
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278552.m3u8?=-1
+http://181.78.107.162:49000/play/a03k/index.m3u8
 #EXTINF:-1 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
 http://38.7.101.90:8000/play/a089/index.m3u8
 #EXTINF:-1 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
 http://38.7.101.90:8000/play/a05c/index.m3u8
-#EXTINF:-1 type="stream" channelId="473" group="unsorted", BABY TV
-http://tv.nousiptv.com:8080/washington/larrude/1156043
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -142,9 +135,9 @@ https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/1263
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=16&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY MOVIES
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+http://181.78.107.162:49000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",STUDIO UNIVERSAL
 http://38.7.101.90:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E !E" tvg-logo="" group-title="PREMIUM LATINO  HD",A&E !E
@@ -154,19 +147,17 @@ http://38.7.101.90:8000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="PREMIUM LATINO  HD",AMC HD
 http://38.7.101.90:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Cinecanal HD
-http://38.252.158.1:8000/play/a00j
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=73&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="PREMIUM LATINO  HD",CINEMAX
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Comedy Central FHD
 http://38.7.101.90:8000/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN +" tvg-logo="" group-title="PREMIUM LATINO  HD",GOLDEN +
-http://181.78.21.46:8000/play/a01h
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=75&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Edge FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Edge FHD
-http://38.252.158.1:8000/play/a01e
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=84&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden FHD
-http://190.60.40.37:12500/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden plus FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden plus FHD
-http://tv.nousiptv.com:8080/washington/larrude/1148196
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1624&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Premier HD
 http://168.181.122.234:8000/play/a01t/index.m3u8
 
@@ -182,24 +173,24 @@ http://38.7.101.90:8000/play/a04t/index.m3u8
 http://38.7.101.90:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",UNIVERSAL
-http://xcm.budtv-ultra.com:25461/live/budtvline/8Y3ymUpJESps/278518.m3u8?=-1
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=118&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Paramount Channel FHD
 http://38.180.133.31:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="PREMIUM LATINO  HD",Space
-http://38.41.8.1:8000/play/a00a
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=79&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SyFy HD." tvg-logo="" group-title="PREMIUM LATINO  HD",SyFy HD.
 http://181.205.130.194:4000/play/a06v
 #EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT FHD
-http://192.141.99.3:8000/play/a05p
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=74&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT Series FHD
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285147
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=33&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner channel" tvg-logo="" group-title="PREMIUM LATINO  HD",Warner channel
-http://45.160.74.253:9000/play/a04s/index.m3u8
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=17&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Lifetime HD
 http://181.205.130.194:4000/play/a06u
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Animal Planet HD
-http://192.141.99.3:8000/play/a05m
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=61&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Channel HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Familia
@@ -219,7 +210,7 @@ http://190.14.249.39:8000/play/a01o
 #EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",HGTV HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
 #EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",History Channel HD
-http://181.204.79.182:8202/play/a00c
+http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=57&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hisotory 2 HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Hisotory 2 HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Channel FHD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",NatGeo Channel FHD
