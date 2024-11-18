@@ -56,8 +56,8 @@ http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525939
 http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/529198
 
 
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula FHD LAM
-http://tv.nousiptv.com:8080/washington/larrude/1155786
+#EXTINF:0,DEPELICULAS
+http://190.121.42.18:8000/play/a016
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://streamsy.online:2999/happy2024/newyear/1699
 #EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
