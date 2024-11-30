@@ -1,498 +1,469 @@
 #EXTM3U
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", robot-salvaje-2
-https://cdnst68.tokyvideo.com/videos/605/605387/mp4/0687fb0834ebb8cb80720256500d55e3707a47c2c7df7e0f3fbf8cea35d28e1a.mp4?secure=L3B84xmA6QzDJUdvPYWqvg%3D%3D%2C1732245122
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO 
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO
 https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/index.m3u8
-#EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
+#EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 type="stream" channelId="1954" group="unsorted", Las Estrellas
+#EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://saypopular.com:25461/datdude25/datdude2525/52735
-#EXTINF:-1 type="stream" channelId="3127" group="unsorted", IMAGEN TV
+#EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1695
-#EXTINF:-1 type="stream" channelId="265" group="unsorted", Mvs TV
+#EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
-#EXTINF:-1 type="stream" channelId="328" group="unsorted", Foro Tv
+#EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-#EXTINF:-1 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
+#EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://amepz.xyz:2052/ronaldxyz/gz4G4Vssw8PC/63407
-#EXTINF:-1 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
+#EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 type="stream" channelId="255" group="unsorted", Azteca 7
+#EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Servidor Nousiptv",MX - ONCE TV NIÑOS Y NIÑAS
+#EXTINF:0 type="stream" channelId="-1" group="Servidor Nousiptv", MX - ONCE TV NIÑOS Y NIÑAS
 http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:-1 type="stream", Deportes 
+#EXTINF:0 type="stream" channelId="-1", Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
+#EXTINF:0 type="stream" channelId="-1" logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", NU9VE
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
 http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1yIqWGvhOL6CuNGNZHOG96D/.m3u8&type=stream.m3u8
-#EXTINF:-1 group-title="Servidor Varios",Once México (1080p)
+#EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", ONCE
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", canal 22
+#EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:-1 type="stream" channelId="1961" group="unsorted", Distrito Comedia
+#EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:-1 tvg-id="" tvg-name="24H | Cantinflas" tvg-logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="→ 24/7 II ←",24H | Cantinflas
+#EXTINF:0 type="stream" channelId="-1" name="24H | Cantinflas" group="→ 24/7 II ←" logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png", 24H | Cantinflas
 http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525832
-#EXTINF:-1 ,24/7 Cantinflas*
+#EXTINF:0 type="stream" channelId="-1", 24/7 Cantinflas*
 http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525936
-#EXTINF:-1 ,24/7 Chespirito
+#EXTINF:0 type="stream" channelId="-1", 24/7 Chespirito
 http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525942
-#EXTINF:-1 ,24/7 Chespirito 2
+#EXTINF:0 type="stream" channelId="-1", 24/7 Chespirito 2
 http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525873
-
-#EXTINF:-1 ,24/7 El chavo - 2 temp
+#EXTINF:0 type="stream" channelId="-1", 24/7 El chavo - 2 temp
 http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525864
-#EXTINF:-1 ,24/7 El Chavo del 8
+#EXTINF:0 type="stream" channelId="-1", 24/7 El Chavo del 8
 http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525939
-#EXTINF:-1 ,24/7 Los Picapiedras
+#EXTINF:0 type="stream" channelId="-1", 24/7 Los Picapiedras
 http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/529198
-
-
-#EXTINF:0,DEPELICULAS
+#EXTINF:0 type="stream" channelId="-1", DEPELICULAS
 http://190.121.42.18:8000/play/a016
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://streamsy.online:2999/happy2024/newyear/1699
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
 https://veotv.site:8443/play/nToIdRdWmk4ail0xeuzxHZnGFUyEM6V1lvaTG8uvyoM/ts
-#EXTINF:-1 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
+#EXTINF:0 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 type="stream" channelId="2690" group="unsorted", ADN 40 HD
+#EXTINF:0 type="stream" channelId="2690" group="unsorted", ADN 40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 type="stream" channelId="2883" group="unsorted", CNN
+#EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
 http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63073
-#EXTINF:-1 type="stream" channelId="266" group="unsorted", Capital 21
+#EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 type="stream" channelId="-1", Canal 6 Puebla
+#EXTINF:0 type="stream" channelId="-1", Canal 6 Puebla
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 type="stream" channelId="3720" group="unsorted", A+
+#EXTINF:0 type="stream" channelId="3720" group="unsorted", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 type="stream" channelId="243" group="unsorted", AZ CLIC
+#EXTINF:0 type="stream" channelId="243" group="unsorted", AZ CLIC
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
-#EXTINF:-1 type="stream" channelId="238" group="unsorted", AZ CORAZON
+#EXTINF:0 type="stream" channelId="238" group="unsorted", AZ CORAZON
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
-#EXTINF:-1 type="stream" channelId="228" group="unsorted", AZ MUNDO
+#EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
-#EXTINF:-1 type="stream" channelId="3727" group="unsorted", AZ CINEMA
+#EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
 https://azt-cin.otteravision.com/azt/cin/cin_720.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls-v3.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
-#EXTINF:-1 type="stream" channelId="-1", Canal 13 Puebla
+#EXTINF:0 type="stream" channelId="-1", Canal 13 Puebla
 https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", TVBuap
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", TVBuap
 https://tvenvivo.buap.mx/livestream/stream.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.1 (720p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.1 (720p) [Not 24/7]
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.2 (720p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.2 (720p) [Not 24/7]
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", HUAUCHINANGO RADIO SICOM 
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", HUAUCHINANGO RADIO SICOM
 https://5d0d1d7a6be9e.streamlock.net/SHOUTcast/sethuachi.stream/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", PUEBLA RADIO SICOM
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", PUEBLA RADIO SICOM
 https://5d0d1d7a6be9e.streamlock.net/setpuebla/radio/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", ZACATLAN RADIO SICOM
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", ZACATLAN RADIO SICOM
 https://5d0d1d7a6be9e.streamlock.net/setzacatlan/radio/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", ULTRA RADIO PUEBLA
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", ULTRA RADIO PUEBLA
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
-
-
-
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Junior HD
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://181.78.107.162:49000/play/a0fz/index.m3u8
-#EXTINF:-1,MX: MEX: NICK JUNIOR VIP SD
+#EXTINF:0 type="stream" channelId="-1" name="MEX: NICK JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: NICK JUNIOR VIP SD
 http://181.204.79.182:8202/play/a02c
-
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="" tvg-name="INF• DREAMWORKS (HD) »1«" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",INF• DREAMWORKS (HD) »1«
+#EXTINF:0 type="stream" channelId="-1" name="INF• DREAMWORKS (HD) »1«" group="→ INFANTILES ←" logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png", INF• DREAMWORKS (HD) »1«
 http://38.252.158.1:8000/play/a02z
-
-#EXTINF:-1,MX: MEX: DISNEY CHANNEL VIP SD
+#EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY CHANNEL VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY CHANNEL VIP SD
 http://181.78.107.162:49000/play/a0i8/index.m3u8
-#EXTINF:-1,MX: MEX: DISNEY JUNIOR VIP SD
+#EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY JUNIOR VIP SD
 http://181.78.107.162:49000/play/a0g1/index.m3u8
-#EXTINF:-1 type="stream" channelId="41" group="unsorted", NICK
+#EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
 http://38.7.101.90:8000/play/a04y/index.m3u8
-#EXTINF:-1 type="stream" channelId="1305" group="unsorted", CARTOONITO
+#EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
 http://45.176.193.222:2405/play/a06p
-#EXTINF:-1,MX: MEX: TOONCAST VIP SD
+#EXTINF:0 type="stream" channelId="-1" name="MEX: TOONCAST VIP SD" group="MX" tvg-country="mx",  MEX: TOONCAST VIP SD
 http://181.78.107.162:49000/play/a03k/index.m3u8
-#EXTINF:-1 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
+#EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
 http://38.7.101.90:8000/play/a089/index.m3u8
-#EXTINF:-1 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
+#EXTINF:0 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
 http://38.7.101.90:8000/play/a05c/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", El Reino Infantil
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Aliento vision
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Aliento vision
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w683454596.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Extrema TV (720p)
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="4569" group="unsorted", eNLACE
+#EXTINF:0 type="stream" channelId="4569" group="unsorted", eNLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY
+#EXTINF:0 type="stream" channelId="188" name="SONY" group="PREMIUM LATINO", SONY
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=16&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",SONY MOVIES
+#EXTINF:0 type="stream" channelId="1214" name="SONY MOVIES" group="PREMIUM LATINO", SONY MOVIES
 http://181.78.107.162:49000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",STUDIO UNIVERSAL
+#EXTINF:0 type="stream" channelId="2625" name="STUDIO UNIVERSAL" group="PREMIUM LATINO", STUDIO UNIVERSAL
 http://38.7.101.90:8000/play/a090/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E !E" tvg-logo="" group-title="PREMIUM LATINO  HD",A&E !E
+#EXTINF:0 type="stream" channelId="-1" name="A&E !E" group="PREMIUM LATINO  HD", A&E !E
 http://38.7.101.90:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",AXN FHD
+#EXTINF:0 type="stream" channelId="-1" name="AXN FHD" group="PREMIUM LATINO  HD", AXN FHD
 http://38.7.101.90:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="PREMIUM LATINO  HD",AMC HD
+#EXTINF:0 type="stream" channelId="2501" name="AMC HD" group="PREMIUM LATINO  HD", AMC HD
 http://38.7.101.90:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Cinecanal HD
+#EXTINF:0 type="stream" channelId="284" name="Cinecanal HD" group="PREMIUM LATINO  HD", Cinecanal HD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=73&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="PREMIUM LATINO  HD",CINEMAX
+#EXTINF:0 type="stream" channelId="1326" name="CINEMAX" group="PREMIUM LATINO  HD", CINEMAX
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Comedy Central FHD
+#EXTINF:0 type="stream" channelId="-1" name="Comedy Central FHD" group="PREMIUM LATINO  HD", Comedy Central FHD
 http://38.7.101.90:8000/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN +" tvg-logo="" group-title="PREMIUM LATINO  HD",GOLDEN +
+#EXTINF:0 type="stream" channelId="-1" name="GOLDEN +" group="PREMIUM LATINO  HD", GOLDEN +
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=75&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden Edge FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Edge FHD
+#EXTINF:0 type="stream" channelId="-1" name="Golden Edge FHD" group="PREMIUM LATINO  HD", Golden Edge FHD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=84&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden FHD
+#EXTINF:0 type="stream" channelId="-1" name="Golden FHD" group="PREMIUM LATINO  HD", Golden FHD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1624&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Golden Premier HD
+#EXTINF:0 type="stream" channelId="-1" name="Golden Premier HD" group="PREMIUM LATINO  HD", Golden Premier HD
 http://168.181.122.234:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 group-title="38.7",HBO 2 HD
+#EXTINF:0 type="stream" channelId="935" group="38.7", HBO 2 HD
 http://38.7.101.90:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="38.7",HBO Family HD
+#EXTINF:0 type="stream" channelId="2584" group="38.7", HBO Family HD
 http://38.7.101.90:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="38.7",HBO HD
+#EXTINF:0 type="stream" channelId="1330" group="38.7", HBO HD
 http://38.7.101.90:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="38.7",HBO POP HD
+#EXTINF:0 type="stream" channelId="361" group="38.7", HBO POP HD
 http://38.7.101.90:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="38.7",HBO XTREME HD
+#EXTINF:0 type="stream" channelId="-1" group="38.7", HBO XTREME HD
 http://38.7.101.90:8000/play/a04j/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="" group-title=" PREMIUM LATINO "SUR" HD ",UNIVERSAL
+#EXTINF:0 type="stream" channelId="187" name="UNIVERSAL" group="PREMIUM LATINO", UNIVERSAL
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=118&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",Paramount Channel FHD
+#EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount Channel FHD
 http://38.180.133.31:8000/play/a0qq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="PREMIUM LATINO  HD",Space
+#EXTINF:0 type="stream" channelId="383" name="Space" group="PREMIUM LATINO  HD", Space
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=79&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SyFy HD." tvg-logo="" group-title="PREMIUM LATINO  HD",SyFy HD.
+#EXTINF:0 type="stream" channelId="1192" name="SyFy HD." group="PREMIUM LATINO  HD", SyFy HD.
 http://181.205.130.194:4000/play/a06v
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT FHD
+#EXTINF:0 type="stream" channelId="-1" name="TNT FHD" group="PREMIUM LATINO  HD", TNT FHD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=74&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="" group-title="PREMIUM LATINO  HD",TNT Series FHD
+#EXTINF:0 type="stream" channelId="-1" name="TNT Series FHD" group="PREMIUM LATINO  HD", TNT Series FHD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=33&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Warner channel" tvg-logo="" group-title="PREMIUM LATINO  HD",Warner channel
+#EXTINF:0 type="stream" channelId="2557" name="Warner channel" group="PREMIUM LATINO  HD", Warner channel
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=17&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="PREMIUM LATINO  HD",Lifetime HD
+#EXTINF:0 type="stream" channelId="1200" name="Lifetime HD" group="PREMIUM LATINO  HD", Lifetime HD
 http://181.205.130.194:4000/play/a06u
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Animal Planet HD
+#EXTINF:0 type="stream" channelId="240" name="Animal Planet HD" group="DOCUMENTALES  LATINOS HD", Animal Planet HD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=61&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Channel HD
+#EXTINF:0 type="stream" channelId="341" name="Discovery Channel HD" group="DOCUMENTALES  LATINOS HD", Discovery Channel HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Familia
+#EXTINF:0 type="stream" channelId="4586" name="Discovery Familia" group="DOCUMENTALES  LATINOS HD", Discovery Familia
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery H&H HD
+#EXTINF:0 type="stream" channelId="-1" name="Discovery H&H HD" group="DOCUMENTALES  LATINOS HD", Discovery H&H HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13350
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Science HD
+#EXTINF:0 type="stream" channelId="1508" name="Discovery Science HD" group="DOCUMENTALES  LATINOS HD", Discovery Science HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Theater HD
+#EXTINF:0 type="stream" channelId="2558" name="Discovery Theater HD" group="DOCUMENTALES  LATINOS HD", Discovery Theater HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13359
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery TLC HD
+#EXTINF:0 type="stream" channelId="-1" name="Discovery TLC HD" group="DOCUMENTALES  LATINOS HD", Discovery TLC HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery Turbo FHD
+#EXTINF:0 type="stream" channelId="-1" name="Discovery Turbo FHD" group="DOCUMENTALES  LATINOS HD", Discovery Turbo FHD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13360
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Discovery World HD
+#EXTINF:0 type="stream" channelId="2890" name="Discovery World HD" group="DOCUMENTALES  LATINOS HD", Discovery World HD
 http://190.14.249.39:8000/play/a01o
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",HGTV HD
+#EXTINF:0 type="stream" channelId="1418" name="HGTV HD" group="DOCUMENTALES  LATINOS HD", HGTV HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
-#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",History Channel HD
+#EXTINF:0 type="stream" channelId="1456" name="History Channel HD" group="DOCUMENTALES  LATINOS HD", History Channel HD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=57&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hisotory 2 HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Hisotory 2 HD
+#EXTINF:0 type="stream" channelId="-1" name="Hisotory 2 HD" group="DOCUMENTALES  LATINOS HD", Hisotory 2 HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Channel FHD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",NatGeo Channel FHD
+#EXTINF:0 type="stream" channelId="-1" name="NatGeo Channel FHD" group="DOCUMENTALES  LATINOS HD", NatGeo Channel FHD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=63&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Natgeo HD" tvg-logo="" group-title="DOCUMENTALES  LATINOS HD",Natgeo HD
+#EXTINF:0 type="stream" channelId="207" name="Natgeo HD" group="DOCUMENTALES  LATINOS HD", Natgeo HD
 http://181.205.130.194:4000/play/a08s
-
-
-
-#EXTINF:0, MX: FOX SPORTS ESPAÑOL
+#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS ESPAÑOL" group="MX" tvg-country="mx",  FOX SPORTS ESPAÑOL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:0, MX: FOX SPORTS 1
+#EXTINF:0 type="stream" channelId="1329" name="FOX SPORTS 1" group="MX" tvg-country="mx",  FOX SPORTS 1
 https://sdmx.vip:443/belpley/sYqKZQrTZa/155648
-#EXTINF:0, MX: FOX SPORTS 2
+#EXTINF:0 type="stream" channelId="170" name="FOX SPORTS 2" group="MX" tvg-country="mx",  FOX SPORTS 2
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10952
-#EXTINF:0, MX: FOX SPORTS 3
+#EXTINF:0 type="stream" channelId="180" name="FOX SPORTS 3" group="MX" tvg-country="mx",  FOX SPORTS 3
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10951
-#EXTINF:0, MX: FOX SPORTS PREMIUM
+#EXTINF:0 type="stream" channelId="4669" name="FOX SPORTS PREMIUM" group="MX" tvg-country="mx",  FOX SPORTS PREMIUM
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10915
-#EXTINF:0, MX: FOX SPORTS PREMIUM
+#EXTINF:0 type="stream" channelId="4669" name="FOX SPORTS PREMIUM" group="MX" tvg-country="mx",  FOX SPORTS PREMIUM
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2106730
-
-
-#EXTINF:0, ESPN 1 MX 
+#EXTINF:0 type="stream" channelId="-1", ESPN 1 MX
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5779
-#EXTINF:0, ESPN 2 MX 
+#EXTINF:0 type="stream" channelId="-1", ESPN 2 MX
 http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
-#EXTINF:0, ESPN 3 MX 
+#EXTINF:0 type="stream" channelId="-1", ESPN 3 MX
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3032
-#EXTINF:0, Claro Sports
+#EXTINF:0 type="stream" channelId="287", Claro Sports
 http://192.141.99.3:8000/play/a02a
-#EXTINF:0, ESPN 4
+#EXTINF:0 type="stream" channelId="1432", ESPN 4
 http://181.205.130.194:4000/play/a085
-#EXTINF:0, ESPN
+#EXTINF:0 type="stream" channelId="2540", ESPN
 http://181.205.130.194:4000/play/a08n
-#EXTINF:0, ESPN Premium
+#EXTINF:0 type="stream" channelId="-1", ESPN Premium
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/84964
-#EXTINF:0, ESPN 2
+#EXTINF:0 type="stream" channelId="344", ESPN 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147019
-#EXTINF:0, ESPN 3
+#EXTINF:0 type="stream" channelId="355", ESPN 3
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147020
-
-
-
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/accio_un.png", Free accion
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/accio_un.png", Free accion
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebb25d11d169a9e21555912844b29f43c8814aa688d358985ed074f84295c1f28cda41d0809b449360e3301a16376f95f215f9a35ba4df9f7d2fd272274b44008cd292fa5d7287575363ebebc4ad60c006dc8557c10a49b3148c5f976ac524bd1eb0af48b2a8becb540f3aabc9146522b6eca38fe86f7ed701faa6fa9377759d84561207986e89272f6f94ff9b44d1c617c5e220d6b2304869979317cc9cb080e9e5df49c64ba0a0f59c2e0c4a6d1070e537c3ca37af43b76dbbf10333555b45ae8327a2ecbd0f094c61dcc334bd121faa958c86d11c3eb816712ec772d05c0c62cd38696fa529fcda1a7e8c233eb36f4d9131348451b2bb23e5b7da976551d48e9d0a9511b3bd1ec6e658e6223d5d11fde73f4344486e9efb75530f69d14cf2d2c9f8056f6a88a6f4d0ee09706d5716561fc5e3f760a48cd527191ac421500a0013189b4ad965c60d59153dc80a9d8a1b71803217779ecd535c5e7fd8c9a191b8d8cb49b00dbba59b1f3d3e5c578b01ec4704a2de72ca6e59311c5765c2694946a50e594d98eda387b7a11e0318f9c8420f3a6cd7e41f01285f767103989112a6363436abd8e9a068d9e38c1c468c32a40e52edb877af4f8cf3a46726b4d030316e93d22bc27c67a07db17fdb852088e21c6e4e4d1f7ff95f8b830b99a6dac4a5a00e5777a3349959b699f1bad56719ca94523a30066a3476466f16c1d9b0da490f61e5b02be712b3a505e90a633a3143d195131ea8dc374dcc7b2e3be597c285fb9e5850d238a03c894113b65b0819e4ce13e397fda6a9d021075699fe80648f8ca4cd8cdac32d7b4b4b3598ca501c37fb2ee2830ae4e24c2eb9c7dbab8a20c735d134bd85a427ab69f39cf25df8e2e89491401e505e58ebd2b7ab44a9db2471fb2a8b037d62dfe082d36af4ddb002029a7ee8970863ab7e331dfea2f500c73caba45e0ee294624dda6438a2b1a67e04a9c4c6b0ffef25ab4179d4a517787f944ddcefe4b1eb8835/198/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/freetv_tvbanner_drama_1920x1080.png", Free drama
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/freetv_tvbanner_drama_1920x1080.png", Free drama
 https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist/amg01024-olympusat-cinereallatam-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe008178b3fa2b51b55912847e79f43c8814aa689d65e9b5e8f23a413c8c4a3dd861187849b70936ee3301a16257897927ce1bf37c2f588603e957f294a1b46a6a796be682e8342776aa287a1d164fb00809c36be7025b216994c9d42ec01ce589ecf60fadad1b843452aead1496d55cc8fca8ce93036a970b5a1e6d0290cf39f157c54876ed7323b39e29ea175d49969fcd82281a7271e07d0834a9f88b186fdc2e720f426c3c9f18a384342394968e15ca68923df20d90aeaa453705f1c41a9cd51c6d6890b35601cd2830dd24a4ee88c89d1880f39c9664e08eb3a91316b6dc827227df53dc69829628d2a0ff743578f5b3a8d0cf3b435f8b7cef6072ffbf8d547fa5bd9ef5fb88703ad7e725812a3cd3f4b4a5e78effb74014239a93becc7def164534fa3e0dae98e552a023c03444288edea3f9f8bd6201e13d209480a131113854ad267cb722a6a4f9944a7c663619639313fefb13e5e431ef0a2d5d0bef8e41ecd15bfcef92a613a4973823d042b6ba1dee73fdb2a4e7b4e6bb2e60529cc6fa5d179f4b387b4b82ca8b161b231611b11bd9a756f2822bee797f9ea05f951f08715f9bac759dee68e133ff45475a4a6ffa2b658ede180c94c069ead585b14ff78e472125fa43ffd0ff2b558d1b4540a1b330a2fa8eb00ac08e98fc88e43c85df27838af3504efbc9af3d5e86cc56b7293797a741a7a407f2f0df7f7d07c0978e38304ef49ffd198c8285b1e305dd78e0c5fc9bd394cdc7d4969aba4c49cbe8a2d248a3fa43b993b43915e0378b59778f2d5e6babaa67f440cdc81ae4e90a89cce99859d682d5d2c78b0e96b785b9466fc850ce4ed3a79ec8284ac9a4d9f67ed38becbe77cb272f085ec40fed0aefffd7605571502af96b9a942a9c9602f8c72d549220f8fcab5a4179cf4884729ba13b0ff4404c8197152cea7fe7eb808b0f43627e2c72419e27d3cc5efe8355eaf00a2333969fedd8b0c6e96db6e732c404765db2a0df1a3c33cf44219c7510a31ccb7c6d8/59/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/estelar.png", FreeTV Estelar
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/estelar.png", FreeTV Estelar
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe15b4c8a6aa9e34f55912847e69f43c8814aa689d65e9b5e8f23a413c8c4a3dd861187849b43936ee3301a162172899078e1aa37d78ac02a53f5702c555052e3ad81fb3c4aec336c4ef1f8c2b164f316ddc921842011a9059d7bb26afd01cd08a3f200b5bfb7ad2e2b53a2d65e6433b6aba385f66f4bd70afaa6fa93726c89c91a794acc1fb0484d1e82f8ce20b29958fcd12281a7271931c4e307f1dde380beb5891d98279a97a19d3f111a605704df08f3cd6f897edc7aabc846735f172ac7fd54c095975a3e763de5ea3f84496fd3b19e90e01e29c3761a59f112bf31613df51a4226ad47979b387fc7271a950a3fee56318c478ece4681a4d4e84834b9c7ca52ea7ceea144f4e407ac590a0378d99c2d5b56027eeffe7402346cc040f6a1a28b111d15effec3fb9a1b5279651f46189bb8a83f9a8ad3670805dd5222733a0504c83bc67bd616480337bb78b9c8584dab287b788cd63e59492297d8a1be94c2c556b040c6ddf14b6f51276ba9271535349cf99a4eea764d6c7f5894192a40b20a1546ef83c0e69c935c27fd0edb509d87f0a48a756c3110154e0f83996bd82c9af97f97baba914872ef6828ab33b11518def1d169eae482c6357ef87cf2af06e5b913d07f2cc914dd258fdd32abd8fec5ab5d322beaa770853891d69ec6279d23e728691bbe2becccb3e19f0e0496ce7d08e2d629435f2b362f8282f82f5ca0319f9d2ae34fefe854e66f512b3644d1bd235792f14dd1fd5f714daabac287a1cb4c45843eb43dfe690da2581a3da1e20caad2e2bdaadc2f6309d7e0ff17fbb9ded58596eb366e0769079ec3745c639773a3db49b2fb5d34c4a1bfc8f622d779eb3ebec4912be737af82fc2da68292f3fe38460c0c19ac8fa7b4449b8f0b43ba69d202784bcbc4b7a2178eb0d63071e459ef92142eff6e0c3ae79fbb559865e89c7a4081a06656d27837bb90dc2e0ec729a2607f3dc6c48f6a34d8d04df4699e86fc1b439c027db51e0b79cd9c9b276afbbb877619e9ee6fa6b75c95717f2266716052/195/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/live.png", FreeTV Live
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/live.png", FreeTV Live
 https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebb30f40df6ff3b44e55912847e69f43c8814aa6d2d209985ed727f91498c6f6828513d7809b43936ee3301a162172899078e1aa37d78ac01853f6702c55505cf59c9fff5a4ee52d220ca281a1d664fb00808e208f7232c971f220a13e9e79af1da2ef47ada4bed1564e63ecae356023b3aba19aeb0a31a868ffaeecaf0516edf51b7509c661c12f3b2d83fcdf5aa2d110938215dfcc037339c4820b8e8e8d93fdb99b4b9f3cb8a19efc6c7b604d5e75ec3aa39e7e953ccf74daa2794b5a5f41a88e438a85d6536a1625ec954deb0309b0cd8a80c67c5da0044a63c64e830e6f1dcd307f32e43de9a52f7886340fba202ff72a75ea3cf4ac38e5b481aa492ca2c98944ed6aeaa11c9cf50da422385c14baf1294c1f2217b7ef621e7e7dcd5196b0a08027534d8690ccfad31d3c0e3d651066cbb3e4219e8a972d1f4691062362274414c5028f3c8e574b5279c81cd0aa5c26865c59478aa63b4e146d86d88e8f86dbcf36dd15b5e9ef3c2a0f6f5154526f57062c251e38875a6646383bad0a7c4abe08283a80f7e7c4e94dea53fe1ec7166d0677cdb0364c0c407a600be1e10001fb54f26fd3afdf50cde18e1b4b8233e1727835136b0d8a8ea9ee6b75f7825e1d669bd4288f1447a243877cd8822291d80777430b7b991df200df26f9dc14fd0960140d05705fe77da995e0b2994b53ff98493c0c2a5c036668bb4d66b7f7da7e0977e0bd68b313b6ab1d9e4b5a373050cdc22e6ac6b92752cc6e3e57acae9ddff68a1b469e27b454d9700fa360082ccac52ca5d6e1a4b4d4391448f29e9f6197edc88dc5ddcf66590e6f3b94881f767fca29fd8948b0ff4b32bfc7dbab8a2ea474e434a98df97bb76bee98ea7cdbfaf7c9f27913514d44bc90a78873f5884a14eb358b376e72faadebfb62f7dfc6775be24fef88022ee37e4954c7aff413db69dfc23c39ec936649df166b98f89ec67d47f335f454c546bff37fa7ec721f46014ba15f291a/99/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/suren_ao.png", FreeTV Sureño
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/suren_ao.png", FreeTV Sureño
 https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist/amg01024-olympusat-cinesureno-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe0594ddc6ca0e44855912847e59f43c8814aa689d65e9b5e8f23a413c8c4a3dd861187849b7e9360e3301a1626749df23bf9890cb58b9f6d6e987378164b50e4f0c7fd1d3adf12120bfaad9cbe67fc159bdb26db285dd5019c5cca319a7b950bb2ef4aaca8c9a928353aabc9156e2bb9e8b09fe83427f340e9a7ece94526e99c7d7943da23db2d3b28918fa87ee5934fc3dc5284b07a5339d0817a8889bd91ea8f985890578aad8a9029565e705e4dc94ab58d23dd3bd87dbcd85d2253400ba99f43cd85dc4d6a1a25e8815ac75d0eaae49b91d6183ac979693c820488622b42965a061be429ead438629d5469ef546da12c5fea57ef873ce7aecde40522c7b8ad26ae56c19b50919c6ba8692f1705b6fc3e5a373a17a4c174043770cd44e8d6d9a1730c40cae5c8fbf465627f537b530898ace6608bb1ce281013b33b4c065202129330e033ae6a23012ada50dabf36788412534e8cc66f072d06f1c9b592c9c3d848c713b9a5fb2b2a3e4d75f3300a2b5c3ad7e72895c7d8ed1b27e2225c01db2a5f5ae396c697e1ea0ce0bd1467bcff7619a8de18531d5a3342079e8261d45f98e2756f3e7c3dbe85b907498432a0081e99df9e1f904642702e7df3827e3d1df0fb2ec17221c0189e4ce2b7248be705564e75281ab3d163c48e66a3cee752da2f23752184d2d8f1efc2bed3745fe490051e36115c14706d552518a1e018056a74c1b33def51eaea1afc0c04737770d78c045191fb3732a8752f30ebf090cb9ac30d469e35b46d9f344ae6761d3eedc90fef8199faeec83a075797e5fd0cf38aa0b5e1fa866672026735dbe65a567cd76fb0af0ff3a21079a0d8d9b3943ed925ac65fbb7b728e52ea984e95df9decea889027d346d5ef2c5f8ed079bed5a37dc55ef0d7c48d2da9eb70f9dfdb3087fe6589af52466bc31735889e6bb33c125bce92e39a5e04d5cc67f26cef0f5444b913cc6c05398285f55086d6b9d566d1695907e7258309ffc3094/79/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/familia.png", FreeTV Familia
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/familia.png", FreeTV Familia
 https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat-juntos-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe75c17dc6fa2b74d55912847e59f43c8814aa68885599d5e8670f916c89af18c8042d6879b4b936be3301a16236d89bf7792c458c4b2f00f1f8e742d72280f98c9faff4a2fc8404652eafab9ce0f9036c09d37847432b5099546813e9e64f07dcd8b5bb392abcd4b5738a7dd29074dc4b499a4d56f7bd708faa6fa93726c89c9166d49cd61dd505d52e4fec419cacc198fbb3390a7680976e683409ea984d997dae34b983684d2e7a72d50477505019f2fc4f0098a10f356f28379465d4957e39e5cc0f49b3470334cd7855a831719e98bde86dd5d6fc9331d03bd318e59573bcd366f7ab07ffac04d06e3270e967b34e8673981568edb4694f7818b6c5cb4dad40cfb61fbc769b89752f338562803b7e1625e555c42c3fa691f3546d657e8a18a8b090114f8e7dea48f1c2f102e59541e8ee7f366d58dcf245212c4452f6371034de66ebf68db13070321d90ed2de6a1ee4567b5a8cc03e59492283dabdf3ebbca042a77ad6dbeb772c34545154526f57062c251e38875a6646383bad0a7c4abe08283a80f7e7c4e94dea53fe1ec7166d0677cdb0364c0c407a600be1e10001fb54f26fd3afdf50cde18e1b4b8233e1727835136b0d8a8ea9ee6b75f7825e1d669bd4288f1447a243877cd8822291d80777430b7b991df200df26f9dc14fd0960140d05705fe77da995e0b2994b53ff98493c0c2a5c036668bb4d66b7f7da7e0977e0bd68b313b6ab1d9e4b5a373050cdc22e6ac6b92752cc6e3e57acae9ddff68a1b469e27b454d9700fa360082ccac52ca5d6e1a4b4d4391448f29e9f6197edc88dc5ddcf66590e6f3b94881f767fca29fd8948b0ff4b32bfc7dbab8a2ea474e434a98df97bb76bee98ea7cdbfaf7c9f27913514d44bc90a78873f5884a14eb358b376e72faadebfb62f7dfc6775be24fef88022ee37e4954c7aff413db69dfc23c39ec936649df176396b3e747fca9c27db2e61b359e5034d493be5f9b5927b574baecda/173/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/saber_mas.png", FreeTV Saber Más
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/saber_mas.png", FreeTV Saber Más
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebb05a13d96da5b91455912847e59f43c8814aa6d2d209985ed727f91498c6f6828513d7809b43936ee3301a162172899078e1aa37d78ac01d53f6643b790e47efb592fd574ee02d270dc1d1e5e50b9574cf8d36cf6439af72fb25e560d01ac063a6e55deea4a8e04e402dd6a7310077faa8caedfa3120f362f2a69b9f193cc8f5457d439e69da727b6d95ff9840879013cfe372d2b63b4a39c29243cecfb1d998daea4b983684d2e6944f2e240902108358b68c23d826d022fda46220585e0aac8a45fb95cd51226770939252a65371c7d39f97cf1d61852f0c4dff2edf490069d822227fea20b69e397a80250f966f459136348451b2ad3fcab7c9ec103ab6c7b524950bbe8c24fcac7ac3013d5d11fdf33c4f7a427cddeb14655a1fe557e1d6fed72d4a6a85f6c9ed8e543d092b12207ae196c8629289c9271c1ac44066647150318401d35de95a016a40c81ac0e2086495392338e8a33358281afcbcb28e8a98c548ac72c3daee383b757f71b836311034afdce358f92b057d454d92006056be02483080ffa1f698826bdc9165b90a8b7509b498e8d29a33090127a3d20efa5bfa9a1eb6e9b236aec1ac628801a1c17b7db0dfce78f0ada0ca4a1d99a9566316ff058273125fad23c12789dc73d1be52095e4f28e30139358d3c91f6bebd4cb225a94e0f79e532dcf686e7853106b7c3035b61780a204483a9505898a395678e41ce461f461795ca58ac505d303e08f387185785e7483f9521675a68c1a18480c51919c662f53a9c2e53e61f3a27efc837fd90f2ddcec73e044e89edeb7bb2afded59796d2702a422c118bd1535040dd24db8513aef84e2ba1dadda59245bf41cf19f7c4ba27ef39e0ecb90da59fd4bed87f05515752b390a5ac5a8bf25a0beb3be84c2b198e83aba136ac94ef510a9f378ab20e60aa31694e89faab76af058ca6687aa9d7131abf1215ceeff82a19b25484282072fcc8c1237bf8ca0197428c86b56868891b15f0484e6bce2dad9fde890e7d6681d4372c47c357ed5dabce735a8a8f7a3a13ae/17/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/vive_kanal_d_drama_2023-whitebg.png", Vive Kanal D Drama
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/vive_kanal_d_drama_2023-whitebg.png", Vive Kanal D Drama
 https://amg01602-themahqfrance-vivekanalddrama-freetv-hd8p0.amagi.tv/playlist/amg01602-themahqfrance-vivekanalddrama-freetv/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebe20f44db68a4b94f55912847e49f43c8814aa6d1d75d9d5ed727f941c89ba68b8615d48f9b7b9369e3301a16236d89bf7b86c759badfe81f53e872274b505aeaba9eee5b2f87530d7aeaface8b53a55ea4ee24857379bf099c3dc65aca3aa958a2e519a4afeb8f17443bf790583221f9b0f1ddf96764bc64f8a4bc8f7026f79c737943da23dc2c3f4af397aa44deb77ffca330baa47b142ec1925ce9fbd8e7be89a364c667a0aef59c2e0c49660a10832fd7f01eeb2cd1db65cd062d5d5e04b4da66c194d05b23380cecee5fd00055bae49b91d00a2ec9650928990ab64d0c7ac93f6d72e421fd9e2e6d842750fd5f51fa5c26ce43eca813fba6d6e07453dfb8e150fa6adb8350879c73a8692f1703a3e2134c51436fd5d1731f3c0b832f9adbdef5671a5aa3b8dae9d71d3e153c12461ac5e1e87dd48ac53f1415c4407c101e79169217986ad01059015caa74b2fc530cef682029f5e92a4e657c84c1a78084cfb822df1b82f6d3171dd23809cc5bfab5fdb2ccef74c57a2d537f45890c6b31c56d386ccbe5046104e214a3b26bb82c6a5442c8f505480a530912624d35deb62c88a708b59ac45fc5e18a1d07f65408c2a7ffa2bf44d1c9fba0670694ab5b1e68ddb44da0277e90478479c1ba22a9ef623dcde33c1ce2f714fcd183fd60ff8bd05f8c42066ce37bbad3ceb6ce6f55e8ae693a27106fda1e38790103a2d3d9680134b9f277a615d1e25bad4d43207f69eac2510ec8b82c5cab3c7036f1fb8b93fb9e4a50eb7ee479cc5706a47c043aae996bbdcde1a5bacf447c34f49ae70cb7a883848cf1cf2575042570b8c94d5a7add69a1de51affd532ca1d9cbd6db689667eb7aeed7e160b76ad2bed664999993faf460041e0b078ea6d9ce548aec4415c138b12b0a17938de8f11f8bf9b41577e758a0c84759a7307a52deb8b963ec2eabed2d25f78d0a088c272aa0009eb5c05af0c1847944e616979c2b6812a88f2e8a323d/193/1920x1080_6046040/index.m3u8
-
-
-
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Clásico
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Top Cine Latam
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Top Cine Latam
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/768x432_1425600/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Saber mas
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Saber mas
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Tu Cine Latam
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Tu Cine Latam
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Flash
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Flash
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/512x288_875600/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Chiquilines
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Chiquilines
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/512x288_875600/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Juntos
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Juntos
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1920x1080_5605600/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cine Sureno
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Cine Sureno
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Cine Real
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Cine Real
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-latam-plex/CDN/1920x1080_5605600/index.m3u8
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Acción
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Comedia
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Terror
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Viajes
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Viajes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Drama
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cocina
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Deportes
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Novelas
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Novelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Series
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Anime
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Reality
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Reality
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Investiga
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Investiga
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Junior
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Junior
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Misterios
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Misterios
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Estelar
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Hogar
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Hogar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV  Competencias
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV  Competencias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Kids
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Velocidad​
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Velocidad​
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Familia​
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Familia​
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Teen
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Teen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Romance​
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Romance​
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Animales
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Ciencia
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Ciencia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Series Latinas
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Series Latinas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Naturaleza
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Aventura
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Aventura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Suspenso
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Suspenso
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Historia
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Historia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Degrassi
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Degrassi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de58ef515635d00091f605d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Series Retro
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Series Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="2780" group="unsorted", MTV Classic
+#EXTINF:0 type="stream" channelId="2780" group="unsorted", MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Telefe Clásico
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Telefe Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV  Nuestro Cine
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV  Nuestro Cine
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Vida Real
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Latin Angels
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Latin Angels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df41355939756000921d15b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", MasterChef
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Fútbol Para Fans
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Fútbol Para Fans
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Minuto Para Ganar
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Minuto Para Ganar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Los archivos del FBI
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Babar
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Babar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Animé Acción
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Animé Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Guía de canales
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Guía de canales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Humor
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Estrellas de Acción
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Estrellas de Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", MTV Pranks
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MTV Pranks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Peleas
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Peleas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", The New Detectives
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Rugrats Crecidos
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Rugrats Crecidos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="2410" group="unsorted", Babyfirst
+#EXTINF:0 type="stream" channelId="2410" group="unsorted", Babyfirst
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", People are Awesome
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", People are Awesome
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b8993/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", The Pet Collective
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", FailArmy
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", FailArmy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Star Trek
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Star Trek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Wipe Out
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Wipe Out
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV FashionBox
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV FashionBox
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Archivos Forenses
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", MTV Animaciones
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MTV Animaciones
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Misterios Medicos
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Misterios Medicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Empeños a lo bestia
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Empeños a lo bestia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Sci-Fi
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Barney
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Barney
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Oh My Pet
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Oh My Pet
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", All Elite Wrestling
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", All Elite Wrestling
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Historias de Ultratumba
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Historias de Ultratumba
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Paisajes por Stingray
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Paisajes por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Telefe Noticias
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Telefe Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Misterios sin Resolver
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Misterios sin Resolver
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Conciertos por Stingray
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Conciertos por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Karaoke por Stingray
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Karaoke por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Tastemade
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Tastemade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Dog el cazarrecompensas
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Dog el cazarrecompensas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Lucha Libre AAA
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nosey Escándalos
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Nosey Escándalos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Nosey Casos
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Nosey Casos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b005b66d1950007857df6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", MTV Pluto TV
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MTV Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", ESR 24/7
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", ESR 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Kenan y Kel
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Kenan y Kel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Yu-Gi-Oh
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV E-Sports
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", One Piece
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Tokusato
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Tokusato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Comedy Central Pluto TV
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Comedy Central Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Loupe
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Loupe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Retro Cartoons
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Retro Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", MTV Biggest Pop
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", MTV Spankin' New
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Sin Tetas No Hay Paraíso
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Sin Tetas No Hay Paraíso
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Ripley’s Believe it or Not
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Ripley’s Believe it or Not
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079bcbd9b10880007bf8e2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Clásico
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Pluto TV Recetas
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Pluto TV Recetas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="unsorted", Boom
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Boom
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 type="stream" channelId="-1" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Videos Chistosos
+#EXTINF:0 type="stream" channelId="-1" group="ViX" logo="https://i.ibb.co/VNPbHtC/vix.png", Videos Chistosos
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
