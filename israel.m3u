@@ -119,6 +119,8 @@ http://38.7.101.90:8000/play/a05c/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.portalvoxhd.com.br/estacoes/webtv-303.png"group-title="CRISTIANO", PRESENCIA KIDS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/kidsenvivo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Aliento vision
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w683454596.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV (720p)
@@ -207,36 +209,35 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=63&extension=m3u8
 #EXTINF:0 type="stream" channelId="207" name="Natgeo HD" group="DOCUMENTALES  LATINOS HD", Natgeo HD
 http://181.205.130.194:4000/play/a08s
-#EXTINF:0 type="stream" channelId="-1" name="FOX SPORTS ESPAÑOL" group="MX" tvg-country="mx",  FOX SPORTS ESPAÑOL
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:0 type="stream" channelId="1329" name="FOX SPORTS 1" group="MX" tvg-country="mx",  FOX SPORTS 1
-https://sdmx.vip:443/belpley/sYqKZQrTZa/155648
-#EXTINF:0 type="stream" channelId="170" name="FOX SPORTS 2" group="MX" tvg-country="mx",  FOX SPORTS 2
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10952
-#EXTINF:0 type="stream" channelId="180" name="FOX SPORTS 3" group="MX" tvg-country="mx",  FOX SPORTS 3
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10951
-#EXTINF:0 type="stream" channelId="4669" name="FOX SPORTS PREMIUM" group="MX" tvg-country="mx",  FOX SPORTS PREMIUM
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10915
-#EXTINF:0 type="stream" channelId="4669" name="FOX SPORTS PREMIUM" group="MX" tvg-country="mx",  FOX SPORTS PREMIUM
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2106730
-#EXTINF:0 type="stream" channelId="-1", ESPN 1 MX
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5779
-#EXTINF:0 type="stream" channelId="-1", ESPN 2 MX
-http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", ESPN 3 MX
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3032
-#EXTINF:0 type="stream" channelId="287", Claro Sports
-http://192.141.99.3:8000/play/a02a
-#EXTINF:0 type="stream" channelId="1432", ESPN 4
-http://181.205.130.194:4000/play/a085
-#EXTINF:0 type="stream" channelId="2540", ESPN
-http://181.205.130.194:4000/play/a08n
-#EXTINF:0 type="stream" channelId="-1", ESPN Premium
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/84964
-#EXTINF:0 type="stream" channelId="344", ESPN 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147019
-#EXTINF:0 type="stream" channelId="355", ESPN 3
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147020
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/533cuenta000/HJFFZ/9380
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/533cuenta000/HJFFZ/185154
+#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="DEP | ESPN 2 AR " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 AR 
+http://home-playtv.com:8080/533cuenta000/HJFFZ/185666
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="DEP | ESPN 2 MX HD " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 MX HD 
+http://home-playtv.com:8080/533cuenta000/HJFFZ/36391
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="DEP | ESPN 3  MX " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",DEP | ESPN 3  MX 
+http://home-playtv.com:8080/533cuenta000/HJFFZ/9530
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="DEP | ESPN 3 MX HD  ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/533cuenta000/HJFFZ/186774
+#EXTINF:-1 tvg-id="espn.deportes.mx" tvg-name="DEP | ESPN Deportes SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN Deportes SD
+http://home-playtv.com:8080/533cuenta000/HJFFZ/54094
+#EXTINF:-1 tvg-id="espn.extra.cr" tvg-name="DEP | ESPN Extra  MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES",DEP | ESPN Extra  MX 
+http://home-playtv.com:8080/533cuenta000/HJFFZ/21229
+#EXTINF:-1 tvg-id="fox.deportes.en.espanol.mx" tvg-name="DEP | FOX Deportes " tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="DEPORTES",DEP | FOX Deportes 
+http://home-playtv.com:8080/533cuenta000/HJFFZ/36396
+#EXTINF:-1 tvg-id="fox.sports.2.mexico.mx" tvg-name="DEP | FOX Sports 2 MEX HD" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/533cuenta000/HJFFZ/19495
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="DEP | FOX Sports 3 MX HD ►℗" tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES",DEP | FOX Sports 3 MX HD ►℗
+http://home-playtv.com:8080/533cuenta000/HJFFZ/19496
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="DEP | FOX Sports 3 HD MEX " tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES",DEP | FOX Sports 3 HD MEX 
+http://home-playtv.com:8080/533cuenta000/HJFFZ/9538
+
+
+
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/accio_un.png", Free accion
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb543e1e7a6c648f9ed43e66d6ef46a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b1ebb25d11d169a9e21555912844b29f43c8814aa688d358985ed074f84295c1f28cda41d0809b449360e3301a16376f95f215f9a35ba4df9f7d2fd272274b44008cd292fa5d7287575363ebebc4ad60c006dc8557c10a49b3148c5f976ac524bd1eb0af48b2a8becb540f3aabc9146522b6eca38fe86f7ed701faa6fa9377759d84561207986e89272f6f94ff9b44d1c617c5e220d6b2304869979317cc9cb080e9e5df49c64ba0a0f59c2e0c4a6d1070e537c3ca37af43b76dbbf10333555b45ae8327a2ecbd0f094c61dcc334bd121faa958c86d11c3eb816712ec772d05c0c62cd38696fa529fcda1a7e8c233eb36f4d9131348451b2bb23e5b7da976551d48e9d0a9511b3bd1ec6e658e6223d5d11fde73f4344486e9efb75530f69d14cf2d2c9f8056f6a88a6f4d0ee09706d5716561fc5e3f760a48cd527191ac421500a0013189b4ad965c60d59153dc80a9d8a1b71803217779ecd535c5e7fd8c9a191b8d8cb49b00dbba59b1f3d3e5c578b01ec4704a2de72ca6e59311c5765c2694946a50e594d98eda387b7a11e0318f9c8420f3a6cd7e41f01285f767103989112a6363436abd8e9a068d9e38c1c468c32a40e52edb877af4f8cf3a46726b4d030316e93d22bc27c67a07db17fdb852088e21c6e4e4d1f7ff95f8b830b99a6dac4a5a00e5777a3349959b699f1bad56719ca94523a30066a3476466f16c1d9b0da490f61e5b02be712b3a505e90a633a3143d195131ea8dc374dcc7b2e3be597c285fb9e5850d238a03c894113b65b0819e4ce13e397fda6a9d021075699fe80648f8ca4cd8cdac32d7b4b4b3598ca501c37fb2ee2830ae4e24c2eb9c7dbab8a20c735d134bd85a427ab69f39cf25df8e2e89491401e505e58ebd2b7ab44a9db2471fb2a8b037d62dfe082d36af4ddb002029a7ee8970863ab7e331dfea2f500c73caba45e0ee294624dda6438a2b1a67e04a9c4c6b0ffef25ab4179d4a517787f944ddcefe4b1eb8835/198/1920x1080_6046040/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/freetv_tvbanner_drama_1920x1080.png", Free drama
