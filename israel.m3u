@@ -7,7 +7,7 @@ https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/ind
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 http://saypopular.com:25461/datdude25/datdude2525/52735
-Las_Estrellas.svg.png" group-title="MÉXICO",MX | Canal de Las Estrellas -1
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal de Las Estrellas -1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="MÉXICO",MX | Canal de Las Estrellas -1
 http://home-playtv.com:8080/533cuenta000/HJFFZ/415380
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal de Las Estrellas -2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="MÉXICO",MX | Canal de Las Estrellas -2
 http://home-playtv.com:8080/533cuenta000/HJFFZ/415381
@@ -30,7 +30,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e
 #EXTINF:0 type="stream" channelId="-1" logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6Mkvd6PXFCsOatelsGIf1yIqWGvhOL6CuNGNZHOG96D/.m3u8&type=stream.m3u8
+http://home-playtv.com:8080/533cuenta000/HJFFZ/415388
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
@@ -41,26 +41,14 @@ https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:0 type="stream" channelId="-1" name="24H | Cantinflas" group="→ 24/7 II ←" logo="http://offshore.lat:36995/images/319c00733994eb70e1e0bb21e932d5ec.png", 24H | Cantinflas
-http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525832
-#EXTINF:0 type="stream" channelId="-1", 24/7 Cantinflas*
-http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525936
-#EXTINF:0 type="stream" channelId="-1", 24/7 Chespirito
-http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525942
-#EXTINF:0 type="stream" channelId="-1", 24/7 Chespirito 2
-http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525873
-#EXTINF:0 type="stream" channelId="-1", 24/7 El chavo - 2 temp
-http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525864
-#EXTINF:0 type="stream" channelId="-1", 24/7 El Chavo del 8
-http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/525939
-#EXTINF:0 type="stream" channelId="-1", 24/7 Los Picapiedras
-http://24horas.fun:8080/carNETamigo3/5ty46AAd46g3/529198
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas " tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/929a9419701211.562ded5592985.jpg" group-title="24/7",24/7 | Cantinflas 
+http://home-playtv.com:8080/533cuenta000/HJFFZ/107891
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
-http://190.121.42.18:8000/play/a016
+http://home-playtv.com:8080/533cuenta000/HJFFZ/53090
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://streamsy.online:2999/happy2024/newyear/1699
+http://home-playtv.com:8080/533cuenta000/HJFFZ/53091
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
-https://veotv.site:8443/play/nToIdRdWmk4ail0xeuzxHZnGFUyEM6V1lvaTG8uvyoM/ts
+http://home-playtv.com:8080/533cuenta000/HJFFZ/53090
 #EXTINF:0 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="2690" group="unsorted", ADN 40 HD
