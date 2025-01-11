@@ -8,7 +8,7 @@ https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/ind
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-http://saypopular.com:25461/datdude25/datdude2525/52735
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal de Las Estrellas -1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="MÉXICO",MX | Canal de Las Estrellas -1
 http://star-flix.net:8080/FranzMimbela/Y4cb8EnYQd/14552
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal de Las Estrellas -2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="MÉXICO",MX | Canal de Las Estrellas -2
@@ -20,7 +20,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://amepz.xyz:2052/ronaldxyz/gz4G4Vssw8PC/63407
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
@@ -56,7 +56,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="2690" group="unsorted", ADN 40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
-http://novared.pro:8080/GuilleEstra/ATes4XYxxU64/63073
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
@@ -74,13 +74,15 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
 https://azt-cin.otteravision.com/azt/cin/cin_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
-https://ythls-v3.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736638754/ei/wqyCZ7mdHcqvlu8PyLnG8Ao/ip/2806%3A105e%3A15%3A5e6d%3Aa9c7%3A7b6a%3A6cca%3Ad361/id/0psOGZ6ypa0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-Mfe8kNL1KXtT75X2J5YSE6saZ70_f5RTrsEDWiOxSsTgB5qgSFvWDHXF_6uiCxt1zZkAFglt3P/spc/9kzgDZIPWi6YUJRjBxA3ST-U6CZo98RdwbVjH7WpmXlyPtCbknVFe3RwzIh98dU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdwh1hPSH85AU6VQlI4WUZB47nKYWxfrvsxL_alQswP0CIDpf2Ot3_xwwxnl99r8v1qt7hY1GA5580ZatTezkSdO4/file/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 13 Puebla
 https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TVBuap
 https://tvenvivo.buap.mx/livestream/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", TV Lobo Plus
+https://tvenvivo.buap.mx/livestream2/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.1 (720p) [Not 24/7]
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.2 (720p) [Not 24/7]
