@@ -137,12 +137,14 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="188" name="SONY" group="PREMIUM LATINO", SONY
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=16&extension=m3u8
-#EXTINF:0 type="stream" channelId="1214" name="SONY MOVIES" group="PREMIUM LATINO", SONY MOVIES
-http://181.78.107.162:49000/play/a03s/index.m3u8
-#EXTINF:0 type="stream" channelId="2625" name="STUDIO UNIVERSAL" group="PREMIUM LATINO", STUDIO UNIVERSAL
-http://38.7.101.90:8000/play/a090/index.m3u8
+
+#EXTINF:0 type="stream" channelId="187" group="unsorted", Universal
+http://181.205.130.194:4000/play/a06f
+#EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", AE Mundo
+http://181.205.130.194:4000/play/a07n
+#EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC HD
+http://181.205.130.194:4000/play/a09j
 #EXTINF:0 type="stream" channelId="-1" name="A&E !E" group="PREMIUM LATINO  HD", A&E !E
 http://38.7.101.90:8000/play/a04m/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AXN FHD" group="PREMIUM LATINO  HD", AXN FHD
@@ -193,6 +195,9 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85171
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png", BitMe
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/442
+
+#EXTINF:0 type="stream" channelId="240" group="unsorted", Animal Planet HD
+http://181.205.130.194:4000/play/a08w
 #EXTINF:0 type="stream" channelId="57", Discovery Channel
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
 #EXTINF:0 type="stream" channelId="4586", Discovery Family
