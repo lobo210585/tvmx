@@ -41,6 +41,8 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
+#EXTINF:-1,distrito comedia
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas " tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/929a9419701211.562ded5592985.jpg" group-title="24/7",24/7 | Cantinflas 
@@ -154,11 +156,11 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
 #EXTINF:0 type="stream" channelId="-1" name="Comedy Central FHD" group="PREMIUM LATINO  HD", Comedy Central FHD
 http://38.7.101.90:8000/play/a0a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="GOLDEN +" group="PREMIUM LATINO  HD", GOLDEN +
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=75&extension=m3u8
+http://200.59.188.3:8000/play/a02d
 #EXTINF:0 type="stream" channelId="-1" name="Golden Edge FHD" group="PREMIUM LATINO  HD", Golden Edge FHD
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=84&extension=m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Golden FHD" group="PREMIUM LATINO  HD", Golden FHD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1624&extension=m3u8
+http://190.60.37.154:45000/play/a01z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Golden Premier HD" group="PREMIUM LATINO  HD", Golden Premier HD
 http://168.181.122.234:8000/play/a01t/index.m3u8
 #EXTINF:-1,HBO
@@ -169,50 +171,50 @@ http://190.60.37.154:45000/play/a052/index.m3u8
 http://190.60.37.154:45000/play/a055/index.m3u8
 #EXTINF:-1,HBO XTREME SD
 http://190.60.37.154:45000/play/a054/index.m3u8
-#EXTINF:0 type="stream" channelId="187" name="UNIVERSAL" group="PREMIUM LATINO", UNIVERSAL
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=118&extension=m3u8
+#EXTINF:0 type="stream" channelId="187" group="unsorted", Universal
+http://181.205.130.194:4000/play/a06f
 #EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount Channel FHD
-http://38.180.133.31:8000/play/a0qq/index.m3u8
-#EXTINF:0 type="stream" channelId="383" name="Space" group="PREMIUM LATINO  HD", Space
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=79&extension=m3u8
-#EXTINF:0 type="stream" channelId="1192" name="SyFy HD." group="PREMIUM LATINO  HD", SyFy HD.
-http://181.205.130.194:4000/play/a06v
-#EXTINF:0 type="stream" channelId="-1" name="TNT FHD" group="PREMIUM LATINO  HD", TNT FHD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=74&extension=m3u8
-#EXTINF:0 type="stream" channelId="-1" name="TNT Series FHD" group="PREMIUM LATINO  HD", TNT Series FHD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=33&extension=m3u8
-#EXTINF:0 type="stream" channelId="2557" name="Warner channel" group="PREMIUM LATINO  HD", Warner channel
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=17&extension=m3u8
-#EXTINF:0 type="stream" channelId="1200" name="Lifetime HD" group="PREMIUM LATINO  HD", Lifetime HD
-http://181.205.130.194:4000/play/a06u
-#EXTINF:0 type="stream" channelId="240" name="Animal Planet HD" group="DOCUMENTALES  LATINOS HD", Animal Planet HD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=61&extension=m3u8
-#EXTINF:0 type="stream" channelId="341" name="Discovery Channel HD" group="DOCUMENTALES  LATINOS HD", Discovery Channel HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
+#EXTINF:0 type="stream" channelId="177", Star Channel
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85146
+#EXTINF:0 type="stream" channelId="64", Cinecanal
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85148
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
+#EXTINF:0 type="stream" channelId="4036", Paramount network
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
+#EXTINF:0 type="stream" channelId="2900", TNT HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85164
+#EXTINF:0 type="stream" channelId="2903", Warner
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85169
+#EXTINF:0 type="stream" channelId="188", Sony Channel
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85171
+#EXTINF:0 type="stream" channelId="383", Space
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png", BitMe
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/442
+#EXTINF:0 type="stream" channelId="57", Discovery Channel
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
-#EXTINF:0 type="stream" channelId="4586" name="Discovery Familia" group="DOCUMENTALES  LATINOS HD", Discovery Familia
+#EXTINF:0 type="stream" channelId="4586", Discovery Family
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
-#EXTINF:0 type="stream" channelId="-1" name="Discovery H&H HD" group="DOCUMENTALES  LATINOS HD", Discovery H&H HD
+#EXTINF:0 type="stream" channelId="2620", Discovery Home & Heath
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13350
-#EXTINF:0 type="stream" channelId="1508" name="Discovery Science HD" group="DOCUMENTALES  LATINOS HD", Discovery Science HD
+#EXTINF:0 type="stream" channelId="59", Discovery investigation
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13353
+#EXTINF:0 type="stream" channelId="58", Discovery Ciencie
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
-#EXTINF:0 type="stream" channelId="2558" name="Discovery Theater HD" group="DOCUMENTALES  LATINOS HD", Discovery Theater HD
+#EXTINF:0 type="stream" channelId="2558", Discovery Theather
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13359
-#EXTINF:0 type="stream" channelId="-1" name="Discovery TLC HD" group="DOCUMENTALES  LATINOS HD", Discovery TLC HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
-#EXTINF:0 type="stream" channelId="-1" name="Discovery Turbo FHD" group="DOCUMENTALES  LATINOS HD", Discovery Turbo FHD
+#EXTINF:0 type="stream" channelId="2840", Discovery Turbo HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13360
-#EXTINF:0 type="stream" channelId="2890" name="Discovery World HD" group="DOCUMENTALES  LATINOS HD", Discovery World HD
-http://190.14.249.39:8000/play/a01o
-#EXTINF:0 type="stream" channelId="1418" name="HGTV HD" group="DOCUMENTALES  LATINOS HD", HGTV HD
+#EXTINF:0 type="stream" channelId="2890", Discovery Wolrd
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13363
+#EXTINF:0 type="stream" channelId="1418", HGTV HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
-#EXTINF:0 type="stream" channelId="1456" name="History Channel HD" group="DOCUMENTALES  LATINOS HD", History Channel HD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=57&extension=m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Hisotory 2 HD" group="DOCUMENTALES  LATINOS HD", Hisotory 2 HD
+#EXTINF:0 type="stream" channelId="1456", History 2 HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
-#EXTINF:0 type="stream" channelId="-1" name="NatGeo Channel FHD" group="DOCUMENTALES  LATINOS HD", NatGeo Channel FHD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=63&extension=m3u8
-#EXTINF:0 type="stream" channelId="207" name="Natgeo HD" group="DOCUMENTALES  LATINOS HD", Natgeo HD
-http://181.205.130.194:4000/play/a08s
+#EXTINF:0 type="stream" channelId="1040", TLC HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
 
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MX HD
 http://home-playtv.com:8080/533cuenta000/HJFFZ/9380
