@@ -46,11 +46,11 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas " tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/929a9419701211.562ded5592985.jpg" group-title="24/7",24/7 | Cantinflas 
 http://home-playtv.com:8080/533cuenta000/HJFFZ/107891
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
-http://home-playtv.com:8080/533cuenta000/HJFFZ/53090
+http://190.60.38.114:1010/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://home-playtv.com:8080/533cuenta000/HJFFZ/53091
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
-http://home-playtv.com:8080/533cuenta000/HJFFZ/53090
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
 #EXTINF:0 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="2690" group="unsorted", ADN 40 HD
@@ -98,7 +98,7 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunkli
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://home-playtv.com:8080/533cuenta000/HJFFZ/211305
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://181.78.107.162:49000/play/a0fz/index.m3u8
+http://181.204.79.182:8202/play/a02c
 #EXTINF:0 type="stream" channelId="-1" name="MEX: NICK JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: NICK JUNIOR VIP SD
 http://181.204.79.182:8202/play/a02c
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Clásico
@@ -161,16 +161,14 @@ http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&passwo
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=1624&extension=m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Golden Premier HD" group="PREMIUM LATINO  HD", Golden Premier HD
 http://168.181.122.234:8000/play/a01t/index.m3u8
-#EXTINF:0 type="stream" channelId="935" group="38.7", HBO 2 HD
-http://38.7.101.90:8000/play/a092/index.m3u8
-#EXTINF:0 type="stream" channelId="2584" group="38.7", HBO Family HD
-http://38.7.101.90:8000/play/a04i/index.m3u8
-#EXTINF:0 type="stream" channelId="1330" group="38.7", HBO HD
-http://38.7.101.90:8000/play/a08w/index.m3u8
-#EXTINF:0 type="stream" channelId="361" group="38.7", HBO POP HD
-http://38.7.101.90:8000/play/a04t/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="38.7", HBO XTREME HD
-http://38.7.101.90:8000/play/a04j/index.m3u8
+#EXTINF:-1,HBO
+http://190.60.37.154:45000/play/a056/index.m3u8
+#EXTINF:-1,HBO 2
+http://190.60.37.154:45000/play/a052/index.m3u8
+#EXTINF:-1,HBO Family
+http://190.60.37.154:45000/play/a055/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://190.60.37.154:45000/play/a054/index.m3u8
 #EXTINF:0 type="stream" channelId="187" name="UNIVERSAL" group="PREMIUM LATINO", UNIVERSAL
 http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=118&extension=m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount Channel FHD
