@@ -10,6 +10,8 @@ http://fastream.xyz:8080/movie/993041162tv/82uc43/268304.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title=" → VOD ESTRENOS 2024 ←",Kung Fu Panda 4 (2024)
 http://fastream.xyz:8080/movie/993041162tv/82uc43/265330.mp4
 
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
+https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX | Azteca Uno" tvg-logo="http://i.ibb.co/nQtT1fZ/aztecauno.png" group-title="MÉXICO",MX | Azteca Uno
 http://home-playtv.com:8080/533cuenta000/HJFFZ/9599
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
