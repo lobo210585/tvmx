@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Moana 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqiHuhjw1WSj9Qr0InJ21AgMrKu.jpg" group-title=" → VOD ESTRENOS 2024 ←",Moana 2 (2024)
+http://fastream.xyz:8080/movie/993041162tv/82uc43/269076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 3: La película (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg" group-title=" → VOD ESTRENOS 2024 ←",Sonic 3: La película (2024)
+http://fastream.xyz:8080/movie/993041162tv/82uc43/268982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Candidato Honesto (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmV5HPkbQuzgPo11Xm70CMQV3iZ.jpg" group-title=" → VOD ESTRENOS 2024 ←",El Candidato Honesto (2024)
+http://fastream.xyz:8080/movie/993041162tv/82uc43/268615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mufasa: El Rey Leon (2024)(CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk4NNdeQrb6zbRSogDSdE6qmjk8.jpg" group-title="→ VOD CAM 2025 ←",Mufasa: El Rey Leon (2024)(CAM)
+http://fastream.xyz:8080/movie/993041162tv/82uc43/268304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title=" → VOD ESTRENOS 2024 ←",Kung Fu Panda 4 (2024)
+http://fastream.xyz:8080/movie/993041162tv/82uc43/265330.mp4
+
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX | Azteca Uno" tvg-logo="http://i.ibb.co/nQtT1fZ/aztecauno.png" group-title="MÉXICO",MX | Azteca Uno
 http://home-playtv.com:8080/533cuenta000/HJFFZ/9599
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
