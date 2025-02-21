@@ -21,21 +21,19 @@ https://xhateaec.com:8800/hls/loboTV/loboTV/5d3fb74c0230c2061fa5dc47dc2b7cf5/ind
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Canal de Las Estrellas -1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="MÉXICO",MX | Canal de Las Estrellas -1
 http://star-flix.net:8080/FranzMimbela/Y4cb8EnYQd/14552
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal de Las Estrellas -1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="MÉXICO",MX | Canal de Las Estrellas -1
+http://home-playtv.com:8080/533cuenta000/HJFFZ/415380
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal de Las Estrellas -2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/511px-Las_Estrellas.svg.png" group-title="MÉXICO",MX | Canal de Las Estrellas -2
 http://home-playtv.com:8080/533cuenta000/HJFFZ/415381
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
+http://home-playtv.com:8080/533cuenta000/HJFFZ/241993
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
-#EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+http://home-playtv.com:8080/533cuenta000/HJFFZ/241991
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
