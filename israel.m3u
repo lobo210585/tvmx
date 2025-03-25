@@ -114,9 +114,7 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/5ba217ea-eb2a-4ba3-9893-3c9988abbad
 #EXTINF:0 type="stream" channelId="-1" name="MEX: TOONCAST VIP SD" group="MX" tvg-country="mx",  MEX: TOONCAST VIP SD
 http://cincotv.org:25461/Bry0410/smt0411/186447
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
-http://38.7.101.90:8000/play/a089/index.m3u8
-#EXTINF:0 type="stream" channelId="40" group="unsorted", CARTOON NETWORK
-http://38.7.101.90:8000/play/a05c/index.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/47d97366-17c7-470a-8a33-7b130cc25016.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
@@ -135,12 +133,13 @@ https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="187" group="unsorted", Universal
 http://181.205.130.194:4000/play/a06f
 #EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner
+http://cincotv.org:25461/Bry0410/smt0411/186457
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", AE Mundo
 http://181.205.130.194:4000/play/a07n
 #EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC HD
-http://181.205.130.194:4000/play/a09j
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/9b56600d-0994-4e8d-8dc5-89d9e778afa3.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="A&E !E" group="PREMIUM LATINO  HD", A&E !E
-http://38.7.101.90:8000/play/a04m/index.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bf4516a-bf76-4af4-8604-2be214c25570.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AXN FHD" group="PREMIUM LATINO  HD", AXN FHD
 http://38.7.101.90:8000/play/a082/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" name="AMC HD" group="PREMIUM LATINO  HD", AMC HD
