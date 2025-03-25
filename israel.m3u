@@ -141,23 +141,22 @@ http://disfruta.net/live/balooshy/Dcw7jXk5T5/9b56600d-0994-4e8d-8dc5-89d9e778afa
 #EXTINF:0 type="stream" channelId="-1" name="A&E !E" group="PREMIUM LATINO  HD", A&E !E
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bf4516a-bf76-4af4-8604-2be214c25570.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="AXN FHD" group="PREMIUM LATINO  HD", AXN FHD
-http://38.7.101.90:8000/play/a082/index.m3u8
+http://190.60.38.114:1010/play/a02e/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" name="AMC HD" group="PREMIUM LATINO  HD", AMC HD
-http://38.7.101.90:8000/play/a058/index.m3u8
+http://190.60.38.114:1010/play/a047/index.m3u8
 #EXTINF:0 type="stream" channelId="284" name="Cinecanal HD" group="PREMIUM LATINO  HD", Cinecanal HD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=73&extension=m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/bbe55299-e3be-4c4d-aef2-d2fe868f9a43.m3u8
 #EXTINF:0 type="stream" channelId="1326" name="CINEMAX" group="PREMIUM LATINO  HD", CINEMAX
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
-#EXTINF:0 type="stream" channelId="-1" name="Comedy Central FHD" group="PREMIUM LATINO  HD", Comedy Central FHD
-http://38.7.101.90:8000/play/a0a1/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" name="GOLDEN +" group="PREMIUM LATINO  HD", GOLDEN +
-http://200.59.188.3:8000/play/a02d
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/45040202-6024-4422-bead-6e1934fad48a.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Golden Edge FHD" group="PREMIUM LATINO  HD", Golden Edge FHD
-http://cdn1host.online:2999/streaming/clients_live.php?username=happy2024&password=newyear&stream=84&extension=m3u8
+http://cincotv.org:25461/Bry0410/smt0411/186490
 #EXTINF:0 type="stream" channelId="-1" name="Golden FHD" group="PREMIUM LATINO  HD", Golden FHD
-http://190.60.37.154:45000/play/a01z/index.m3u8
+http://cincotv.org:25461/Bry0410/smt0411/24301
 #EXTINF:0 type="stream" channelId="-1" name="Golden Premier HD" group="PREMIUM LATINO  HD", Golden Premier HD
-http://168.181.122.234:8000/play/a01t/index.m3u8
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/132d387a-6e84-40da-8230-6de963b844bd.m3u8
 #EXTINF:-1,HBO
 http://190.60.37.154:45000/play/a056/index.m3u8
 #EXTINF:-1,HBO 2
