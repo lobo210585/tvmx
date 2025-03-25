@@ -166,21 +166,20 @@ http://190.60.37.154:45000/play/a055/index.m3u8
 #EXTINF:-1,HBO XTREME SD
 http://190.60.37.154:45000/play/a054/index.m3u8
 #EXTINF:0 type="stream" channelId="187" group="unsorted", Universal
-http://181.205.130.194:4000/play/a06f
+http://38.41.8.1:8000/play/a04r
 #EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount Channel FHD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9707
+#EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount + FHD
+http://cincotv.org:25461/Bry0410/smt0411/185034
 #EXTINF:0 type="stream" channelId="177", Star Channel
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85146
 #EXTINF:0 type="stream" channelId="64", Cinecanal
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85148
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/bbe55299-e3be-4c4d-aef2-d2fe868f9a43.m3u8
 #EXTINF:0 type="stream" channelId="1326", Cinemax
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
-#EXTINF:0 type="stream" channelId="4036", Paramount network
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
 #EXTINF:0 type="stream" channelId="2900", TNT HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85164
-#EXTINF:0 type="stream" channelId="2903", Warner
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85169
+http://disfruta.net/live/balooshy/Dcw7jXk5T5/74bb2073-125f-46bd-bb11-56078f73c794.m3u8
+
 #EXTINF:0 type="stream" channelId="188", Sony Channel
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85171
 #EXTINF:0 type="stream" channelId="383", Space
@@ -189,7 +188,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/442
 
 #EXTINF:0 type="stream" channelId="240" group="unsorted", Animal Planet HD
-http://181.205.130.194:4000/play/a08w
+http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/229242
 #EXTINF:0 type="stream" channelId="57", Discovery Channel
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
 #EXTINF:0 type="stream" channelId="4586", Discovery Family
@@ -203,40 +202,19 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
 #EXTINF:0 type="stream" channelId="2558", Discovery Theather
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13359
 #EXTINF:0 type="stream" channelId="2840", Discovery Turbo HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13360
+http://177.93.46.163:8000/play/a02c
 #EXTINF:0 type="stream" channelId="2890", Discovery Wolrd
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13363
 #EXTINF:0 type="stream" channelId="1418", HGTV HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
+#EXTINF:0 type="stream" channelId="1456", History HD
+http://190.0.241.181:8000/play/a0ay/index.m3u8
 #EXTINF:0 type="stream" channelId="1456", History 2 HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
 #EXTINF:0 type="stream" channelId="1040", TLC HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
 
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MX HD
-http://home-playtv.com:8080/533cuenta000/HJFFZ/9380
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="DEP | ESPN 1 MX SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MX SD
-http://home-playtv.com:8080/533cuenta000/HJFFZ/185154
-#EXTINF:-1 tvg-id="espn.2.ar" tvg-name="DEP | ESPN 2 AR " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 AR 
-http://home-playtv.com:8080/533cuenta000/HJFFZ/185666
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="DEP | ESPN 2 MX HD " tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="DEPORTES",DEP | ESPN 2 MX HD 
-http://home-playtv.com:8080/533cuenta000/HJFFZ/36391
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="DEP | ESPN 3  MX " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",DEP | ESPN 3  MX 
-http://home-playtv.com:8080/533cuenta000/HJFFZ/9530
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="DEP | ESPN 3 MX HD  ►℗" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",DEP | ESPN 3 MX HD  ►℗
-http://home-playtv.com:8080/533cuenta000/HJFFZ/186774
-#EXTINF:-1 tvg-id="espn.deportes.mx" tvg-name="DEP | ESPN Deportes SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN Deportes SD
-http://home-playtv.com:8080/533cuenta000/HJFFZ/54094
-#EXTINF:-1 tvg-id="espn.extra.cr" tvg-name="DEP | ESPN Extra  MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES",DEP | ESPN Extra  MX 
-http://home-playtv.com:8080/533cuenta000/HJFFZ/21229
-#EXTINF:-1 tvg-id="fox.deportes.en.espanol.mx" tvg-name="DEP | FOX Deportes " tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="DEPORTES",DEP | FOX Deportes 
-http://home-playtv.com:8080/533cuenta000/HJFFZ/36396
-#EXTINF:-1 tvg-id="fox.sports.2.mexico.mx" tvg-name="DEP | FOX Sports 2 MEX HD" tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX Sports 2 MEX HD
-http://home-playtv.com:8080/533cuenta000/HJFFZ/19495
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="DEP | FOX Sports 3 MX HD ►℗" tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES",DEP | FOX Sports 3 MX HD ►℗
-http://home-playtv.com:8080/533cuenta000/HJFFZ/19496
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="DEP | FOX Sports 3 HD MEX " tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES",DEP | FOX Sports 3 HD MEX 
-http://home-playtv.com:8080/533cuenta000/HJFFZ/9538
+
 
 
 
