@@ -40,6 +40,8 @@ https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
 #EXTINF:-1,distrito comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
+#EXTINF:-1,distrito comedia
+http://test.vipzatiy.xyz:8080/VIP019551715019945007/4b156cf97d44/5149
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas " tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/929a9419701211.562ded5592985.jpg" group-title="24/7",24/7 | Cantinflas 
