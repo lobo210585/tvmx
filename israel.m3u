@@ -6,6 +6,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO
 https://xhateaec.com:8800/hls/loboTV/loboTV/5d3fb74c0230c2061fa5dc47dc2b7cf5/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
+https://ecuazona.live:8443/play/lcaljOA12597jz4QNAEHpSbKc4fZvSarnF7uPVIdVSBKTJ-yIb4B6oaJAOdRFJ1n/ts
+#EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10938
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
@@ -40,6 +42,8 @@ https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
 #EXTINF:-1,distrito comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
+#EXTINF:-1,distrito comedia
+https://ecuazona.live:8443/play/lcaljOA12597jz4QNAEHpS3QUWUZt59a4GG4UCHLYER0Lf1wZMn3--aBoF7KX7_G/ts
 #EXTINF:-1,distrito comedia
 http://test.vipzatiy.xyz:8080/VIP019551715019945007/4b156cf97d44/5149
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
