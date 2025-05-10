@@ -16,6 +16,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10938
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+#EXTINF:0 type="stream" channelId="3127" group="unsorted", Maussan tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746862499/ei/Q60eaNjQBb6mlu8PzI330AI/ip/2806%3A105e%3A15%3A49d8%3Aecaa%3A1842%3A3360%3Aeb0/id/PpUj3j9Sm9U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAbPvKQ0YB299r3Uvrtno1zsOgSikzi9QXmUGafWdz7MUtI6xPJvq6DEwjeCa0_2ZO81dQ/spc/wk1kZhak2qn_FpJoEyna8h0BOQ9VDQjp_RBYRVqDTzA0cUnT3X8_h7pGPO8Ot9c7sg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgd6C7dDwZTaDlPFZGTcgAOADyWDSz8EmOQScFwkXZcFACIQDFmaT17hd4I4itb4dqhAdHkf_biY6mTE52hFUpvj9J_w%3D%3D/file/index.m3u8
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
