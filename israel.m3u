@@ -45,6 +45,8 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
+http://45.68.35.218:4001/play/a00f/index.m3u8
+#EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
 #EXTINF:-1,distrito comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
