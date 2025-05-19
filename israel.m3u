@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Robot Salvaje 2024 Pelicula completa Español Latino
-https://cdnst68.tokyvideo.com/videos/615/615440/mp4/0adc09d77b23ceb48898de3fe10803fb59679d90ac4f6bd33c20310a7060a126.mp4?secure=TNEZ8qn2L8qzG01RNdCkUg%3D%3D%2C1745635800
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Las Aventuras de Dogman
-https://cdnst73.tokyvideo.com/videos/693/693658/mp4/572672ac8024f48b3dfd54f4b6a450d60120f1f9e973c33805ad33cca7c606d0.mp4?secure=nVQOMVKQDXg1QOAxgO2rmA%3D%3D%2C1745374309
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", cantinflas
+http://170.39.192.130:2095/movie/56988141715playtv/290324play/7233.mp4
+
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
 https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
