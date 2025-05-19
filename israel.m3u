@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", cantinflas
-http://170.39.192.130:2095/movie/56988141715playtv/290324play/7233.mp4
+http://170.39.192.130:2095/movie/56988141715playtv/290324play/7240.avi
+
 
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
 https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd
