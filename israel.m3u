@@ -58,6 +58,13 @@ http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/244524
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/51a6d5d8-727e-4b6e-99e6-3ed7743bf426.m3u8
 
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (1)
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=63155&extension=ts
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (2)
+http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=117814&extension=ts
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (3)
+http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385231.m3u8
+
 
 #EXTINF:0 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
