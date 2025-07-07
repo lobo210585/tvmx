@@ -14,10 +14,14 @@ https://ecuazona.live:8443/play/lcaljOA12597jz4QNAEHpSbKc4fZvSarnF7uPVIdVSBKTJ-y
 #EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10938
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25514
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas -2 hrs" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas -2 hrs
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/120766
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas Opc 2" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas Opc 2
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38847
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:0 type="stream" channelId="3127" group="unsorted", Maussan tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746862499/ei/Q60eaNjQBb6mlu8PzI330AI/ip/2806%3A105e%3A15%3A49d8%3Aecaa%3A1842%3A3360%3Aeb0/id/PpUj3j9Sm9U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAbPvKQ0YB299r3Uvrtno1zsOgSikzi9QXmUGafWdz7MUtI6xPJvq6DEwjeCa0_2ZO81dQ/spc/wk1kZhak2qn_FpJoEyna8h0BOQ9VDQjp_RBYRVqDTzA0cUnT3X8_h7pGPO8Ot9c7sg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgd6C7dDwZTaDlPFZGTcgAOADyWDSz8EmOQScFwkXZcFACIQDFmaT17hd4I4itb4dqhAdHkf_biY6mTE52hFUpvj9J_w%3D%3D/file/index.m3u8
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
@@ -25,19 +29,19 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 https://tvportalmx.com:3796/live/canal5live.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd&k=6e5ee266b112e58a0e27e4384b03ed76&id=578f77c2e0fb7b31b1676b75b57fe922
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/152932
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Nousiptv", MX - ONCE TV NIÑOS Y NIÑAS
-http://181.78.105.146:2000/play/a04f/index.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/187620
 #EXTINF:0 type="stream" channelId="-1", Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:0 type="stream" channelId="-1" logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-http://home-playtv.com:8080/533cuenta000/HJFFZ/415388
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/81641
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
@@ -45,25 +49,16 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://45.68.35.218:4001/play/a00f/index.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
-#EXTINF:-1,distrito comedia
-http://45.5.117.182:8000/play/ihf9/index.m3u8
-#EXTINF:-1,distrito comedia
-https://ecuazona.live:8443/play/lcaljOA12597jz4QNAEHpS3QUWUZt59a4GG4UCHLYER0Lf1wZMn3--aBoF7KX7_G/ts
-#EXTINF:-1,distrito comedia
-http://test.vipzatiy.xyz:8080/VIP019551715019945007/4b156cf97d44/5149
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60146
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas " tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/929a9419701211.562ded5592985.jpg" group-title="24/7",24/7 | Cantinflas 
-http://home-playtv.com:8080/533cuenta000/HJFFZ/107891
+
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
-http://190.60.38.114:1010/play/a08f/index.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/244524
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/51a6d5d8-727e-4b6e-99e6-3ed7743bf426.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Classico LAM
-https://cloudvideo.servers10.com:8081/8108/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="2690" group="unsorted", ADN 40 HD
@@ -71,7 +66,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
-https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
+https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 Puebla
