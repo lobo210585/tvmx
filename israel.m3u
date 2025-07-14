@@ -3,9 +3,6 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO
 https://micanal.ovh/livestreams/223.FDIDOGXYZQXO.m3u8
-#EXTINF:0 type="stream" channelId="1954" group="unsorted", Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10938
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25514
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas -2 hrs" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas -2 hrs
