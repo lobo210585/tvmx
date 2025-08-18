@@ -103,9 +103,9 @@ https://5d0d1d7a6be9e.streamlock.net/setzacatlan/radio/playlist.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://200.59.188.3:8000/play/a044
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25571
 #EXTINF:0 type="stream" channelId="-1" name="MEX: NICK JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: NICK JUNIOR VIP SD
-http://177.93.46.163:8000/play/a02b
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60876
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
@@ -113,17 +113,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe
 #EXTINF:0 type="stream" channelId="-1" name="INF• DREAMWORKS (HD) »1«" group="→ INFANTILES ←" logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png", INF• DREAMWORKS (HD) »1«
 http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec674ff9-6c4a-457b-9192-a9b7f85be712.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY CHANNEL VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY CHANNEL VIP SD
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec674ff9-6c4a-457b-9192-a9b7f85be712.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38925
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY JUNIOR VIP SD
-http://190.60.38.114:1010/play/a08r/index.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38924
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/68aedbef-8931-430e-ab25-c3f182a43868.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38930
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/5ba217ea-eb2a-4ba3-9893-3c9988abbad2.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/303966
 #EXTINF:0 type="stream" channelId="-1" name="MEX: TOONCAST VIP SD" group="MX" tvg-country="mx",  MEX: TOONCAST VIP SD
-http://cincotv.org:25461/Bry0410/smt0411/186447
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25572
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/47d97366-17c7-470a-8a33-7b130cc25016.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25496
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
@@ -139,10 +139,22 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="187" group="unsorted", Universal
-http://181.205.130.194:4000/play/a06f
+#EXTINF:-1 tvg-id="I613.29017.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://i.postimg.cc/q7JVkGQt/Universal-Channel.png" group-title="CINE-PREMIUM",Universal Channel
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50135
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Cinema" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCINEMA--.png" group-title="CINE-PREMIUM",Universal Cinema
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62959
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Comedy" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCOMEDY--.png" group-title="CINE-PREMIUM",Universal Comedy
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62955
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Crime" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCRIME--.png" group-title="CINE-PREMIUM",Universal Crime
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62956
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Premiere Este" tvg-logo="http://51.222.27.42/iconox/UNIVERSALPREMIEREE--.png" group-title="CINE-PREMIUM",Universal Premiere Este
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62957
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Reality" tvg-logo="http://51.222.27.42/iconox/UNIVERSALREALITY--.png" group-title="CINE-PREMIUM",Universal Reality
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62958
+#EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="Universal Tv HD" tvg-logo="http://51.222.27.42/iconox/UniversalChannel.png" group-title="CINE-PREMIUM",Universal Tv HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25555
 #EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner
-http://cincotv.org:25461/Bry0410/smt0411/186457
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25500
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", AE Mundo
 http://181.205.130.194:4000/play/a07n
 #EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC HD
