@@ -158,80 +158,113 @@ http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25500
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", AE Mundo
 http://181.205.130.194:4000/play/a07n
 #EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC HD
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/9b56600d-0994-4e8d-8dc5-89d9e778afa3.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25557
 #EXTINF:0 type="stream" channelId="-1" name="A&E !E" group="PREMIUM LATINO  HD", A&E !E
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/7bf4516a-bf76-4af4-8604-2be214c25570.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25502
 #EXTINF:0 type="stream" channelId="-1" name="AXN FHD" group="PREMIUM LATINO  HD", AXN FHD
 http://190.60.38.114:1010/play/a02e/index.m3u8
-#EXTINF:0 type="stream" channelId="2501" name="AMC HD" group="PREMIUM LATINO  HD", AMC HD
-http://190.60.38.114:1010/play/a047/index.m3u8
 #EXTINF:0 type="stream" channelId="284" name="Cinecanal HD" group="PREMIUM LATINO  HD", Cinecanal HD
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/bbe55299-e3be-4c4d-aef2-d2fe868f9a43.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46623
 #EXTINF:0 type="stream" channelId="1326" name="CINEMAX" group="PREMIUM LATINO  HD", CINEMAX
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25599
 
-#EXTINF:0 type="stream" channelId="-1" name="GOLDEN +" group="PREMIUM LATINO  HD", GOLDEN +
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/45040202-6024-4422-bead-6e1934fad48a.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Golden Edge FHD" group="PREMIUM LATINO  HD", Golden Edge FHD
-http://cincotv.org:25461/Bry0410/smt0411/186490
-#EXTINF:0 type="stream" channelId="-1" name="Golden FHD" group="PREMIUM LATINO  HD", Golden FHD
-http://cincotv.org:25461/Bry0410/smt0411/24301
-#EXTINF:0 type="stream" channelId="-1" name="Golden Premier HD" group="PREMIUM LATINO  HD", Golden Premier HD
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/132d387a-6e84-40da-8230-6de963b844bd.m3u8
-#EXTINF:-1,HBO
-http://190.60.37.154:45000/play/a056/index.m3u8
-#EXTINF:-1,HBO 2
-http://190.60.37.154:45000/play/a052/index.m3u8
-#EXTINF:-1,HBO Family
-http://190.60.37.154:45000/play/a055/index.m3u8
-#EXTINF:-1,HBO XTREME SD
-http://190.60.37.154:45000/play/a054/index.m3u8
-#EXTINF:0 type="stream" channelId="187" group="unsorted", Universal
-http://38.41.8.1:8000/play/a04r
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden" tvg-logo="http://51.222.27.42/iconox/golden.png" group-title="CINE-PREMIUM",Golden
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25510
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Edge" tvg-logo="http://51.222.27.42/iconox/GoldenEdge.png" group-title="CINE-PREMIUM",Golden Edge
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25511
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Edge HD" tvg-logo="http://51.222.27.42/iconox/GoldenEdge.png" group-title="CINE-PREMIUM",Golden Edge HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38895
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden HD" tvg-logo="http://51.222.27.42/iconox/golden.png" group-title="CINE-PREMIUM",Golden HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38894
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Premier HD" tvg-logo="http://51.222.27.42/iconox/goldenpremier.png" group-title="CINE-PREMIUM",Golden Premier HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25579
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO" tvg-logo="http://51.222.27.42/iconox/hbo.png" group-title="CINE-PREMIUM",HBO
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46625
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="http://51.222.27.42/iconox/hbo2.png" group-title="CINE-PREMIUM",HBO 2
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46626
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/Hk3vt14x/hbo2.png" group-title="CINE-PREMIUM",HBO 2 HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25592
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2-US" tvg-logo="https://i.postimg.cc/Hk3vt14x/hbo2.png" group-title="USA",HBO 2-US
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60736
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Family HD" tvg-logo="http://51.222.27.42/iconox/hbofamily.png" group-title="CINE-PREMIUM",HBO Family HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46620
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY-US" tvg-logo="http://51.222.27.42/iconox/usa/hbo_family.png" group-title="USA",HBO FAMILY-US
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60738
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO HD" tvg-logo="http://51.222.27.42/iconox/hbo.png" group-title="CINE-PREMIUM",HBO HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25591
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Mundi" tvg-logo="http://51.222.27.42/iconox/HBOmundo.png" group-title="CINE-PREMIUM",HBO Mundi
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46621
+#EXTINF:-1 tvg-id="I927.68301.schedulesdirect.org" tvg-name="HBO pop" tvg-logo="http://51.222.27.42/iconox/HBOpop.png" group-title="CINE-PREMIUM",HBO pop
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25597
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Pop HD" tvg-logo="http://51.222.27.42/iconox/HBOpop.png" group-title="CINE-PREMIUM",HBO Pop HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46622
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Signature" tvg-logo="http://51.222.27.42/iconox/hbosignature.png" group-title="CINE-PREMIUM",HBO Signature
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46628
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Signature HD" tvg-logo="http://51.222.27.42/iconox/hbosignature.png" group-title="CINE-PREMIUM",HBO Signature HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25596
+#EXTINF:-1 tvg-id="I613.29017.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://i.postimg.cc/q7JVkGQt/Universal-Channel.png" group-title="CINE-PREMIUM",Universal Channel
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50135
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Cinema" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCINEMA--.png" group-title="CINE-PREMIUM",Universal Cinema
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62959
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Comedy" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCOMEDY--.png" group-title="CINE-PREMIUM",Universal Comedy
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62955
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Crime" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCRIME--.png" group-title="CINE-PREMIUM",Universal Crime
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62956
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Premiere Este" tvg-logo="http://51.222.27.42/iconox/UNIVERSALPREMIEREE--.png" group-title="CINE-PREMIUM",Universal Premiere Este
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62957
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Reality" tvg-logo="http://51.222.27.42/iconox/UNIVERSALREALITY--.png" group-title="CINE-PREMIUM",Universal Reality
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62958
+#EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="Universal Tv HD" tvg-logo="http://51.222.27.42/iconox/UniversalChannel.png" group-title="CINE-PREMIUM",Universal Tv HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25555
+
 #EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount Channel FHD
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9707
-#EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount + FHD
-http://cincotv.org:25461/Bry0410/smt0411/185034
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46619
 #EXTINF:0 type="stream" channelId="177", Star Channel
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85146
-#EXTINF:0 type="stream" channelId="64", Cinecanal
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/bbe55299-e3be-4c4d-aef2-d2fe868f9a43.m3u8
-#EXTINF:0 type="stream" channelId="1326", Cinemax
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
-#EXTINF:0 type="stream" channelId="2900", TNT HD
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/74bb2073-125f-46bd-bb11-56078f73c794.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25499
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TNT" tvg-logo="http://51.222.27.42/iconox/tnt.png" group-title="CINE-PREMIUM",TNT
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25563
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TNT HD" tvg-logo="http://51.222.27.42/iconox/tnt.png" group-title="CINE-PREMIUM",TNT HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38876
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Tnt Series" tvg-logo="http://51.222.27.42/iconox/tntseries.png" group-title="CINE-PREMIUM",Tnt Series
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50056
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/0ypP5js4/tntseries.png" group-title="CINE-PREMIUM",TNT Series HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25564
 
-#EXTINF:0 type="stream" channelId="188", Sony Channel
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85171
-#EXTINF:0 type="stream" channelId="383", Space
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Sony HD" tvg-logo="http://51.222.27.42/iconox/sony.png" group-title="CINE-PREMIUM",Sony HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38877
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="http://51.222.27.42/iconox/SONYMOVIES--.png" group-title="CINE-PREMIUM",Sony Movies
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/187622
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Space" tvg-logo="http://51.222.27.42/iconox/space.png" group-title="CINE-PREMIUM",Space
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50133
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Space HD" tvg-logo="http://51.222.27.42/iconox/space.png" group-title="CINE-PREMIUM",Space HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25582
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png", BitMe
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/442
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25556
 
-#EXTINF:0 type="stream" channelId="240" group="unsorted", Animal Planet HD
-http://home-playtv.com:8080/RayGL63501/jqDzGNAQ2Z/229242
-#EXTINF:0 type="stream" channelId="57", Discovery Channel
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Animal Planet" tvg-logo="http://51.222.27.42/iconox/animalplanet.png" group-title="CULTURA",Animal Planet
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25614
+#EXTINF:-1 tvg-id="I881.96307.schedulesdirect.org" tvg-name="Discovery Channel" tvg-logo="http://51.222.27.42/iconox/discoverychannel.png" group-title="CULTURA",Discovery Channel
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25605
 #EXTINF:0 type="stream" channelId="4586", Discovery Family
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60873
 #EXTINF:0 type="stream" channelId="2620", Discovery Home & Heath
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13350
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38884
 #EXTINF:0 type="stream" channelId="59", Discovery investigation
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13353
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38882
 #EXTINF:0 type="stream" channelId="58", Discovery Ciencie
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38883
 #EXTINF:0 type="stream" channelId="2558", Discovery Theather
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13359
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25610
 #EXTINF:0 type="stream" channelId="2840", Discovery Turbo HD
-http://177.93.46.163:8000/play/a02c
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38886
 #EXTINF:0 type="stream" channelId="2890", Discovery Wolrd
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13363
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50084
 #EXTINF:0 type="stream" channelId="1418", HGTV HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
-#EXTINF:0 type="stream" channelId="1456", History HD
-http://190.0.241.181:8000/play/a0ay/index.m3u8
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/370017
+#EXTINF:-1 tvg-id="I269.57708.zap2it.com" tvg-name="History HD" tvg-logo="http://51.222.27.42/iconox/history.png" group-title="CULTURA",History HD
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38887
 #EXTINF:0 type="stream" channelId="1456", History 2 HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25613
 #EXTINF:0 type="stream" channelId="1040", TLC HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
 
