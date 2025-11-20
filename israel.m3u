@@ -10,7 +10,9 @@ http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/120766
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas Opc 2" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas Opc 2
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38847
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+http://fivetv.org:25461/PatricioMoreno45/10102025/186819
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO INTERNACIONAL" tvg-logo="https://i.ibb.co/Zz1kSwG/Telemundo-internacional.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO INTERNACIONAL
+http://fivetv.org:25461/PatricioMoreno45/10102025/186429
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
