@@ -9,6 +9,8 @@ http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25514
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/120766
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas Opc 2" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas Opc 2
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38847
+#EXTINF:-1 tvg-id="I406.77606.zap2it.com" tvg-name="Telemundo Internacional" tvg-logo="http://51.222.27.42/iconox/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo Internacional
+http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50111
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://fivetv.org:25461/PatricioMoreno45/10102025/186819
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO INTERNACIONAL" tvg-logo="https://i.ibb.co/Zz1kSwG/Telemundo-internacional.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO INTERNACIONAL
