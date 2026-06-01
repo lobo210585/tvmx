@@ -1,32 +1,30 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+http://200.115.120.1:8000/play/ca015/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO
 https://micanal.ovh/livestreams/223.FDIDOGXYZQXO.m3u8
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas
-http://45.186.105.185:8000/play/a05n/index.m3u8?hls
+http://45.186.105.185:8000/play/a05n/index.m3u8?hls  
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
-http://fivetv.org:25461/PatricioMoreno45/10102025/186819
+http://45.172.92.111:8000/play/a002/index.m3u8u?hls
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+http://45.172.92.111:8000/play/a00c/index.m3u8u?hls
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://200.115.120.1:8000/play/ca0105/index.m3u8?hls
-#EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/152932
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://45.186.105.185:8000/play/a05q/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Nousiptv", MX - ONCE TV NIÑOS Y NIÑAS
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/187620
 #EXTINF:0 type="stream" channelId="-1", Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+http://45.186.105.185:8000/play/a07y/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/81641
+http://45.172.92.111:8000/play/a00e/index.m3u8u?hls
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
