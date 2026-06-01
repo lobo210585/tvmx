@@ -7,8 +7,6 @@ https://micanal.ovh/livestreams/223.FDIDOGXYZQXO.m3u8
 http://45.186.105.185:8000/play/a05n/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://fivetv.org:25461/PatricioMoreno45/10102025/186819
-#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO INTERNACIONAL" tvg-logo="https://i.ibb.co/Zz1kSwG/Telemundo-internacional.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO INTERNACIONAL
-http://fivetv.org:25461/DiegoCajamarca/514825/186428
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
