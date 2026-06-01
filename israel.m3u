@@ -4,13 +4,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO
 https://micanal.ovh/livestreams/223.FDIDOGXYZQXO.m3u8
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25514
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas -2 hrs" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas -2 hrs
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/120766
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas Opc 2" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas Opc 2
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38847
-#EXTINF:-1 tvg-id="I406.77606.zap2it.com" tvg-name="Telemundo Internacional" tvg-logo="http://51.222.27.42/iconox/Telemundo.png" group-title="ENTRETENIMIENTO",Telemundo Internacional
-http://fivetv.org:25461/DiegoCajamarca/514825/186428
+http://45.186.105.185:8000/play/a05n/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="3127" group="unsorted", IMAGEN TV
 http://fivetv.org:25461/PatricioMoreno45/10102025/186819
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO INTERNACIONAL" tvg-logo="https://i.ibb.co/Zz1kSwG/Telemundo-internacional.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO INTERNACIONAL
@@ -20,7 +14,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-https://tvportalmx.com:3796/live/canal5live.m3u8
+http://200.115.120.1:8000/play/ca0105/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/152932
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
@@ -115,7 +109,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Jr. Club
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" name="INF• DREAMWORKS (HD) »1«" group="→ INFANTILES ←" logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png", INF• DREAMWORKS (HD) »1«
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/ec674ff9-6c4a-457b-9192-a9b7f85be712.m3u8
+http://200.115.120.1:8000/play/ca005/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY CHANNEL VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY CHANNEL VIP SD
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38925
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY JUNIOR VIP SD
