@@ -81,9 +81,9 @@ https://tvenvivo.buap.mx/livestream/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TV Lobo Plus
 https://tvenvivo.buap.mx/livestream2/stream/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.1 (720p) [Not 24/7]
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.2 (720p) [Not 24/7]
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", HUAUCHINANGO RADIO SICOM
 https://5d0d1d7a6be9e.streamlock.net/SHOUTcast/sethuachi.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", PUEBLA RADIO SICOM
