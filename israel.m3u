@@ -21,8 +21,6 @@ http://45.186.105.185:8000/play/a05q/index.m3u8?hls
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/187620
 #EXTINF:0 type="stream" channelId="-1", Deportes
 http://45.186.105.185:8000/play/a07y/index.m3u8?hls
-#EXTINF:0 type="stream" channelId="-1" logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png", TV GRATIS 8.2
-https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
 http://45.172.92.111:8000/play/a00e/index.m3u8u?hls
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
@@ -30,12 +28,11 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
-https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MzM6NTUgQU0maGFzaF92YWx1ZT1XNVNIUkpNQ2lRYXdySTFzMGdpdFdRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60146
+http://38.210.105.10:8000/play/a04u/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
-https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-
+https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgNTowMzozNiBBTSZoYXNoX3ZhbHVlPUlrM0ttZGtON2hNMkRPVHM5aTE5cGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9&DVR
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/244524
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
