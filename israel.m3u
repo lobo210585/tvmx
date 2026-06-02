@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
-http://200.115.120.1:8000/play/ca015/index.m3u8?hls
+http://67.220.71.35:8880/gkhUYeNPRHwF/S6LhmbeZMbCb/448435
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO
 https://micanal.ovh/livestreams/223.FDIDOGXYZQXO.m3u8
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas
