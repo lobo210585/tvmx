@@ -10,7 +10,7 @@ http://45.172.92.111:8000/play/a002/index.m3u8u?hls
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
-http://45.172.92.111:8000/play/a00c/index.m3u8u?hls
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109054
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://200.115.120.1:8000/play/ca0105/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
@@ -18,7 +18,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
 http://45.186.105.185:8000/play/a05q/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Nousiptv", MX - ONCE TV NIÑOS Y NIÑAS
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/187620
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/24187
 #EXTINF:0 type="stream" channelId="-1", Deportes
 http://45.186.105.185:8000/play/a07y/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
@@ -34,9 +34,9 @@ http://38.210.105.10:8000/play/a04u/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgNTowMzozNiBBTSZoYXNoX3ZhbHVlPUlrM0ttZGtON2hNMkRPVHM5aTE5cGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9&DVR
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/31044
+http://200.115.120.1:8000/play/ca030/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109986
+http://200.115.120.1:8000/play/ca030/index.m3u8?hls
 
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (1)
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
