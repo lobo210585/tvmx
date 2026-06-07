@@ -26,7 +26,7 @@ http://45.172.92.111:8000/play/a00e/index.m3u8u?hls
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/24187
 #EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
@@ -34,16 +34,15 @@ http://38.210.105.10:8000/play/a04u/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgNTowMzozNiBBTSZoYXNoX3ZhbHVlPUlrM0ttZGtON2hNMkRPVHM5aTE5cGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9&DVR
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/244524
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/31044
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://disfruta.net/live/balooshy/Dcw7jXk5T5/51a6d5d8-727e-4b6e-99e6-3ed7743bf426.m3u8
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109986
 
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (1)
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (2)
-http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=117814&extension=ts
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (3)
-http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385231.m3u8
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/797174
+
 
 
 #EXTINF:0 type="stream" channelId="3790" group="unsorted", TELEFORMULA SD
@@ -51,7 +50,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="2690" group="unsorted", ADN 40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
-https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/31076
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
@@ -67,7 +66,7 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
-http://home-playtv.com:8080/533cuenta000/HJFFZ/9492
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109787
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Di+TV
 https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-95aa6fb6-67ee-45c5-b42c-07ca4d4d6096/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
@@ -84,17 +83,11 @@ https://tvenvivo.buap.mx/livestream2/stream/index.m3u8
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", SICOM Canal 26.2 (720p) [Not 24/7]
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", HUAUCHINANGO RADIO SICOM
-https://5d0d1d7a6be9e.streamlock.net/SHOUTcast/sethuachi.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", PUEBLA RADIO SICOM
-https://5d0d1d7a6be9e.streamlock.net/setpuebla/radio/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", ZACATLAN RADIO SICOM
-https://5d0d1d7a6be9e.streamlock.net/setzacatlan/radio/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ULTRA RADIO PUEBLA
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25571
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/55923
 #EXTINF:0 type="stream" channelId="-1" name="MEX: NICK JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: NICK JUNIOR VIP SD
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60876
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Clásico
@@ -104,17 +97,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe
 #EXTINF:0 type="stream" channelId="-1" name="INF• DREAMWORKS (HD) »1«" group="→ INFANTILES ←" logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png", INF• DREAMWORKS (HD) »1«
 http://200.115.120.1:8000/play/ca005/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY CHANNEL VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY CHANNEL VIP SD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38925
+http://190.14.10.19:16000/play/a06z/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY JUNIOR VIP SD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38924
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/31097
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38930
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/303966
+http://190.14.10.19:16000/play/a02c/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" name="MEX: TOONCAST VIP SD" group="MX" tvg-country="mx",  MEX: TOONCAST VIP SD
 http://magiz.net:8080/live/juarez/12345678/217.ts
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25496
+http://190.14.10.19:16000/play/a03l/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
@@ -131,133 +124,102 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I613.29017.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://i.postimg.cc/q7JVkGQt/Universal-Channel.png" group-title="CINE-PREMIUM",Universal Channel
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50135
+http://200.115.120.1:8000/play/ca142/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Cinema" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCINEMA--.png" group-title="CINE-PREMIUM",Universal Cinema
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62959
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/191230
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Comedy" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCOMEDY--.png" group-title="CINE-PREMIUM",Universal Comedy
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62955
+http://45.186.105.185:8000/play/a0i5/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Crime" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCRIME--.png" group-title="CINE-PREMIUM",Universal Crime
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62956
+http://45.186.105.185:8000/play/a0i4/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Premiere Este" tvg-logo="http://51.222.27.42/iconox/UNIVERSALPREMIEREE--.png" group-title="CINE-PREMIUM",Universal Premiere Este
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62957
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/287615
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Reality" tvg-logo="http://51.222.27.42/iconox/UNIVERSALREALITY--.png" group-title="CINE-PREMIUM",Universal Reality
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62958
+http://45.186.105.185:8000/play/a0i3/index.m3u8?hls
 #EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="Universal Tv HD" tvg-logo="http://51.222.27.42/iconox/UniversalChannel.png" group-title="CINE-PREMIUM",Universal Tv HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25555
+http://45.186.105.185:8000/play/a0ih/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25500
+http://200.115.120.1:8000/play/ca072/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", AE Mundo
-http://181.205.130.194:4000/play/a07n
+http://190.14.10.19:16000/play/a09k/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25557
-#EXTINF:0 type="stream" channelId="-1" name="A&E !E" group="PREMIUM LATINO  HD", A&E !E
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25502
-#EXTINF:0 type="stream" channelId="-1" name="AXN FHD" group="PREMIUM LATINO  HD", AXN FHD
-http://190.60.38.114:1010/play/a02e/index.m3u8
-#EXTINF:0 type="stream" channelId="284" name="Cinecanal HD" group="PREMIUM LATINO  HD", Cinecanal HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46623
-#EXTINF:0 type="stream" channelId="1326" name="CINEMAX" group="PREMIUM LATINO  HD", CINEMAX
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25599
+http://200.115.120.1:8000/play/ca036/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden" tvg-logo="http://51.222.27.42/iconox/golden.png" group-title="CINE-PREMIUM",Golden
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25510
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Edge" tvg-logo="http://51.222.27.42/iconox/GoldenEdge.png" group-title="CINE-PREMIUM",Golden Edge
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25511
+http://200.115.120.1:8000/play/ca037/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Edge HD" tvg-logo="http://51.222.27.42/iconox/GoldenEdge.png" group-title="CINE-PREMIUM",Golden Edge HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38895
+http://200.115.120.1:8000/play/ca037/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden HD" tvg-logo="http://51.222.27.42/iconox/golden.png" group-title="CINE-PREMIUM",Golden HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38894
+http://190.14.10.19:16000/play/a08q/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Premier HD" tvg-logo="http://51.222.27.42/iconox/goldenpremier.png" group-title="CINE-PREMIUM",Golden Premier HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25579
+http://200.115.120.1:8000/play/ca133/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO" tvg-logo="http://51.222.27.42/iconox/hbo.png" group-title="CINE-PREMIUM",HBO
 http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46625
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="http://51.222.27.42/iconox/hbo2.png" group-title="CINE-PREMIUM",HBO 2
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46626
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30970
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/Hk3vt14x/hbo2.png" group-title="CINE-PREMIUM",HBO 2 HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25592
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30968
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2-US" tvg-logo="https://i.postimg.cc/Hk3vt14x/hbo2.png" group-title="USA",HBO 2-US
 http://200.229.147.142:8000/play/a00r/index.m3u8  
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Family HD" tvg-logo="http://51.222.27.42/iconox/hbofamily.png" group-title="CINE-PREMIUM",HBO Family HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46620
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/197110
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY-US" tvg-logo="http://51.222.27.42/iconox/usa/hbo_family.png" group-title="USA",HBO FAMILY-US
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60738
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO HD" tvg-logo="http://51.222.27.42/iconox/hbo.png" group-title="CINE-PREMIUM",HBO HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25591
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/287608
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Mundi" tvg-logo="http://51.222.27.42/iconox/HBOmundo.png" group-title="CINE-PREMIUM",HBO Mundi
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46621
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30971
 #EXTINF:-1 tvg-id="I927.68301.schedulesdirect.org" tvg-name="HBO pop" tvg-logo="http://51.222.27.42/iconox/HBOpop.png" group-title="CINE-PREMIUM",HBO pop
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25597
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Pop HD" tvg-logo="http://51.222.27.42/iconox/HBOpop.png" group-title="CINE-PREMIUM",HBO Pop HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46622
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30972
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Signature" tvg-logo="http://51.222.27.42/iconox/hbosignature.png" group-title="CINE-PREMIUM",HBO Signature
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46628
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Signature HD" tvg-logo="http://51.222.27.42/iconox/hbosignature.png" group-title="CINE-PREMIUM",HBO Signature HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25596
-#EXTINF:-1 tvg-id="I613.29017.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://i.postimg.cc/q7JVkGQt/Universal-Channel.png" group-title="CINE-PREMIUM",Universal Channel
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50135
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Cinema" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCINEMA--.png" group-title="CINE-PREMIUM",Universal Cinema
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62959
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Comedy" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCOMEDY--.png" group-title="CINE-PREMIUM",Universal Comedy
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62955
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Crime" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCRIME--.png" group-title="CINE-PREMIUM",Universal Crime
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62956
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Premiere Este" tvg-logo="http://51.222.27.42/iconox/UNIVERSALPREMIEREE--.png" group-title="CINE-PREMIUM",Universal Premiere Este
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62957
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Reality" tvg-logo="http://51.222.27.42/iconox/UNIVERSALREALITY--.png" group-title="CINE-PREMIUM",Universal Reality
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/62958
-#EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="Universal Tv HD" tvg-logo="http://51.222.27.42/iconox/UniversalChannel.png" group-title="CINE-PREMIUM",Universal Tv HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25555
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30975
+
 
 #EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount Channel FHD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46619
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/31261
 #EXTINF:0 type="stream" channelId="177", Star Channel
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25499
+http://190.14.10.19:16000/play/a070/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TNT" tvg-logo="http://51.222.27.42/iconox/tnt.png" group-title="CINE-PREMIUM",TNT
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25563
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TNT HD" tvg-logo="http://51.222.27.42/iconox/tnt.png" group-title="CINE-PREMIUM",TNT HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38876
+http://190.14.10.19:16000/play/a02s/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Tnt Series" tvg-logo="http://51.222.27.42/iconox/tntseries.png" group-title="CINE-PREMIUM",Tnt Series
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50056
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/0ypP5js4/tntseries.png" group-title="CINE-PREMIUM",TNT Series HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25564
+http://190.14.10.19:16000/play/a07x/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Sony HD" tvg-logo="http://51.222.27.42/iconox/sony.png" group-title="CINE-PREMIUM",Sony HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38877
+http://190.14.10.19:16000/play/a06n/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="http://51.222.27.42/iconox/SONYMOVIES--.png" group-title="CINE-PREMIUM",Sony Movies
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/187622
+http://45.186.105.185:8000/play/a04g/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Space" tvg-logo="http://51.222.27.42/iconox/space.png" group-title="CINE-PREMIUM",Space
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50133
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Space HD" tvg-logo="http://51.222.27.42/iconox/space.png" group-title="CINE-PREMIUM",Space HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25582
+http://45.186.105.185:8000/play/a0iz/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png", BitMe
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25556
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/75618
 
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Animal Planet" tvg-logo="http://51.222.27.42/iconox/animalplanet.png" group-title="CULTURA",Animal Planet
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25614
+http://45.186.105.185:8000/play/a07u/index.m3u8?hls
 #EXTINF:-1 tvg-id="I881.96307.schedulesdirect.org" tvg-name="Discovery Channel" tvg-logo="http://51.222.27.42/iconox/discoverychannel.png" group-title="CULTURA",Discovery Channel
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25605
+http://45.186.105.185:8000/play/a0kn/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="4586", Discovery Family
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/60873
+http://200.115.120.1:8000/play/ca053/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2620", Discovery Home & Heath
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38884
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/287616
 #EXTINF:0 type="stream" channelId="59", Discovery investigation
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38882
+http://190.14.10.19:16000/play/a082/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="58", Discovery Ciencie
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38883
+http://190.14.10.19:16000/play/a03b/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2558", Discovery Theather
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25610
+http://45.186.105.185:8000/play/a0hv/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2840", Discovery Turbo HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38886
+http://190.14.10.19:16000/play/a071/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2890", Discovery Wolrd
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/50084
+http://45.186.105.185:8000/play/a0kp/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="1418", HGTV HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/370017
+http://200.115.120.1:8000/play/ca61/index.m3u8?hls
 #EXTINF:-1 tvg-id="I269.57708.zap2it.com" tvg-name="History HD" tvg-logo="http://51.222.27.42/iconox/history.png" group-title="CULTURA",History HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/38887
+http://190.14.10.19:16000/play/a02z/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="1456", History 2 HD
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25613
+http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/287607
 #EXTINF:0 type="stream" channelId="1040", TLC HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
+http://190.14.10.19:16000/play/a06g/index.m3u8?hls
 
 
 
