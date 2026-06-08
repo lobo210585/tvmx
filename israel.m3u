@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/37670
+http://goldtv.lat:80//live/Isabel1956/a6cfzqbKbLs2/362409.ts?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO
 https://live-global-cdn-v02.sooplive.com/live-stmc-22/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.64nPeKhYoePSGrZIPAOlGYSkrICXPS7k9VuOu7RzMKwhB3c0N64APEsG-kgwgD85lCGu5HJMXX3KNePafbPar6LPdhuaEg0-ZD16hBpyDB7m-EFt_bPt7OjXsrDxjj0T9iLtNclj-gnL8k9hyuws3zJt9El3CzB2qxjJhx5kDbxrzJ_-yT8R_3_XqqXhW-mx
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="http://51.222.27.42/iconox/lasestrellas.png" group-title="LOCALES MX",Las Estrellas
@@ -12,7 +12,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109054
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://45.189.62.33:8002/play/a0ll/index.m3u8
+http://goldtv.lat:80//live/Isabel1956/a6cfzqbKbLs2/362414.ts?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
