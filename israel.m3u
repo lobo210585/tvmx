@@ -16,7 +16,7 @@ http://goldtv.lat:80//live/Isabel1956/a6cfzqbKbLs2/362414.ts?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-http://45.186.105.185:8000/play/a05q/index.m3u8?hls
+http://goldtv.lat:80//live/Casa1202T/casa12198/362407.ts?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Nousiptv", MX - ONCE TV NIÑOS Y NIÑAS
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/24187
 #EXTINF:0 type="stream" channelId="-1", Deportes
