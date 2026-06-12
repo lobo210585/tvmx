@@ -12,7 +12,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109054
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://209.87.175.160:5001/play/a0ll/index.m3u8?hls
+http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
@@ -209,7 +209,7 @@ http://45.186.105.185:8000/play/a0kp/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="1418", HGTV HD
 http://200.115.120.1:8000/play/ca61/index.m3u8?hls
 #EXTINF:-1 tvg-id="I269.57708.zap2it.com" tvg-name="History HD" tvg-logo="http://51.222.27.42/iconox/history.png" group-title="CULTURA",History HD
-http://190.14.10.19:16000/play/a02z/index.m3u8?hls
+http://181.78.21.46:8009/play/a036
 #EXTINF:0 type="stream" channelId="1456", History 2 HD
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/287607
 #EXTINF:0 type="stream" channelId="1040", TLC HD
