@@ -16,7 +16,7 @@ http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120221.ts
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
-http://38.49.128.38:8000/play/a0la/index.m3u8
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120210.ts
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Nousiptv", MX - ONCE TV NIÑOS Y NIÑAS
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/24187
 #EXTINF:0 type="stream" channelId="-1", Deportes
