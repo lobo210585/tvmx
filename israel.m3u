@@ -20,13 +20,13 @@ http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120210.ts
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Nousiptv", MX - ONCE TV NIÑOS Y NIÑAS
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/24187
 #EXTINF:0 type="stream" channelId="-1", Deportes
-http://45.186.105.185:8000/play/a07y/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/455076.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
 http://45.172.92.111:8000/play/a00e/index.m3u8u?hls
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/24187
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/468505.ts
 #EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
@@ -36,7 +36,7 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wm
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
 http://200.115.120.1:8000/play/ca030/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://200.115.120.1:8000/play/ca030/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120109.ts
 
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (1)
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
