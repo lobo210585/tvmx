@@ -101,7 +101,7 @@ http://181.205.130.194:4000/play/a06b?PlayListM3UCL
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
 http://200.59.188.3:8000/play/a14w
 #EXTINF:0 type="stream" channelId="-1" name="MEX: TOONCAST VIP SD" group="MX" tvg-country="mx",  MEX: TOONCAST VIP SD
-http://magiz.net:8080/live/juarez/12345678/217.ts
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120275.ts
 #EXTINF:0 type="stream" channelId="2505" group="unsorted", DISCOVERY KIDS
 http://190.14.10.19:16000/play/a03l/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Extrema TV KIDS
