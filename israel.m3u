@@ -146,69 +146,59 @@ http://200.115.120.1:8000/play/ca142/index.m3u8?hls
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Cinema" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCINEMA--.png" group-title="CINE-PREMIUM",Universal Cinema
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/191230
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Comedy" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCOMEDY--.png" group-title="CINE-PREMIUM",Universal Comedy
-http://45.186.105.185:8000/play/a0i5/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/383534.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Crime" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCRIME--.png" group-title="CINE-PREMIUM",Universal Crime
-http://45.186.105.185:8000/play/a0i4/index.m3u8?hls
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Premiere Este" tvg-logo="http://51.222.27.42/iconox/UNIVERSALPREMIEREE--.png" group-title="CINE-PREMIUM",Universal Premiere Este
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/287615
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/383538.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Reality" tvg-logo="http://51.222.27.42/iconox/UNIVERSALREALITY--.png" group-title="CINE-PREMIUM",Universal Reality
-http://45.186.105.185:8000/play/a0i3/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/383542.ts
 #EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="Universal Tv HD" tvg-logo="http://51.222.27.42/iconox/UniversalChannel.png" group-title="CINE-PREMIUM",Universal Tv HD
-http://45.186.105.185:8000/play/a0ih/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/383545.ts
 #EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner
-http://200.115.120.1:8000/play/ca072/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120078.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", AE Mundo
-http://190.14.10.19:16000/play/a09k/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120052.ts
 #EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC HD
-http://200.115.120.1:8000/play/ca036/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120090.ts
 
 
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden" tvg-logo="http://51.222.27.42/iconox/golden.png" group-title="CINE-PREMIUM",Golden
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/25510
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120092.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Edge" tvg-logo="http://51.222.27.42/iconox/GoldenEdge.png" group-title="CINE-PREMIUM",Golden Edge
-http://200.115.120.1:8000/play/ca037/index.m3u8?hls
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Edge HD" tvg-logo="http://51.222.27.42/iconox/GoldenEdge.png" group-title="CINE-PREMIUM",Golden Edge HD
-http://200.115.120.1:8000/play/ca037/index.m3u8?hls
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden HD" tvg-logo="http://51.222.27.42/iconox/golden.png" group-title="CINE-PREMIUM",Golden HD
-http://190.14.10.19:16000/play/a08q/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120094.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden Premier HD" tvg-logo="http://51.222.27.42/iconox/goldenpremier.png" group-title="CINE-PREMIUM",Golden Premier HD
-http://200.115.120.1:8000/play/ca133/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120096.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",CINE | GOLDEN PLUS HD
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120100.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO" tvg-logo="http://51.222.27.42/iconox/hbo.png" group-title="CINE-PREMIUM",HBO
-http://cplay.club:2086/JorgeGomez/AFWtwWcAZv/46625
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120066.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="http://51.222.27.42/iconox/hbo2.png" group-title="CINE-PREMIUM",HBO 2
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30970
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/Hk3vt14x/hbo2.png" group-title="CINE-PREMIUM",HBO 2 HD
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30968
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2-US" tvg-logo="https://i.postimg.cc/Hk3vt14x/hbo2.png" group-title="USA",HBO 2-US
-http://200.229.147.142:8000/play/a00r/index.m3u8  
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120086.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Family HD" tvg-logo="http://51.222.27.42/iconox/hbofamily.png" group-title="CINE-PREMIUM",HBO Family HD
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/197110
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY-US" tvg-logo="http://51.222.27.42/iconox/usa/hbo_family.png" group-title="USA",HBO FAMILY-US
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/287608
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120064.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Mundi" tvg-logo="http://51.222.27.42/iconox/HBOmundo.png" group-title="CINE-PREMIUM",HBO Mundi
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30971
 #EXTINF:-1 tvg-id="I927.68301.schedulesdirect.org" tvg-name="HBO pop" tvg-logo="http://51.222.27.42/iconox/HBOpop.png" group-title="CINE-PREMIUM",HBO pop
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30972
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120068.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO Signature" tvg-logo="http://51.222.27.42/iconox/hbosignature.png" group-title="CINE-PREMIUM",HBO Signature
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/30975
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120068.ts
 
 
 #EXTINF:0 type="stream" channelId="-1" name="Paramount Channel FHD" group="PREMIUM LATINO  HD", Paramount Channel FHD
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/31261
-#EXTINF:0 type="stream" channelId="177", Star Channel
-http://190.14.10.19:16000/play/a070/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120098.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHdTGlAtih1EIvRzTwiNh45eyEUX9mBa9wsNpEJYkVA&s=10" group-title="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️",CINE | STAR CHANNEL  HD
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120056.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TNT" tvg-logo="http://51.222.27.42/iconox/tnt.png" group-title="CINE-PREMIUM",TNT
-http://190.14.10.19:16000/play/a02s/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120070.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Tnt Series" tvg-logo="http://51.222.27.42/iconox/tntseries.png" group-title="CINE-PREMIUM",Tnt Series
-http://190.14.10.19:16000/play/a07x/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120072.ts
 
 
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Sony HD" tvg-logo="http://51.222.27.42/iconox/sony.png" group-title="CINE-PREMIUM",Sony HD
-http://190.14.10.19:16000/play/a06n/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120080.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="http://51.222.27.42/iconox/SONYMOVIES--.png" group-title="CINE-PREMIUM",Sony Movies
-http://45.186.105.185:8000/play/a04g/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/455219.ts
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Space" tvg-logo="http://51.222.27.42/iconox/space.png" group-title="CINE-PREMIUM",Space
-http://45.186.105.185:8000/play/a0iz/index.m3u8?hls
+http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120088.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png", BitMe
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/75618
 
