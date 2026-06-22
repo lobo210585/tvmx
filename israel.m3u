@@ -66,7 +66,7 @@ http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/124797.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZN | DAZN LA LIGA 1 SD" tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM",DZN | DAZN LA LIGA 1 SD
 http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/124778.ts
 #EXTINF:-1 tvg-id="" tvg-name="MX | TUDN OP3" tvg-logo="https://i.postimg.cc/kM6YJRyK/file-00000000be84722fb4b36bc3f87ecf72.png" group-title="▶️ MEXICO ",MX | TUDN OP3
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120261.ts
+http://201.151.118.136:8000/play/a00g/index.m3u8
 
 
 
