@@ -13,6 +13,8 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109054
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 http://38.194.226.190:8000/play/a018/index.m3u8?hls
+#EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
+http://38.210.105.10:8000/play/a04u/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://38.194.226.190:8000/play/a02e/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
@@ -30,8 +32,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE9e01xJWXTdh1ab1CM_lG5vCnShIVwJIux19WrLZOjZw/m3u8
 #EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://38.210.105.10:8000/play/a04u/index.m3u8?hls
+
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", mx_nuestro_cine
 https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgNTowMzozNiBBTSZoYXNoX3ZhbHVlPUlrM0ttZGtON2hNMkRPVHM5aTE5cGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9&DVR
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
