@@ -38,6 +38,12 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wm
 http://200.115.120.1:8000/play/ca030/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://181.224.200.5:2277/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKoOZ0x7yPCchafD54zei9drwQQLIRhIyew&s",24/7 CANTINFLAS
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE9eBluI4MAZdhqcFAFM3AYhWv-jx7Ny7kcpKpGuGO5m2/m3u8
+#EXTINF:-1 group-title="24/7 -2" tvg-logo="https://vanguardia.com.mx/sites/default/files/styles/paragraph_image_large_desktop_1x/public/cantinflas-324324_0.jpg",24/7 | CANTINFLAS (ANIMADA) ⭐️
+http://livetv-plus.com:8880/live/FamDuarte/tsVh57rFZg/107892.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://i.pinimg.com/originals/6a/34/3c/6a343ceb7470862f20c9f5d8835b372d.png",24/7 CANTINFLAS
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE3KsrXqEyMwl2wn5-FsH960hK_Iz36YLCpP1IsnZm2J_/m3u8
 
 http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="38.194.226.190",NBA
@@ -128,24 +134,22 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I613.29017.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://i.postimg.cc/q7JVkGQt/Universal-Channel.png" group-title="CINE-PREMIUM",Universal Channel
-http://200.115.120.1:8000/play/ca142/index.m3u8?hls
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Cinema" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCINEMA--.png" group-title="CINE-PREMIUM",Universal Cinema
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/191230
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Comedy" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCOMEDY--.png" group-title="CINE-PREMIUM",Universal Comedy
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/383534.ts
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Crime" tvg-logo="http://51.222.27.42/iconox/UNIVERSALCRIME--.png" group-title="CINE-PREMIUM",Universal Crime
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/383538.ts
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Universal Reality" tvg-logo="http://51.222.27.42/iconox/UNIVERSALREALITY--.png" group-title="CINE-PREMIUM",Universal Reality
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/383542.ts
-#EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="Universal Tv HD" tvg-logo="http://51.222.27.42/iconox/UniversalChannel.png" group-title="CINE-PREMIUM",Universal Tv HD
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/383545.ts
+#EXTINF:-1 group-title="38.194.226.190",UNIVERSAL REALITY
+http://38.194.226.190:8000/play/a004/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",UNIVERSAL CRIME
+http://38.194.226.190:8000/play/a005/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",UNIVERSAL COMEDY
+http://38.194.226.190:8000/play/a006/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",UNIVERSAL CINEMA
+http://38.194.226.190:8000/play/a007/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",UNIVERSAL PREMIER
+http://38.194.226.190:8000/play/a008/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120078.ts
+http://38.199.4.105:9999/play/a0mn/index.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", AE Mundo
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120052.ts
+http://38.194.226.190:8000/play/a01c/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2501" group="unsorted", AMC HD
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120091.ts
+http://38.226.49.253:8000/play/a066/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="Golden" tvg-logo="http://51.222.27.42/iconox/golden.png" group-title="CINE-PREMIUM",Golden
