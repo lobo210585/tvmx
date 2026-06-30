@@ -11,6 +11,8 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109054
+#EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
+http://38.194.226.190:8000/play/a018/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://38.194.226.190:8000/play/a02e/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
@@ -25,8 +27,7 @@ http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/455076.ts
 http://45.172.92.111:8000/play/a00e/index.m3u8u?hls
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", ONCE
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/468505.ts
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE9e01xJWXTdh1ab1CM_lG5vCnShIVwJIux19WrLZOjZw/m3u8
 #EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
@@ -36,37 +37,21 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wm
 #EXTINF:0 type="stream" channelId="-1", DEPELICULAS
 http://200.115.120.1:8000/play/ca030/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/120109.ts
+http://181.224.200.5:2277/play/a0d1/index.m3u8
 
 http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (1)
-http://190.108.93.180:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png",24/7 Cantinflas (2)
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/797174
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/192173.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 2
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/269793.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 3
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/269794.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 4
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/269795.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 5
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/269796.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 6
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/269797.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 7
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/269798.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZN | M. DAZN LA LIGA 2 HD" tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM",DZN | M. DAZN LA LIGA 2 HD
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/124781.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZN | DAZN MOVISTAR 4 HD" tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM",DZN | DAZN MOVISTAR 4 HD
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/124792.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZN | DAZN MOVISTAR 3 HD" tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM",DZN | DAZN MOVISTAR 3 HD
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/124797.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZN | DAZN LA LIGA 1 SD" tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM",DZN | DAZN LA LIGA 1 SD
-http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/124778.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX | TUDN OP3" tvg-logo="https://i.postimg.cc/kM6YJRyK/file-00000000be84722fb4b36bc3f87ecf72.png" group-title="▶️ MEXICO ",MX | TUDN OP3
-http://201.151.118.136:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="38.194.226.190",NBA
+http://38.194.226.190:8000/play/a001/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",ESPN 3
+http://38.194.226.190:8000/play/a002/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",FOX SPORT PREMIUM
+http://38.194.226.190:8000/play/a003/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",FOX SPORT
+http://38.194.226.190:8000/play/a00h/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",FOX SPORT 2
+http://38.194.226.190:8000/play/a011/index.m3u8?hls
+#EXTINF:-1 group-title="38.194.226.190",FOX ONE
+http://38.194.226.190:8000/play/a00o/index.m3u8?hls
 
 
 
@@ -74,8 +59,9 @@ http://201.151.118.136:8000/play/a00g/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="2690" group="unsorted", ADN 40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+http://38.194.226.190:8000/play/a03g/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/31076
+http://38.194.226.190:8000/play/a00v/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="266" group="unsorted", Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MULTIMEDIOS MTY
@@ -91,7 +77,7 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:0 type="stream" channelId="228" group="unsorted", AZ MUNDO
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" channelId="3727" group="unsorted", AZ CINEMA
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109787
+http://38.194.226.190:8000/play/a01g/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Di+TV
 https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-95aa6fb6-67ee-45c5-b42c-07ca4d4d6096/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", TELEVISA PUEBLA
@@ -112,15 +98,15 @@ https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
-http://190.117.20.37:8000/play/a07q/index.m3u8
+http://38.194.226.190:8000/play/a01u/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" name="MEX: NICK JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: NICK JUNIOR VIP SD
 http://181.78.17.52:8000/play/a0q0/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="INF• DREAMWORKS (HD) »1«" group="→ INFANTILES ←" logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png", INF• DREAMWORKS (HD) »1«
 http://38.191.80.20:8023/play/a01y
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY CHANNEL VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY CHANNEL VIP SD
-http://181.205.130.194:4000/play/a07c?PlayListM3UCL
+http://38.194.226.190:8000/play/a02b/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY JUNIOR VIP SD
-http://38.199.4.105:9999/play/a0af/index.m3u8?PlaylistM3UCL
+http://38.194.226.190:8000/play/a02a/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="41" group="unsorted", NICK
 http://181.205.130.194:4000/play/a06b?PlayListM3UCL
 #EXTINF:0 type="stream" channelId="1305" group="unsorted", CARTOONITO
