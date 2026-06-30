@@ -114,7 +114,7 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunkli
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Nick Junior HD
 http://190.117.20.37:8000/play/a07q/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="MEX: NICK JUNIOR VIP SD" group="MX" tvg-country="mx",  MEX: NICK JUNIOR VIP SD
-http://200.59.188.3:8000/play/a044
+http://181.78.17.52:8000/play/a0q0/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="INF• DREAMWORKS (HD) »1«" group="→ INFANTILES ←" logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png", INF• DREAMWORKS (HD) »1«
 http://38.191.80.20:8023/play/a01y
 #EXTINF:0 type="stream" channelId="-1" name="MEX: DISNEY CHANNEL VIP SD" group="MX" tvg-country="mx",  MEX: DISNEY CHANNEL VIP SD
