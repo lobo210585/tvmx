@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", MEXICO AZTECA UNO SD
-http://servpremium.net:8880/MEqnWtvb6q6m/T2jFBz7mg7Us/534768
+http://myultratv.com:8080/966831715tv/92thjy4apt/24787
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Cultural HuauchinangO
 https://live-global-cdn-v02.sooplive.com/live-stm-05/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.4q_2kOdH0qd_KzVOS33McT8-B79FVya-p43Hq2r5jeh9_kk9ssnjCCaaNYow3vdP_zYPgIShq4sGlka2HYw_J_5PD85j-nD8pKwggWNePoQFZh-OENenYoGFu9vx2wCHfeTuCe8x7qJ9FiY3Gm7xqL15ebSyXoyI1qZ2MYhw3HzTm04SCc9wYJPjJukeUezc
 
@@ -11,11 +11,11 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
-http://galileatv.top:8080/C5TuyNE8q4qL/4GPbC5vhFh7K/109054
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/534775.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
 http://181.118.150.27:8000/play/a00d/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
-http://stejarpro.sytes.net:8080/teamcontrol/SZarYRKckT/397107
+http://zonacero.lat:8080/dFVTb05yK1ZLZW5keTdGUG11SUhsdkRsUXJNMWh4aGxjQTFSV3BBaWVWVT0
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="unsorted", Azteca 7
@@ -27,7 +27,7 @@ http://flexlive.lat:8080//live/JhonSandoval2/H84TACX39/455076.ts
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", NU9VE
 http://miotv.cc:8080/cS9lbXRjYUVucFdlL0FtYVM4eWhyYmFxV0plU1VBMjh5U0gwUGN2aWxmaz0
 #EXTINF:0 type="stream" channelId="-1" group="Servidor Varios", Once México (1080p)
-http://stejarpro.sytes.net:8080/teamcontrol/SZarYRKckT/397111
+http://cloudtvserviceplatinum.site/live/AliceNava2023/umpN5QQdfg/755517.ts
 #EXTINF:0 type="stream" channelId="2698" group="unsorted", canal 22
 https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8
 
@@ -37,6 +37,15 @@ https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8?wm
 http://38.134.250.110:8000/play/a01e/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", De Pelicula Plus FHD LAM
 http://181.224.200.5:2277/play/a0d1/index.m3u8
+
+#EXTINF:-1 group-title="🎬 | CINE PREMIUM HD - SD" tvg-logo="https://i.ibb.co/bsvZT3B/DPELICULA-HD.png",CINE | DE PELICULA + ᴴᴰ
+http://zonacero.lat:8080/M3FqWlBNdVY1OG8zeTlhR3IwUUpJR2VPdnlyb1dTVnM4eHF1UGgreitabz0
+#EXTINF:-1 group-title="🎬 | CINE PREMIUM HD - SD" tvg-logo="https://i.ibb.co/xq4ZSYQ/DPELICULACLASSI.png",CINE | DE PELICULA CLASSIC
+http://zonacero.lat:8080/b05WbWNqSzkrNGIyYUlEMGVQVHpsUVFicGdiaWVPM3hRMDNvY1VocVorWT0
+#EXTINF:-1 group-title="🎬 | CINE PREMIUM HD - SD" tvg-logo="https://i.ibb.co/v4nxB4J/DPELICULA.png",CINE | DE PELICULA
+http://zonacero.lat:8080/SkovWVY4OTJhZjMzRUtXMWdmcDdkMjIwY1VUc2RhMzJLWUZSVHg5ZkN6TT0
+#EXTINF:-1 group-title="🎬 | CINE PREMIUM HD - SD" tvg-logo="https://i.ibb.co/CtGnBZb/DPELICULASD.png",CINE | De Pelicula plus
+http://zonacero.lat:8080/emNEYVZIV2ZFcGJwaFpXVmFVTHRRcFFSaXhNUmJqSSsrTVRsVi81OWJ3WT0
 #EXTINF:-1 group-title="24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKoOZ0x7yPCchafD54zei9drwQQLIRhIyew&s",24/7 CANTINFLAS
 http://myultratv.com:8080/966831715tv/92thjy4apt/281213
 #EXTINF:-1 group-title="24/7 -2" tvg-logo="https://vanguardia.com.mx/sites/default/files/styles/paragraph_image_large_desktop_1x/public/cantinflas-324324_0.jpg",24/7 | CANTINFLAS (ANIMADA) ⭐️
@@ -46,7 +55,7 @@ http://servpremium.net:8880/MEqnWtvb6q6m/T2jFBz7mg7Us/526468
 
 
 #EXTINF:-1 group-title="181.118.153.15",UNIVISION
-http://181.118.153.15:8000/play/rr59/index.m3u8?hls
+http://181.118.150.27:8000/play/a00z/index.m3u8?hls
 #EXTINF:-1 group-title="181.176.155.7",Telemundo
 http://38.194.226.190:8000/play/a012/index.m3u8?hls
 #EXTINF:-1 group-title="LiveTV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es",PR | TELEMUNDO
