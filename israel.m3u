@@ -13,7 +13,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?ou
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
 http://neorpahe.top:8080/6441774713632/c52a2cb04a20/18553
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
-http://181.118.150.27:8000/play/a00d/index.m3u8?hls
+http://p2premium.club:8080/live/RonaldSoriano/R1chardM1L3/317517.m3u
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
 http://zonacero.lat:8080/dFVTb05yK1ZLZW5keTdGUG11SUhsdkRsUXJNMWh4aGxjQTFSV3BBaWVWVT0
 #EXTINF:0 type="stream" channelId="-1", Canal 6 CIUDAD DE MÉXICO
