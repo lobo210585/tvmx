@@ -11,7 +11,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:0 type="stream" channelId="265" group="unsorted", Mvs TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8?output=.m3u
 #EXTINF:0 type="stream" channelId="328" group="unsorted", Foro Tv
-http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/534775.m3u8
+http://neorpahe.top:8080/6441774713632/c52a2cb04a20/18553
 #EXTINF:0 type="stream" channelId="1961" group="unsorted", Distrito Comedia
 http://181.118.150.27:8000/play/a00d/index.m3u8?hls
 #EXTINF:0 type="stream" channelId="1955" group="unsorted", Canal 5 (Mx)
